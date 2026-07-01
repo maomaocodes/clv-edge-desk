@@ -20,9 +20,9 @@
 - #7 MLB Total - Over 11 (0.3636 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Colorado Rockies, 20:40)
 - #8 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Oakland Athletics, 21:40)
 - #9 Soccer Prop - Folarin Balogun Anytime Goalscorer (0.361 expected positive-CLV probability, clv_shadow_watch, USA vs Bosnia & Herzegovina, TBD)
-- #10 Golf Prop - Ryo Hisatsune to win +4300 (0.361 expected positive-CLV probability, clv_shadow_watch, Ryo Hisatsune, TBD)
-- #11 Golf Prop - Davis Thompson to win +5100 (0.361 expected positive-CLV probability, clv_shadow_watch, Davis Thompson, TBD)
-- #12 Golf Prop - Tom Kim to win +3500 (0.361 expected positive-CLV probability, clv_shadow_watch, Tom Kim, TBD)
+- #10 Golf Prop - Davis Thompson to win +5100 (0.361 expected positive-CLV probability, clv_shadow_watch, Davis Thompson, TBD)
+- #11 Golf Prop - Tom Kim to win +3500 (0.361 expected positive-CLV probability, clv_shadow_watch, Tom Kim, TBD)
+- #12 Golf Prop - Keith Mitchell to win +1900 (0.361 expected positive-CLV probability, clv_shadow_watch, Keith Mitchell, TBD)
 
 ## Rules Of Use
 
