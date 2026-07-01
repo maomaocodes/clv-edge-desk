@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "high_score_clv_unconfirmed": 1,
-    "pass_or_monitor": 63,
-    "stale_started": 29
+    "pass_or_monitor": 66,
+    "stale_started": 26
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1782907239.560912,
-  "consensus_mtime_ns": 1782907239560911914,
+  "consensus_mtime": 1782908283.1134737,
+  "consensus_mtime_ns": 1782908283113473604,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 93,
-  "dashboard_version": "1782907239560911914:2026-07-01T08:00:43",
-  "generated_at": "2026-07-01T08:00:43",
+  "dashboard_version": "1782908283113473604:2026-07-01T08:18:06",
+  "generated_at": "2026-07-01T08:18:06",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -70,7 +70,7 @@
       "edge_vs_threshold": -0.0098,
       "entry_odds": -119,
       "entry_odds_source": "explicit_decimal",
-      "event_time_et": "08:15",
+      "event_time_et": "08:30",
       "expected_positive_clv_prob": 0.3502,
       "game": "Botic Van De Zandschulp vs Roman Safiullin",
       "handicappers": "LeTennisGoat",
@@ -87,7 +87,7 @@
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3126,
       "rank": 2,
-      "row_key": "Tennis|Botic Van De Zandschulp vs Roman Safiullin|Parlay|VDZ Over 3.5 Sets / Zheng ML|08:15|LeTennisGoat",
+      "row_key": "Tennis|Botic Van De Zandschulp vs Roman Safiullin|Parlay|VDZ Over 3.5 Sets / Zheng ML|08:30|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -145,7 +145,7 @@
       "matched_feature_groups": 4,
       "matched_training_rows": 235,
       "model_score_band": "score_under_6",
-      "notes": "FIFA World Cup 2026; Odds: +100; World Cup; Opposed by: BeezoWins",
+      "notes": "World Cup; FIFA World Cup 2026; Odds: +100; Opposed by: BeezoWins",
       "opposing_count": "1",
       "pick": "Over 2.5",
       "primary_capper": "Mike's Research Bot 1.0",
