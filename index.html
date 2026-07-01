@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Expected CLV Consensus Dashboard</title>
+  <style>
+    :root {
+      --ink: #111b18;
+      --muted: #68756f;
+      --line: rgba(19, 39, 34, 0.14);
+      --line-strong: rgba(19, 39, 34, 0.28);
+      --paper: #edf2ed;
+      --paper-deep: #d9e4de;
+      --panel: rgba(250, 253, 248, 0.88);
+      --panel-solid: #fbfdf7;
+      --coal: #101816;
+      --good: #008f5a;
+      --good-soft: #dcf7e9;
+      --watch: #b87900;
+      --watch-soft: #fff1c7;
+      --warn: #b53b32;
+      --warn-soft: #ffe3df;
+      --accent: #0a5f73;
+      --blueprint: #dceceb;
+      --shadow: 0 20px 60px rgba(8, 28, 24, 0.16);
+      --radius-xl: 28px;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(0, 143, 90, 0.16), transparent 30vw),
+        radial-gradient(circle at 86% 12%, rgba(184, 121, 0, 0.13), transparent 24vw),
+        linear-gradient(135deg, rgba(8, 28, 24, 0.045) 25%, transparent 25%) 0 0 / 18px 18px,
+        linear-gradient(180deg, #f6faf4 0, var(--paper) 58%, var(--paper-deep) 100%);
+      font-family: "Avenir Next", "Gill Sans", "Trebuchet MS", sans-serif;
+      min-height: 100vh;
+    }
+    a { color: inherit; }
+    .page-shell { padding: 26px; }
+    header {
+      position: relative;
+      overflow: hidden;
+      min-height: 230px;
+      padding: 26px;
+      color: #effaf2;
+      background:
+        linear-gradient(115deg, rgba(9, 19, 17, 0.97), rgba(16, 45, 39, 0.95) 58%, rgba(18, 79, 71, 0.90)),
+        radial-gradient(circle at 82% 8%, rgba(0, 224, 139, 0.20), transparent 30%);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow);
+    }
+    header::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(255,255,255,0.045) 1px, transparent 1px) 0 0 / 44px 44px,
+        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px) 0 0 / 44px 44px;
+      mask-image: linear-gradient(90deg, black, transparent 88%);
+      pointer-events: none;
+    }
+    .hero-grid {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: minmax(0, 1.4fr) minmax(300px, 0.7fr);
+      gap: 28px;
+      align-items: stretch;
+    }
+    .eyebrow {
+      display: inline-flex;
+      gap: 9px;
+      align-items: center;
+      margin-bottom: 18px;
+      color: #d8e9df;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+    .eyebrow::before {
+      content: "";
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: #68d391;
+      box-shadow: 0 0 18px rgba(104, 211, 145, 0.8);
+    }
+    header h1 {
+      max-width: 900px;
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino", Georgia, serif;
+      font-size: clamp(34px, 4.8vw, 66px);
+      line-height: 1.1;
+      letter-spacing: -0.05em;
+    }
+    header p {
+      max-width: 780px;
+      margin: 20px 0 0;
+      color: rgba(239, 250, 242, 0.72);
+      font-size: 16px;
+      line-height: 1.55;
+    }
+    .decision-panel {
+      display: flex;
+      min-height: 100%;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 22px;
+      padding: 22px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 24px;
+      background: rgba(255, 250, 240, 0.10);
+      backdrop-filter: blur(18px);
+    }
+    .decision-panel span {
+      color: rgba(239, 250, 242, 0.68);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+    .decision-panel strong {
+      display: block;
+      margin-top: 8px;
+      font-size: clamp(32px, 5vw, 58px);
+      line-height: 0.95;
+      letter-spacing: -0.05em;
+      text-transform: uppercase;
+    }
+    .decision-panel.pass strong { color: #f5c452; }
+    .decision-panel.watch strong { color: #5ef2a6; }
+    .decision-panel p {
+      margin: 14px 0 0;
+      color: rgba(239, 250, 242, 0.78);
+      font-size: 14px;
+    }
+    .live-status {
+      display: inline-flex;
+      width: fit-content;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 999px;
+      padding: 8px 11px;
+      color: #dff4e8;
+      background: rgba(6, 39, 29, 0.35);
+      font-size: 12px;
+    }
+    .live-status::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: #79eba7;
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    main {
+      padding: 26px 0 10px;
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(160px, 1fr));
+      gap: 14px;
+      margin: 18px 0 24px;
+    }
+    .metric-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      padding: 18px;
+      box-shadow: 0 12px 34px rgba(45, 43, 32, 0.08);
+    }
+    .metric-card span { display: block; color: var(--muted); font-size: 11px; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; }
+    .metric-card strong { display: block; margin-top: 8px; font-size: 34px; line-height: 1; letter-spacing: -0.04em; }
+    .metric-card small { display: block; min-height: 32px; margin-top: 10px; color: var(--muted); line-height: 1.35; }
+    .lane-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+    .decision-lane {
+      min-height: 250px;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: rgba(255, 250, 240, 0.72);
+      box-shadow: 0 14px 34px rgba(45, 43, 32, 0.08);
+    }
+    .lane-heading {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 12px;
+    }
+    .lane-heading span {
+      color: var(--muted);
+      font-size: 10px;
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .lane-heading strong {
+      margin-right: auto;
+      font-family: "Iowan Old Style", "Palatino", Georgia, serif;
+      font-size: 28px;
+      letter-spacing: -0.04em;
+    }
+    .lane-heading small { color: var(--muted); white-space: nowrap; }
+    .decision-lane.act { border-color: rgba(11, 107, 75, 0.28); }
+    .decision-lane.watch { border-color: rgba(154, 91, 0, 0.30); }
+    .decision-lane.pass { border-color: rgba(31, 38, 28, 0.14); }
+    .lane-card, .lane-empty {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 13px;
+      background: rgba(255, 255, 255, 0.54);
+    }
+    .lane-card + .lane-card, .lane-empty + .lane-card { margin-top: 10px; }
+    .lane-card span {
+      color: var(--muted);
+      font-size: 10px;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .lane-card strong {
+      display: block;
+      margin-top: 7px;
+      line-height: 1.18;
+    }
+    .lane-card small {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+    }
+    .lane-card div {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-top: 10px;
+    }
+    .lane-card b { font-size: 18px; }
+    .lane-card em {
+      border-radius: 999px;
+      padding: 3px 7px;
+      color: var(--watch);
+      background: var(--watch-soft);
+      font-style: normal;
+      font-size: 11px;
+    }
+    .lane-empty {
+      color: var(--muted);
+      line-height: 1.45;
+    }
+    .exec {
+      display: grid;
+      grid-template-columns: minmax(290px, 430px) 1fr;
+      gap: 18px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: 0 18px 45px rgba(45, 43, 32, 0.10);
+    }
+    .panel h2 {
+      margin: 0;
+      padding: 16px 18px;
+      font-size: 13px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 250, 240, 0.72);
+    }
+    .state-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .state-list li {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 8px 12px;
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--line);
+    }
+    .state-list li:last-child { border-bottom: 0; }
+    .state-list strong { grid-row: span 2; font-size: 26px; letter-spacing: -0.04em; }
+    .state-list span { font-weight: 800; }
+    .state-list small { color: var(--muted); }
+    .candidate-stack {
+      display: grid;
+      gap: 12px;
+      padding: 14px;
+    }
+    .candidate-card, .empty-decision {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      padding: 17px;
+      background: var(--panel-solid);
+    }
+    .candidate-card::before, .empty-decision::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 5px;
+      background: var(--good);
+    }
+    .candidate-rank, .empty-decision span {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .candidate-card h3, .empty-decision h3 {
+      margin: 8px 0 6px;
+      font-size: 18px;
+      line-height: 1.18;
+    }
+    .candidate-card p, .empty-decision p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+    .candidate-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 12px;
+      align-items: center;
+      margin-top: 13px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .candidate-meta strong { color: var(--ink); font-size: 18px; }
+    .table-panel { margin-top: 18px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+    th, td {
+      padding: 12px 10px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      position: sticky;
+      top: 0;
+      background: #fff8ea;
+      z-index: 1;
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    tbody tr:hover { background: rgba(29, 97, 112, 0.055); }
+    caption {
+      text-align: left;
+      padding: 0 0 10px;
+      color: var(--muted);
+    }
+    td small { display: block; color: var(--muted); margin-top: 3px; }
+    .table-wrap { max-height: 68vh; overflow: auto; padding: 14px; }
+    .pill {
+      display: inline-block;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 3px 8px;
+      white-space: nowrap;
+      font-size: 11px;
+      background: #f3f1ea;
+      text-transform: capitalize;
+    }
+    .prob-cell strong { display: block; font-size: 13px; }
+    .prob-track {
+      display: block;
+      width: 84px;
+      height: 5px;
+      margin-top: 6px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: rgba(22, 22, 18, 0.10);
+    }
+    .prob-track span {
+      display: block;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--accent), var(--good));
+    }
+    .priority_clv_watch, .clv_shadow_watch { color: var(--good); border-color: #9fcdb8; background: var(--good-soft); }
+    .high_score_clv_unconfirmed { color: var(--watch); border-color: #dfc27c; background: var(--watch-soft); }
+    .stale_started { color: var(--warn); border-color: #e0aaa3; background: var(--warn-soft); }
+    .row-priority_clv_watch, .row-clv_shadow_watch { background: rgba(11, 107, 75, 0.045); }
+    .row-high_score_clv_unconfirmed { background: rgba(154, 91, 0, 0.05); }
+    .note {
+      margin: 18px 4px 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    code {
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 2px 5px;
+      background: rgba(255, 250, 240, 0.76);
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; transform: scale(0.92); }
+      50% { opacity: 1; transform: scale(1.18); }
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    header, .metric-card, .panel { animation: rise 560ms ease both; }
+    .metric-card:nth-child(2) { animation-delay: 70ms; }
+    .metric-card:nth-child(3) { animation-delay: 130ms; }
+    .metric-card:nth-child(4) { animation-delay: 190ms; }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; scroll-behavior: auto !important; transition: none !important; }
+    }
+    @media (max-width: 980px) {
+      .page-shell { padding: 12px; }
+      header { padding: 22px; border-radius: 22px; }
+      .hero-grid { grid-template-columns: 1fr; }
+      .metrics { grid-template-columns: repeat(2, minmax(130px, 1fr)); }
+      .lane-grid { grid-template-columns: 1fr; }
+      .exec { grid-template-columns: 1fr; }
+      table { min-width: 1080px; }
+    }
+    @media (max-width: 620px) {
+      .metrics { grid-template-columns: 1fr; }
+      .decision-panel { min-height: 220px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header>
+      <div class="hero-grid">
+        <section>
+          <span class="eyebrow">Expected CLV / Consensus Monitor / 2026-07-01</span>
+          <h1>CLV Edge Desk</h1>
+          <p>2026-07-01 consensus scored against the expected-CLV shadow model. Use this as the market discipline layer: identify what deserves verification, and pass when the edge is not there.</p>
+        </section>
+        <aside class="decision-panel pass" aria-label="Current dashboard decision">
+          <div>
+            <span>Current action</span>
+            <strong>Pass / monitor</strong>
+            <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
+          </div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1782887258851812397:2026-07-01T02:28:38" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-01T02:28:38.</div>
+        </aside>
+      </div>
+    </header>
+    <main>
+    <div class="metrics"><section class="metric-card"><span>Rows scored</span><strong>72</strong><small>Universe reviewed from latest consensus.</small></section>
+<section class="metric-card"><span>CLV gate passes</span><strong>0</strong><small>Rows above the CLV shadow threshold.</small></section>
+<section class="metric-card"><span>Unconfirmed highs</span><strong>5</strong><small>High consensus score but no CLV confirmation.</small></section>
+<section class="metric-card"><span>Training rows</span><strong>419</strong><small>Historical rows behind the shadow model.</small></section></div>
+    <section class="lane-grid" aria-label="Act, watch, and pass decision lanes"><section class="decision-lane act"><div class="lane-heading"><span>Only if live market still confirms</span><strong>Act</strong><small>0 item(s)</small></div><article class="lane-empty">No priority CLV-watch rows. No immediate action from this thesis.</article></section>
+<section class="decision-lane watch"><div class="lane-heading"><span>Investigate, do not promote yet</span><strong>Watch</strong><small>5 item(s)</small></div><article class="lane-card"><span>Tennis / Spread / 08:00</span><strong>Marozsan +4.5</strong><small>Fabian Marozsan vs Alejandro Davidovich Fokina</small><div><b>0.3035</b><em>edge -0.0565</em></div></article>
+<article class="lane-card"><span>Tennis / Spread / 06:00</span><strong>Ofner +4.5</strong><small>Sebastian Ofner vs Hubert Hurkacz</small><div><b>0.3035</b><em>edge -0.0565</em></div></article>
+<article class="lane-card"><span>Tennis / Parlay / 08:30</span><strong>Sinner 3-0 + Zheng ML</strong><small>Nuno Borges vs Jannik Sinner</small><div><b>0.2974</b><em>edge -0.0626</em></div></article></section>
+<section class="decision-lane pass"><div class="lane-heading"><span>Current default</span><strong>Pass</strong><small>67 item(s)</small></div><article class="lane-card"><span>Tennis / Parlay / 00:00</span><strong>Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap</strong><small>Yannick Hanfmann vs Karen Khachanov</small><div><b>0.3502</b><em>edge -0.0098</em></div></article>
+<article class="lane-card"><span>Tennis / Parlay / 07:30</span><strong>Cobolli -1.5 Set Handicap / Tiafoe ML</strong><small>Flavio Cobolli vs Mariano Navone</small><div><b>0.3502</b><em>edge -0.0098</em></div></article>
+<article class="lane-card"><span>Tennis / Parlay / 07:30</span><strong>Cobolli -1.5 Sets / Tiafoe ML</strong><small>Flavio Cobolli vs Mariano Navone</small><div><b>0.3502</b><em>edge -0.0098</em></div></article></section></section>
+    <section class="exec">
+      <div class="panel">
+        <h2>Signal Ledger</h2>
+        <ul class="state-list"><li><strong>0</strong><span>Priority watch</span><small>act only after price check</small></li>
+<li><strong>0</strong><span>Shadow watch</span><small>candidate verification queue</small></li>
+<li><strong>5</strong><span>High score / no CLV</span><small>good model score, thesis says wait</small></li>
+<li><strong>67</strong><span>Pass or monitor</span><small>do not elevate</small></li>
+<li><strong>0</strong><span>Started/stale</span><small>do not enter</small></li></ul>
+      </div>
+      <div class="panel">
+        <h2>Best CLV Thesis Candidates</h2>
+        <div class="candidate-stack"><article class="empty-decision"><span>No qualified entries</span><h3>Pass from the CLV thesis right now.</h3><p>The actionable output is restraint: monitor for new consensus rows, but do not promote a pick from this table until a row clears the watch gate.</p></article></div>
+      </div>
+    </section>
+    <section class="panel table-panel">
+        <h2>Ranked Consensus Table</h2>
+        <div class="table-wrap">
+          <table>
+            <caption>Top 40 rows by CLV action priority, expected positive-CLV probability, and matched historical support.</caption>
+            <thead>
+              <tr>
+                <th>Rank</th><th>Signal</th><th>Exp CLV</th><th>Edge</th><th>League</th><th>Market</th><th>Pick</th><th>Time</th><th>Odds</th><th>Score</th><th>Sources</th><th>Action</th>
+              </tr>
+            </thead>
+            <tbody><tr class="row-high_score_clv_unconfirmed"><td>1</td><td><span class="pill high_score_clv_unconfirmed">high score clv unconfirmed</span></td><td><div class="prob-cell"><strong>0.3035</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0565</td><td>Tennis</td><td>Spread</td><td><strong>Marozsan +4.5</strong><small>Fabian Marozsan vs Alejandro Davidovich Fokina</small></td><td>08:00</td><td>-133</td><td>8.9</td><td>SetPointBets</td><td>High model score, but CLV thesis does not confirm it yet.</td></tr>
+<tr class="row-high_score_clv_unconfirmed"><td>2</td><td><span class="pill high_score_clv_unconfirmed">high score clv unconfirmed</span></td><td><div class="prob-cell"><strong>0.3035</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0565</td><td>Tennis</td><td>Spread</td><td><strong>Ofner +4.5</strong><small>Sebastian Ofner vs Hubert Hurkacz</small></td><td>06:00</td><td>-115</td><td>8.7</td><td>SetPointBets</td><td>High model score, but CLV thesis does not confirm it yet.</td></tr>
+<tr class="row-high_score_clv_unconfirmed"><td>3</td><td><span class="pill high_score_clv_unconfirmed">high score clv unconfirmed</span></td><td><div class="prob-cell"><strong>0.2974</strong><span class="prob-track" aria-hidden="true"><span style="width:29.7%"></span></span></div></td><td>-0.0626</td><td>Tennis</td><td>Parlay</td><td><strong>Sinner 3-0 + Zheng ML</strong><small>Nuno Borges vs Jannik Sinner</small></td><td>08:30</td><td>-143</td><td>8.7</td><td>SetPointBets</td><td>High model score, but CLV thesis does not confirm it yet.</td></tr>
+<tr class="row-high_score_clv_unconfirmed"><td>4</td><td><span class="pill high_score_clv_unconfirmed">high score clv unconfirmed</span></td><td><div class="prob-cell"><strong>0.2888</strong><span class="prob-track" aria-hidden="true"><span style="width:28.9%"></span></span></div></td><td>-0.0712</td><td>Tennis</td><td>Spread</td><td><strong>Kwon +7.5</strong><small>Tommy Paul vs SoonWoo Kwon</small></td><td>06:00</td><td>-143</td><td>8.7</td><td>SetPointBets</td><td>High model score, but CLV thesis does not confirm it yet.</td></tr>
+<tr class="row-high_score_clv_unconfirmed"><td>5</td><td><span class="pill high_score_clv_unconfirmed">high score clv unconfirmed</span></td><td><div class="prob-cell"><strong>0.282</strong><span class="prob-track" aria-hidden="true"><span style="width:28.2%"></span></span></div></td><td>-0.078</td><td>Tennis</td><td>ML</td><td><strong>Ofner ML</strong><small>Sebastian Ofner vs Hubert Hurkacz</small></td><td>06:00</td><td>289</td><td>8.6</td><td>SetPointBets</td><td>High model score, but CLV thesis does not confirm it yet.</td></tr>
+<tr class="row-pass_or_monitor"><td>6</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3502</strong><span class="prob-track" aria-hidden="true"><span style="width:35.0%"></span></span></div></td><td>-0.0098</td><td>Tennis</td><td>Parlay</td><td><strong>Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap</strong><small>Yannick Hanfmann vs Karen Khachanov</small></td><td>00:00</td><td>-102</td><td>6.9</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>7</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3502</strong><span class="prob-track" aria-hidden="true"><span style="width:35.0%"></span></span></div></td><td>-0.0098</td><td>Tennis</td><td>Parlay</td><td><strong>Cobolli -1.5 Set Handicap / Tiafoe ML</strong><small>Flavio Cobolli vs Mariano Navone</small></td><td>07:30</td><td>-105</td><td>6.9</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>8</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3502</strong><span class="prob-track" aria-hidden="true"><span style="width:35.0%"></span></span></div></td><td>-0.0098</td><td>Tennis</td><td>Parlay</td><td><strong>Cobolli -1.5 Sets / Tiafoe ML</strong><small>Flavio Cobolli vs Mariano Navone</small></td><td>07:30</td><td>-105</td><td>6.9</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>9</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3502</strong><span class="prob-track" aria-hidden="true"><span style="width:35.0%"></span></span></div></td><td>-0.0098</td><td>Tennis</td><td>Parlay</td><td><strong>VDZ Over 3.5 Sets / Zheng ML</strong><small>Botic Van De Zandschulp vs Roman Safiullin</small></td><td>07:30</td><td>-119</td><td>6.9</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>10</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3434</strong><span class="prob-track" aria-hidden="true"><span style="width:34.3%"></span></span></div></td><td>-0.0166</td><td>Soccer</td><td>Total</td><td><strong>Over 2.5</strong><small>England vs DR Congo</small></td><td>12:00</td><td>100</td><td>5.1</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>11</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3434</strong><span class="prob-track" aria-hidden="true"><span style="width:34.3%"></span></span></div></td><td>-0.0166</td><td>KBO</td><td>F5</td><td><strong>LG Twins F5 Team Total Under 2.5</strong><small>LG Twins</small></td><td>TBD</td><td>-154</td><td>1.0</td><td>DirtyBubbleBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>12</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3433</strong><span class="prob-track" aria-hidden="true"><span style="width:34.3%"></span></span></div></td><td>-0.0167</td><td>WNBA</td><td>Prop</td><td><strong>Jonquel Jones Over 2.5 Assists</strong><small>Atlanta Dream @ Washington Mystics</small></td><td>19:30</td><td></td><td>5.8</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>13</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.343</strong><span class="prob-track" aria-hidden="true"><span style="width:34.3%"></span></span></div></td><td>-0.017</td><td>Soccer</td><td>Prop</td><td><strong>Harry Kane Anytime Scorer</strong><small>England vs DR Congo</small></td><td>12:00</td><td>-140</td><td>2.7</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>14</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.343</strong><span class="prob-track" aria-hidden="true"><span style="width:34.3%"></span></span></div></td><td>-0.017</td><td>Soccer</td><td>Prop</td><td><strong>Ismaila Sarr Anytime Scorer</strong><small>Belgium vs Senegal</small></td><td>20:00</td><td></td><td>2.7</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>15</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3296</strong><span class="prob-track" aria-hidden="true"><span style="width:33.0%"></span></span></div></td><td>-0.0304</td><td>Tennis</td><td>Total</td><td><strong>Over 43.5</strong><small>Martin Damm vs Arthur Rinderknech</small></td><td>09:00</td><td>-115</td><td>4.6</td><td>PropJoe</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>16</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3296</strong><span class="prob-track" aria-hidden="true"><span style="width:33.0%"></span></span></div></td><td>-0.0304</td><td>Tennis</td><td>Total</td><td><strong>Under 30.5</strong><small>Nuno Borges vs Jannik Sinner</small></td><td>08:30</td><td>-110</td><td>4.6</td><td>PropJoe</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>17</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3296</strong><span class="prob-track" aria-hidden="true"><span style="width:33.0%"></span></span></div></td><td>-0.0304</td><td>Tennis</td><td>Total</td><td><strong>Over 3.5</strong><small>Novak Djokovic vs Stefanos Tsitsipas</small></td><td>12:00</td><td>-115</td><td>4.3</td><td>NewmarkTennis</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>18</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3296</strong><span class="prob-track" aria-hidden="true"><span style="width:33.0%"></span></span></div></td><td>-0.0304</td><td>Tennis</td><td>Total</td><td><strong>Over 3.5</strong><small>Tommy Paul vs SoonWoo Kwon</small></td><td>06:00</td><td>100</td><td>4.3</td><td>NewmarkTennis</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>19</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3296</strong><span class="prob-track" aria-hidden="true"><span style="width:33.0%"></span></span></div></td><td>-0.0304</td><td>Tennis</td><td>Total</td><td><strong>Over 36.5</strong><small>Michael Zheng vs Nicolas Mejia</small></td><td>07:30</td><td>-110</td><td>4.3</td><td>NewmarkTennis</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>20</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3291</strong><span class="prob-track" aria-hidden="true"><span style="width:32.9%"></span></span></div></td><td>-0.0309</td><td>KBO</td><td>Total</td><td><strong>Under 9.5</strong><small>Samsung Lions vs NC Dinos</small></td><td>TBD</td><td>-110</td><td>2.9</td><td>BankrollBill</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>21</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3291</strong><span class="prob-track" aria-hidden="true"><span style="width:32.9%"></span></span></div></td><td>-0.0309</td><td>NPB</td><td>Total</td><td><strong>Over 7.5</strong><small>Seibu Lions vs Fukuoka SoftBank Hawks</small></td><td>TBD</td><td>100</td><td>1.0</td><td>BankrollBill</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>22</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3283</strong><span class="prob-track" aria-hidden="true"><span style="width:32.8%"></span></span></div></td><td>-0.0317</td><td>Tennis</td><td>Prop</td><td><strong>Claire Liu to win a set</strong><small>Claire Liu vs Zeynep Sonmez</small></td><td>07:30</td><td>-145</td><td>2.6</td><td>LearLocks</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>23</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3253</strong><span class="prob-track" aria-hidden="true"><span style="width:32.5%"></span></span></div></td><td>-0.0347</td><td>KBO</td><td>F5</td><td><strong>Kiwoom F5 +0.5</strong><small>Kiwoom Heroes</small></td><td>TBD</td><td>-112</td><td>2.8</td><td>A11Bets, DirtyBubbleBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>24</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3218</strong><span class="prob-track" aria-hidden="true"><span style="width:32.2%"></span></span></div></td><td>-0.0382</td><td>Tennis</td><td>Prop</td><td><strong>Struff Over 3.5 Sets</strong><small>Jan-Lennard Struff vs Brandon Nakashima</small></td><td>09:30</td><td>-161</td><td>7.0</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>25</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3181</strong><span class="prob-track" aria-hidden="true"><span style="width:31.8%"></span></span></div></td><td>-0.0419</td><td>Tennis</td><td>ML</td><td><strong>Marozsan ML</strong><small>Fabian Marozsan vs Alejandro Davidovich Fokina</small></td><td>08:00</td><td>200</td><td>6.7</td><td>MatchPointBets, SetPointBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>26</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3159</strong><span class="prob-track" aria-hidden="true"><span style="width:31.6%"></span></span></div></td><td>-0.0441</td><td>Tennis</td><td>Spread</td><td><strong>Kwon +2.5 Set Handicap</strong><small>Tommy Paul vs SoonWoo Kwon</small></td><td>06:00</td><td>-118</td><td>6.9</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>27</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3121</strong><span class="prob-track" aria-hidden="true"><span style="width:31.2%"></span></span></div></td><td>-0.0479</td><td>Tennis</td><td>Spread</td><td><strong>Marozsan +1.5 Set Handicap</strong><small>Fabian Marozsan vs Alejandro Davidovich Fokina</small></td><td>08:00</td><td>-103</td><td>7.1</td><td>LeTennisGoat</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>28</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3048</strong><span class="prob-track" aria-hidden="true"><span style="width:30.5%"></span></span></div></td><td>-0.0552</td><td>Tennis</td><td>ML</td><td><strong>Rinderknech ML</strong><small>Martin Damm vs Arthur Rinderknech</small></td><td>09:00</td><td>-135</td><td>4.2</td><td>MatchPointBets, ThisGirlBetz</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>29</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3047</strong><span class="prob-track" aria-hidden="true"><span style="width:30.5%"></span></span></div></td><td>-0.0553</td><td>Tennis</td><td>ML</td><td><strong>Roman Safiullin ML</strong><small>Botic Van De Zandschulp vs Roman Safiullin</small></td><td>07:30</td><td>-130</td><td>7.9</td><td>CalebPicks, Picks4Dayzzz, ThisGirlBetz, SetPointBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>30</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Learner Tien ML + Hubert Hurkacz ML Parlay</strong><small>Sebastian Ofner vs Hubert Hurkacz</small></td><td>06:00</td><td>-135</td><td>5.8</td><td>Picks4Dayzzz</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>31</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Arthur Rinderknech ML / Sinner ML Parlay</strong><small>Martin Damm vs Arthur Rinderknech</small></td><td>09:00</td><td>-140</td><td>5.6</td><td>LearLocks</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>32</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Ostapenko ML / Kalinskaya ML Parlay</strong><small>Anna Kalinskaya vs Diane Parry</small></td><td>10:00</td><td>-110</td><td>5.5</td><td>LearLocks</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>33</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Zheng + Tien Parlay</strong><small>Michael Zheng vs Nicolas Mejia</small></td><td>07:30</td><td></td><td>4.2</td><td>MatchPointBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>34</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Andreeva / Jovic ML Parlay</strong><small>Mirra Andreeva vs Barbora Krejcikova</small></td><td>10:30</td><td>105</td><td>3.0</td><td>ThisGirlBetz</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>35</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>ML</td><td><strong>Brandon Nakashima / Learner Tien ML Parlay</strong><small>Jan-Lennard Struff vs Brandon Nakashima</small></td><td>09:30</td><td>-135</td><td>1.0</td><td>DommyLocked</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>36</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>ML</td><td><strong>Ethan Quinn / Hubert Hurkacz ML Parlay</strong><small>Sebastian Ofner vs Hubert Hurkacz</small></td><td>06:00</td><td>-124</td><td>1.0</td><td>DommyLocked</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>37</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3034</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0566</td><td>Tennis</td><td>Parlay</td><td><strong>Quinn + Jodar</strong><small>Ethan Quinn vs Shintaro Mochizuki</small></td><td>09:30</td><td>-125</td><td>1.0</td><td>CalebPicks</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>38</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3009</strong><span class="prob-track" aria-hidden="true"><span style="width:30.1%"></span></span></div></td><td>-0.0591</td><td>Tennis</td><td>Spread</td><td><strong>Jesper De Jong +6.5</strong><small>Joao Fonseca vs Jesper de Jong</small></td><td>09:30</td><td>-115</td><td>2.0</td><td>PropJoe, DommyLocked</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>39</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3007</strong><span class="prob-track" aria-hidden="true"><span style="width:30.1%"></span></span></div></td><td>-0.0593</td><td>Tennis</td><td>Spread</td><td><strong>Daniil Medvedev -2.5 Sets</strong><small>Daniil Medvedev vs Daniel Merida</small></td><td>09:30</td><td></td><td>5.2</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>40</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3007</strong><span class="prob-track" aria-hidden="true"><span style="width:30.1%"></span></span></div></td><td>-0.0593</td><td>Soccer</td><td>Spread</td><td><strong>USA -1.5</strong><small>USA vs Bosnia-Herzegovina</small></td><td>20:00</td><td>105</td><td>5.1</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+          </table>
+        </div>
+    </section>
+    <p class="note">Generated 2026-07-01T02:28:38. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    </main>
+  </div>
+
+  <script>
+    (() => {
+      const status = document.getElementById("live-refresh-status");
+      if (!status) return;
+      let currentVersion = status.dataset.dashboardVersion || "";
+      const intervalMs = Math.max(15, Number(status.dataset.refreshSeconds || 60)) * 1000;
+
+      async function pollSummary() {
+        try {
+          const response = await fetch(`summary.json?_=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) {
+            status.textContent = `Static refresh waiting: summary.json returned ${response.status}.`;
+            return;
+          }
+          const summary = await response.json();
+          const nextVersion = summary.dashboard_version || summary.generated_at || "";
+          if (currentVersion && nextVersion && nextVersion !== currentVersion) {
+            status.textContent = "New static snapshot detected; loading updated dashboard...";
+            window.location.reload();
+            return;
+          }
+          if (nextVersion && !currentVersion) currentVersion = nextVersion;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-01T02:28:38"}.`;
+        } catch (error) {
+          status.textContent = "Static refresh inactive until summary.json is available beside this page.";
+        }
+      }
+
+      pollSummary();
+      window.setInterval(pollSummary, intervalMs);
+    })();
+  </script>
+</body>
+</html>
