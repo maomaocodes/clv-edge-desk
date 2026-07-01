@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 106
-- Shadow watch candidates: 0
+- Consensus rows scored: 171
+- Shadow watch candidates: 21
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,18 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Zack Wheeler Over 6.5 Strikeouts (0.3906 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Philadelphia Phillies, 18:40)
+- #2 MLB Total - Over 10 (0.3703 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Kansas City Royals, 19:40)
+- #3 MLB Total - Over 11 (0.3703 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Colorado Rockies, 20:40)
+- #4 Soccer Corners - Over 9.5 Corners (0.3677 expected positive-CLV probability, clv_shadow_watch, USA vs Bosnia, TBD)
+- #5 Soccer Corners - Over 9.5 Corners (0.3677 expected positive-CLV probability, clv_shadow_watch, England vs DR Congo, TBD)
+- #6 MLB Total - Under 8.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Philadelphia Phillies, 18:40)
+- #7 MLB Total - Over 9 (0.3636 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Atlanta Braves, 19:15)
+- #8 MLB Total - Over 12 (0.3635 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Chicago Cubs, 14:20)
+- #9 MLB Prop - Freddy Peralta Over 4.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Toronto Blue Jays, 15:07)
+- #10 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Oakland Athletics, 21:40)
+- #11 MLB Prop - Troy Melton Over 4.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ New York Yankees, 13:35)
+- #12 MLB Prop - Walker Buehler Over 3.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Chicago Cubs, 14:20)
 
 ## Rules Of Use
 
