@@ -1,7 +1,7 @@
 {
   "action_counts": {
-    "pass_or_monitor": 63,
-    "stale_started": 43
+    "pass_or_monitor": 61,
+    "stale_started": 45
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1782918779.245495,
-  "consensus_mtime_ns": 1782918779245495126,
+  "consensus_mtime": 1782919824.2473345,
+  "consensus_mtime_ns": 1782919824247334503,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 106,
-  "dashboard_version": "1782918779245495126:2026-07-01T11:13:04",
-  "generated_at": "2026-07-01T11:13:04",
+  "dashboard_version": "1782919824247334503:2026-07-01T11:30:29",
+  "generated_at": "2026-07-01T11:30:29",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -197,7 +197,7 @@
       "edge_vs_threshold": -0.0098,
       "entry_odds": -102,
       "entry_odds_source": "explicit_decimal",
-      "event_time_et": "00:00",
+      "event_time_et": "08:00",
       "expected_positive_clv_prob": 0.3502,
       "game": "Yannick Hanfmann vs Karen Khachanov",
       "handicappers": "LeTennisGoat",
@@ -214,7 +214,7 @@
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3126,
       "rank": 6,
-      "row_key": "Tennis|Yannick Hanfmann vs Karen Khachanov|Parlay|Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap|00:00|LeTennisGoat",
+      "row_key": "Tennis|Yannick Hanfmann vs Karen Khachanov|Parlay|Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap|08:00|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -272,7 +272,7 @@
       "matched_feature_groups": 4,
       "matched_training_rows": 235,
       "model_score_band": "score_under_6",
-      "notes": "FIFA World Cup 2026; Odds: +100; World Cup",
+      "notes": "World Cup; FIFA World Cup 2026; Odds: +100",
       "opposing_count": "0",
       "pick": "Over 2.5",
       "primary_capper": "Mike's Research Bot 1.0",
