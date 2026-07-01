@@ -22,7 +22,7 @@
 - #9 Soccer Corners - Over 9.5 Corners (0.3677 expected positive-CLV probability, clv_shadow_watch, England vs DR Congo, TBD)
 - #10 MLB Total - Under 8.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Philadelphia Phillies, 18:40)
 - #11 MLB Total - Over 11 (0.3636 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Colorado Rockies, 20:40)
-- #12 MLB Prop - Walker Buehler Over 3.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Chicago Cubs, 14:20)
+- #12 MLB Prop - Paul Skenes Over 6.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Philadelphia Phillies, 18:40)
 
 ## Rules Of Use
 
