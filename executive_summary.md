@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-07-01
+# Expected CLV Consensus Dashboard - 2026-07-02
 
 ## Executive Read
 
-- Consensus rows scored: 269
-- Shadow watch candidates: 8
+- Consensus rows scored: 7
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,14 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer Corners - Over 9.5 Corners (0.3677 expected positive-CLV probability, clv_shadow_watch, USA vs Bosnia, TBD)
-- #2 Soccer Corners - Over 9.5 Corners (0.3677 expected positive-CLV probability, clv_shadow_watch, England vs DR Congo, TBD)
-- #3 Soccer Prop - Folarin Balogun Anytime Goalscorer (0.361 expected positive-CLV probability, clv_shadow_watch, USA vs Bosnia & Herzegovina, TBD)
-- #4 Golf Prop - Jacob Bridgeman to win +3000 (0.361 expected positive-CLV probability, clv_shadow_watch, Jacob Bridgeman, TBD)
-- #5 Golf Prop - Keith Mitchell to win +1900 (0.361 expected positive-CLV probability, clv_shadow_watch, Keith Mitchell, TBD)
-- #6 Golf Prop - Davis Thompson to win +5100 (0.361 expected positive-CLV probability, clv_shadow_watch, Davis Thompson, TBD)
-- #7 Golf Prop - Tom Kim to win +3500 (0.361 expected positive-CLV probability, clv_shadow_watch, Tom Kim, TBD)
-- #8 Golf Prop - Ryo Hisatsune to win +4300 (0.361 expected positive-CLV probability, clv_shadow_watch, Ryo Hisatsune, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
