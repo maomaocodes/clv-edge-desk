@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 269
+- Consensus rows scored: 270
 - Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -16,10 +16,10 @@
 - #3 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3628 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Oakland Athletics, 21:40)
 - #4 Soccer Prop - Folarin Balogun Anytime Goalscorer (0.361 expected positive-CLV probability, clv_shadow_watch, USA vs Bosnia & Herzegovina, TBD)
 - #5 Golf Prop - Jacob Bridgeman to win +3000 (0.361 expected positive-CLV probability, clv_shadow_watch, Jacob Bridgeman, TBD)
-- #6 Golf Prop - Keith Mitchell to win +1900 (0.361 expected positive-CLV probability, clv_shadow_watch, Keith Mitchell, TBD)
-- #7 Golf Prop - Davis Thompson to win +5100 (0.361 expected positive-CLV probability, clv_shadow_watch, Davis Thompson, TBD)
-- #8 Golf Prop - Tom Kim to win +3500 (0.361 expected positive-CLV probability, clv_shadow_watch, Tom Kim, TBD)
-- #9 Golf Prop - Ryo Hisatsune to win +4300 (0.361 expected positive-CLV probability, clv_shadow_watch, Ryo Hisatsune, TBD)
+- #6 Golf Prop - Davis Thompson to win +5100 (0.361 expected positive-CLV probability, clv_shadow_watch, Davis Thompson, TBD)
+- #7 Golf Prop - Tom Kim to win +3500 (0.361 expected positive-CLV probability, clv_shadow_watch, Tom Kim, TBD)
+- #8 Golf Prop - Ryo Hisatsune to win +4300 (0.361 expected positive-CLV probability, clv_shadow_watch, Ryo Hisatsune, TBD)
+- #9 Golf Prop - Keith Mitchell to win +1900 (0.361 expected positive-CLV probability, clv_shadow_watch, Keith Mitchell, TBD)
 
 ## Rules Of Use
 
