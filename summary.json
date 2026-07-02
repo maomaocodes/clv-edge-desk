@@ -1,7 +1,8 @@
 {
   "action_counts": {
-    "pass_or_monitor": 95,
-    "price_unverified_watch": 2
+    "pass_or_monitor": 92,
+    "price_unverified_watch": 2,
+    "stale_started": 3
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1782983459.685322,
-  "consensus_mtime_ns": 1782983459685322038,
+  "consensus_mtime": 1782984496.554026,
+  "consensus_mtime_ns": 1782984496554025834,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 97,
-  "dashboard_version": "1782983459685322038:2026-07-02T05:11:02",
-  "generated_at": "2026-07-02T05:11:02",
+  "dashboard_version": "1782984496554025834:2026-07-02T05:28:22",
+  "generated_at": "2026-07-02T05:28:22",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -215,7 +216,7 @@
       "matched_training_rows": 234,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "World Cup; FIFA World Cup; Odds: -125",
+      "notes": "FIFA World Cup; Odds: -125; World Cup",
       "opposing_count": "0",
       "pick": "Over 2.5",
       "primary_capper": "Mike's Research Bot 1.0",
@@ -477,7 +478,7 @@
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0182,
-      "entry_odds": 1900,
+      "entry_odds": 1600,
       "entry_odds_source": "explicit_american",
       "event_age_minutes": "",
       "event_date_et": "2026-07-02",
@@ -495,13 +496,13 @@
       "matched_training_rows": 453,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "PGA John Deere Classic; Odds: +1900; Unresolved event time - verify matchup/start",
+      "notes": "PGA John Deere Classic; Odds: +1600; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "Jackson Koivun to Win",
+      "pick": "Ben Griffin to Win",
       "primary_capper": "SmartMoneySports",
       "prior_positive_clv_prob": 0.3126,
       "rank": 12,
-      "row_key": "Golf|John Deere Classic|Prop|Jackson Koivun to Win|TBD|SmartMoneySports",
+      "row_key": "Golf|John Deere Classic|Prop|Ben Griffin to Win|TBD|SmartMoneySports",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
