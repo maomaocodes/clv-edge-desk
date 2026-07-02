@@ -1,7 +1,7 @@
 {
   "action_counts": {
-    "pass_or_monitor": 58,
-    "stale_started": 57
+    "pass_or_monitor": 57,
+    "stale_started": 58
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1783006499.2270203,
-  "consensus_mtime_ns": 1783006499227020257,
+  "consensus_mtime": 1783007539.863629,
+  "consensus_mtime_ns": 1783007539863629200,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 115,
-  "dashboard_version": "1783006499227020257:2026-07-02T11:35:05",
-  "generated_at": "2026-07-02T11:35:05",
+  "dashboard_version": "1783007539863629200:2026-07-02T11:52:25",
+  "generated_at": "2026-07-02T11:52:25",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -203,7 +203,7 @@
       "event_date_et": "2026-07-02",
       "event_datetime_et": "",
       "event_status": "",
-      "event_time_et": "11:45",
+      "event_time_et": "11:55",
       "expected_positive_clv_prob": 0.3424,
       "game": "Alex Molcan vs Jiri Lehecka",
       "handicappers": "LeTennisGoat",
@@ -221,7 +221,7 @@
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3126,
       "rank": 5,
-      "row_key": "Tennis|Alex Molcan vs Jiri Lehecka|Parlay|Lehecka ML + Mensik ML Parlay|11:45|LeTennisGoat",
+      "row_key": "Tennis|Alex Molcan vs Jiri Lehecka|Parlay|Lehecka ML + Mensik ML Parlay|11:55|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
