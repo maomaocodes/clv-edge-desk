@@ -12,13 +12,13 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB F5 - F5 Under 3.5 (0.3641 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Milwaukee Brewers, 14:10)
-- #2 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
-- #3 MLB Prop - Slade Cecconi Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
-- #4 MLB Prop - Davis Martin Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
-- #5 MLB Prop - Bryce Miller Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
+- #2 MLB Prop - Bryce Miller Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
+- #3 MLB Prop - Davis Martin Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
+- #4 MLB Prop - Slade Cecconi Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
+- #5 MLB Prop - Nathan Eovaldi Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Texas Rangers, 20:05)
 - #6 MLB Prop - Randy Vasquez Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 - #7 MLB Prop - Roki Sasaki Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #8 MLB Prop - Nathan Eovaldi Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Texas Rangers, 20:05)
+- #8 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
 
 ## Rules Of Use
 
