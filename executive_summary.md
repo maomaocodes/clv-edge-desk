@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 257
+- Consensus rows scored: 258
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,13 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Bryce Miller Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
-- #2 MLB Prop - Slade Cecconi Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
-- #3 MLB Prop - Nathan Eovaldi Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Texas Rangers, 20:05)
+- #1 MLB Prop - Nathan Eovaldi Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Texas Rangers, 20:05)
+- #2 MLB Prop - Randy Vasquez Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #3 MLB Prop - Roki Sasaki Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 - #4 MLB Prop - Davis Martin Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
-- #5 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
-- #6 MLB Prop - Randy Vasquez Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #7 MLB Prop - Roki Sasaki Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #5 MLB Prop - Slade Cecconi Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 18:40)
+- #6 MLB Prop - Bryce Miller Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
+- #7 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Seattle Mariners, 21:40)
 
 ## Rules Of Use
 
