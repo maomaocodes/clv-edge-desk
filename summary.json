@@ -1,8 +1,8 @@
 {
   "action_counts": {
-    "pass_or_monitor": 65,
+    "pass_or_monitor": 64,
     "price_unverified_watch": 1,
-    "stale_started": 32
+    "stale_started": 33
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1782992831.6241856,
-  "consensus_mtime_ns": 1782992831624185504,
+  "consensus_mtime": 1782993869.5902953,
+  "consensus_mtime_ns": 1782993869590295234,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 98,
-  "dashboard_version": "1782992831624185504:2026-07-02T07:47:14",
-  "generated_at": "2026-07-02T07:47:14",
+  "dashboard_version": "1782993869590295234:2026-07-02T08:04:34",
+  "generated_at": "2026-07-02T08:04:34",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -124,7 +124,7 @@
       "event_date_et": "2026-07-02",
       "event_datetime_et": "",
       "event_status": "",
-      "event_time_et": "08:00",
+      "event_time_et": "08:10",
       "expected_positive_clv_prob": 0.3502,
       "game": "Maya Joint vs Alexandra Eala",
       "handicappers": "LearLocks",
@@ -142,7 +142,7 @@
       "primary_capper": "LearLocks",
       "prior_positive_clv_prob": 0.3126,
       "rank": 3,
-      "row_key": "Tennis|Maya Joint vs Alexandra Eala|Parlay|Emma Navarro ML + Alexandra Eala ML + Linda Noskova ML|08:00|LearLocks",
+      "row_key": "Tennis|Maya Joint vs Alexandra Eala|Parlay|Emma Navarro ML + Alexandra Eala ML + Linda Noskova ML|08:10|LearLocks",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -176,7 +176,7 @@
       "matched_training_rows": 234,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "World Cup; FIFA World Cup; Odds: -125",
+      "notes": "FIFA World Cup; Odds: -125; World Cup",
       "opposing_count": "0",
       "pick": "Over 2.5",
       "primary_capper": "Mike's Research Bot 1.0",
@@ -244,7 +244,7 @@
       "event_date_et": "2026-07-02",
       "event_datetime_et": "",
       "event_status": "",
-      "event_time_et": "08:00",
+      "event_time_et": "08:15",
       "expected_positive_clv_prob": 0.3424,
       "game": "Yannick Hanfmann vs Karen Khachanov",
       "handicappers": "LeTennisGoat",
@@ -262,7 +262,7 @@
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3126,
       "rank": 6,
-      "row_key": "Tennis|Yannick Hanfmann vs Karen Khachanov|Parlay|Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap|08:00|LeTennisGoat",
+      "row_key": "Tennis|Yannick Hanfmann vs Karen Khachanov|Parlay|Khachanov Over 3.5 Sets / Fritz -1.5 Set Handicap|08:15|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
