@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Randy Vasquez Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #2 MLB Prop - Roki Sasaki Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #1 MLB Prop - Roki Sasaki Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #2 MLB Prop - Randy Vasquez Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
