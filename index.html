@@ -467,7 +467,7 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783074027743915905:2026-07-03T06:20:32" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-03T06:20:32.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783075070835346648:2026-07-03T06:37:56" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-03T06:37:56.</div>
         </aside>
       </div>
     </header>
@@ -517,11 +517,11 @@
 <tr class="row-pass_or_monitor"><td>10</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2955</strong><span class="prob-track" aria-hidden="true"><span style="width:29.5%"></span></span></div></td><td>-0.0645</td><td>Soccer</td><td>ML</td><td><strong>Colombia to Win</strong><small>Colombia vs Ghana</small></td><td>21:30</td><td></td><td>5.5</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>11</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2906</strong><span class="prob-track" aria-hidden="true"><span style="width:29.1%"></span></span></div></td><td>-0.0694</td><td>Soccer</td><td>Spread</td><td><strong>Ghana +1.5</strong><small>Ghana</small></td><td>TBD</td><td></td><td>2.8</td><td>Shark Culture</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>12</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2752</strong><span class="prob-track" aria-hidden="true"><span style="width:27.5%"></span></span></div></td><td>-0.0848</td><td>MLB</td><td>ML</td><td><strong>Cardinals ML</strong><small>St. Louis Cardinals @ Chicago Cubs</small></td><td>16:05</td><td></td><td>5.5</td><td>Shark Culture</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-stale_started"><td>13</td><td><span class="pill stale_started">stale started</span></td><td><div class="prob-cell"><strong>0.2962</strong><span class="prob-track" aria-hidden="true"><span style="width:29.6%"></span></span></div></td><td>-0.0638</td><td>Tennis</td><td>Spread</td><td><strong>Fonseca -1.5 Set Handicap</strong><small>Joao Fonseca vs Roman Safiullin</small></td><td>06:05</td><td>-125</td><td>7.4</td><td>LeTennisGoat</td><td>Started or event time has passed; do not enter from this table.</td></tr></tbody>
+<tr class="row-stale_started"><td>13</td><td><span class="pill stale_started">stale started</span></td><td><div class="prob-cell"><strong>0.2962</strong><span class="prob-track" aria-hidden="true"><span style="width:29.6%"></span></span></div></td><td>-0.0638</td><td>Tennis</td><td>Spread</td><td><strong>Fonseca -1.5 Set Handicap</strong><small>Joao Fonseca vs Roman Safiullin</small></td><td>06:10</td><td>-125</td><td>7.4</td><td>LeTennisGoat</td><td>Started or event time has passed; do not enter from this table.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-03T06:20:32. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-03T06:37:56. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -547,7 +547,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-03T06:20:32"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-03T06:37:56"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
