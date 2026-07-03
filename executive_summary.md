@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 152
+- Consensus rows scored: 160
 - Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -14,10 +14,10 @@
 - #1 MLB Prop - Reid Detmers Over 6.5 Strikeouts (0.3793 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Angels, 21:38)
 - #2 MLB Total - Over 8 (0.3693 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
 - #3 MLB Total - Over 10 (0.3641 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 19:05)
-- #4 MLB Prop - Mitch Keller Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
+- #4 MLB Prop - Spencer Arrighetti Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
 - #5 MLB Prop - Kyle Harrison Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 21:45)
 - #6 MLB Prop - Tyler Phillips Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 21:40)
-- #7 MLB Prop - Spencer Arrighetti Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
+- #7 MLB Prop - Mitch Keller Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
 - #8 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
 
 ## Rules Of Use
