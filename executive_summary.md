@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 38
-- Shadow watch candidates: 0
+- Consensus rows scored: 134
+- Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,15 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Reid Detmers Over 6.5 Strikeouts (0.3793 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Angels, 21:38)
+- #2 MLB Total - Over 10.5 (0.3693 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 16:05)
+- #3 MLB Total - Over 8 (0.3693 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
+- #4 MLB Total - Over 10 (0.3641 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 19:05)
+- #5 MLB Prop - Mitch Keller Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
+- #6 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
+- #7 MLB Prop - Tyler Phillips Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 21:40)
+- #8 MLB Prop - Spencer Arrighetti Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
+- #9 MLB Prop - Kyle Harrison Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 21:45)
 
 ## Rules Of Use
 
