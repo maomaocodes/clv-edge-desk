@@ -17,8 +17,8 @@
 - #4 MLB Prop - Spencer Arrighetti Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 20:15)
 - #5 MLB Prop - Kyle Harrison Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 21:45)
 - #6 MLB Prop - Tyler Phillips Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 21:40)
-- #7 MLB Prop - Mitch Keller Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
-- #8 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
+- #7 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
+- #8 MLB Prop - Mitch Keller Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Washington Nationals, 18:45)
 
 ## Rules Of Use
 
