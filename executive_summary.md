@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 201
+- Consensus rows scored: 200
 - Shadow watch candidates: 17
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -16,13 +16,13 @@
 - #3 MLB Total - Under 8.5 (0.3713 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 20:08)
 - #4 MLB Total - Over 12 (0.367 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 20:10)
 - #5 MLB Total - Under 8 (0.3639 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 20:08)
-- #6 MLB Prop - Chris Sale (ATL) 7+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
-- #7 MLB Prop - Hunter Brown Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
-- #8 MLB Prop - Hunter Brown (HOU) Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
-- #9 MLB Prop - Sean Burke Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
-- #10 MLB Prop - Parker Messick (CLE) Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
-- #11 MLB Prop - Michael Wacha (KC) Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 20:10)
-- #12 MLB Prop - Sean Burke (CWS) Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
+- #6 MLB Prop - Jesus Luzardo (PHI) Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 20:10)
+- #7 MLB Prop - Hunter Brown (HOU) Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
+- #8 MLB Prop - Hunter Brown Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
+- #9 MLB Prop - Chris Sale Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #10 MLB Prop - Michael Wacha (KC) Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 20:10)
+- #11 MLB Prop - Sean Manaea Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #12 MLB Prop - Chris Sale (ATL) 7+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
 
 ## Rules Of Use
 
