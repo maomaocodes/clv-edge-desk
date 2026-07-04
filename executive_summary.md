@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 173
+- Consensus rows scored: 179
 - Shadow watch candidates: 18
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -18,11 +18,11 @@
 - #5 MLB Total - Over 12 (0.367 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 20:10)
 - #6 MLB Total - Under 8 (0.3639 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 20:08)
 - #7 MLB Prop - Jesus Luzardo (PHI) Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 20:10)
-- #8 MLB Prop - Michael Wacha (KC) Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 20:10)
-- #9 MLB Prop - Parker Messick (CLE) Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
-- #10 MLB Prop - Chris Sale Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
-- #11 MLB Prop - Parker Messick Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
-- #12 MLB Prop - Sean Manaea Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #8 MLB Prop - Sean Burke (CWS) Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Cleveland Guardians, 19:10)
+- #9 MLB Prop - Chris Sale Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #10 MLB Prop - Sean Manaea Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #11 MLB Prop - Chris Sale (ATL) 7+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #12 MLB Prop - Sean Manaea (NYM) Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
 
 ## Rules Of Use
 
