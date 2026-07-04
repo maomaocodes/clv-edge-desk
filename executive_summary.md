@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 197
+- Consensus rows scored: 199
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -12,8 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Reid Detmers Over 6.5 Strikeouts (0.3793 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Angels, 21:38)
-- #2 MLB Prop - Tyler Phillips Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 21:40)
-- #3 MLB Prop - Kyle Harrison Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 21:45)
+- #2 MLB Prop - Kyle Harrison Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 21:45)
+- #3 MLB Prop - Tyler Phillips Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
