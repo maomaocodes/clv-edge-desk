@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 119
+- Consensus rows scored: 120
 - Shadow watch candidates: 18
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -17,10 +17,10 @@
 - #4 WNBA Total - Under 162.5 (0.366 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Atlanta Dream, 13:00)
 - #5 MLB Prop - Hunter Brown Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
 - #6 MLB Prop - Hunter Brown (HOU) Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Houston Astros, 19:10)
-- #7 MLB Prop - Sean Manaea (NYM) Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
-- #8 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
-- #9 MLB Prop - Chris Sale (ATL) 7+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
-- #10 MLB Prop - Zebby Matthews (MIN) Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
+- #7 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
+- #8 MLB Prop - Zebby Matthews (MIN) Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
+- #9 MLB Prop - Sean Manaea (NYM) Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
+- #10 MLB Prop - Chris Sale (ATL) 7+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
 - #11 MLB Prop - Chris Sale Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
 - #12 MLB Prop - Sean Manaea Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Atlanta Braves, 20:08)
 
