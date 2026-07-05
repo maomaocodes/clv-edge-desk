@@ -15,9 +15,9 @@
 - #2 Soccer Total - Under 3.5 (0.3693 expected positive-CLV probability, clv_shadow_watch, Mexico vs England, 20:00)
 - #3 MLB Total - Over 9 (0.3639 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 16:00)
 - #4 MLB Prop - Emerson Hancock Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Seattle Mariners, 17:00)
-- #5 MLB Prop - JP Sears Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 19:20)
-- #6 MLB Prop - Eury Perez Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 16:30)
-- #7 MLB Prop - Tyler Mahle Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 16:00)
+- #5 MLB Prop - Tyler Mahle Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 16:00)
+- #6 MLB Prop - JP Sears Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 19:20)
+- #7 MLB Prop - Eury Perez Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 16:30)
 
 ## Rules Of Use
 
