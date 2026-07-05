@@ -467,7 +467,7 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783254873654331678:2026-07-05T08:34:35" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-05T08:34:35.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783255927154756396:2026-07-05T08:52:10" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-05T08:52:10.</div>
         </aside>
       </div>
     </header>
@@ -487,8 +487,8 @@
         <ul class="state-list"><li><strong>0</strong><span>Priority watch</span><small>act only after price check</small></li>
 <li><strong>0</strong><span>Shadow watch</span><small>candidate verification queue</small></li>
 <li><strong>0</strong><span>High score / no CLV</span><small>good model score, thesis says wait</small></li>
-<li><strong>11</strong><span>Pass or monitor</span><small>do not elevate</small></li>
-<li><strong>0</strong><span>Started/stale</span><small>do not enter</small></li></ul>
+<li><strong>10</strong><span>Pass or monitor</span><small>do not elevate</small></li>
+<li><strong>1</strong><span>Started/stale</span><small>do not enter</small></li></ul>
       </div>
       <div class="panel">
         <h2>Best CLV Thesis Candidates</h2>
@@ -515,11 +515,11 @@
 <tr class="row-pass_or_monitor"><td>8</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3027</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.0573</td><td>Soccer</td><td>BTTS</td><td><strong>Both Teams To Score</strong><small>Mexico vs England</small></td><td>TBD</td><td></td><td>1.0</td><td>Shark Culture</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>9</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3018</strong><span class="prob-track" aria-hidden="true"><span style="width:30.2%"></span></span></div></td><td>-0.0582</td><td>Tennis</td><td>ML</td><td><strong>Belinda Bencic to Win</strong><small>Coco Gauff vs Belinda Bencic</small></td><td>11:30</td><td>110</td><td>6.0</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>10</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3018</strong><span class="prob-track" aria-hidden="true"><span style="width:30.2%"></span></span></div></td><td>-0.0582</td><td>Tennis</td><td>ML</td><td><strong>Naomi Osaka to Win</strong><small>Naomi Osaka vs Aryna Sabalenka</small></td><td>10:30</td><td>170</td><td>6.0</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>11</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3018</strong><span class="prob-track" aria-hidden="true"><span style="width:30.2%"></span></span></div></td><td>-0.0582</td><td>Tennis</td><td>ML</td><td><strong>Djokovic to Win</strong><small>Novak Djokovic vs Roman Safiullin</small></td><td>08:35</td><td>-300</td><td>6.0</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+<tr class="row-stale_started"><td>11</td><td><span class="pill stale_started">stale started</span></td><td><div class="prob-cell"><strong>0.3018</strong><span class="prob-track" aria-hidden="true"><span style="width:30.2%"></span></span></div></td><td>-0.0582</td><td>Tennis</td><td>ML</td><td><strong>Djokovic to Win</strong><small>Novak Djokovic vs Roman Safiullin</small></td><td>08:40</td><td>-300</td><td>6.0</td><td>Mike&#x27;s Research Bot 1.0</td><td>Started or event time has passed; do not enter from this table.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-05T08:34:35. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-05T08:52:10. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -545,7 +545,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-05T08:34:35"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-05T08:52:10"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
