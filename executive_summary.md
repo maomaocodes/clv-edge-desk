@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 119
-- Shadow watch candidates: 10
+- Consensus rows scored: 122
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,14 +13,12 @@
 
 - #1 MLB Total - Over 13 (0.3697 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 16:00)
 - #2 Soccer Total - Under 3.5 (0.3693 expected positive-CLV probability, clv_shadow_watch, Mexico vs England, 20:00)
-- #3 MLB Total - Under 8.5 (0.3689 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
-- #4 MLB Total - Over 9 (0.3639 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 16:00)
-- #5 MLB Prop - JP Sears Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 19:20)
+- #3 MLB Total - Over 9 (0.3639 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Arizona Diamondbacks, 16:00)
+- #4 MLB Prop - Emerson Hancock Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Seattle Mariners, 17:00)
+- #5 MLB Prop - Eury Perez Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 16:30)
 - #6 MLB Prop - Tyler Mahle Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Colorado Rockies, 16:00)
-- #7 MLB Prop - Joe Ryan Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ New York Yankees, 13:35)
-- #8 MLB Prop - Emerson Hancock Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Seattle Mariners, 17:00)
-- #9 MLB Prop - Linder Avila Over 4 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 15:00)
-- #10 MLB Prop - Eury Perez Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Oakland Athletics, 16:30)
+- #7 MLB Prop - JP Sears Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 19:20)
+- #8 MLB Prop - Linder Avila Over 4 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Kansas City Royals, 15:00)
 
 ## Rules Of Use
 
