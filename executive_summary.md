@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Yamamoto OVER 5.5 Strikeouts (conditional: only at +100 or better) (0.3722 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #2 MLB Prop - Yamamoto Over 5.5 Strikeouts (0.3722 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #1 MLB Prop - Yamamoto Over 5.5 Strikeouts (0.3722 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #2 MLB Prop - Yamamoto OVER 5.5 Strikeouts (conditional: only at +100 or better) (0.3722 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
