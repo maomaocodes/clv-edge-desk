@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 12
-- Shadow watch candidates: 0
+- Consensus rows scored: 19
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 WNBA Prop - Brittney Griner Over 0.5 Double Doubles (0.3754 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #2 WNBA Prop - Kiki Iriafen Over 0.5 Double Doubles (0.3603 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
 
 ## Rules Of Use
 
