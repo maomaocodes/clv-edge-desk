@@ -12,11 +12,11 @@
 ## Top CLV Thesis Candidates
 
 - #1 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #2 WNBA Prop - Brittney Griner Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
-- #3 WNBA Prop - Leila Lacan Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
-- #4 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #5 WNBA Prop - Shakira Austin Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
-- #6 WNBA Prop - Kiki Iriafen Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
+- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #3 WNBA Prop - Brittney Griner Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #4 WNBA Prop - Leila Lacan Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #5 WNBA Prop - Kiki Iriafen Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
+- #6 WNBA Prop - Shakira Austin Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
 - #7 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Washington Nationals, 18:45)
 - #8 MLB Total - Under 7.5 (0.364 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Francisco Giants, 21:45)
 - #9 MLB Prop - Miles Mikolas Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Washington Nationals, 18:45)
