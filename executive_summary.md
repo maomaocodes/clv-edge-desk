@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 146
-- Shadow watch candidates: 1
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer Total - Under 3.5 (0.3693 expected positive-CLV probability, clv_shadow_watch, Mexico vs England, 20:00)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
