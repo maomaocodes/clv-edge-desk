@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 19
+- Consensus rows scored: 22
 - Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,11 +11,11 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #1 WNBA Prop - Kiki Iriafen Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
 - #2 WNBA Prop - Shakira Austin Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
-- #3 WNBA Prop - Kiki Iriafen Over 7.5 Rebounds (0.3864 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics, 19:30)
-- #4 WNBA Prop - Leila Lacan Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
-- #5 WNBA Prop - Brittney Griner Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #3 WNBA Prop - Leila Lacan Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #4 WNBA Prop - Brittney Griner Over 9.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Connecticut Sun @ Minnesota Lynx, 20:00)
+- #5 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 - #6 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 
 ## Rules Of Use
