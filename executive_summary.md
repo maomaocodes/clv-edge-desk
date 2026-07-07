@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-07-06
+# Expected CLV Consensus Dashboard - 2026-07-07
 
 ## Executive Read
 
-- Consensus rows scored: 201
-- Shadow watch candidates: 4
+- Consensus rows scored: 8
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,10 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #2 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #3 Soccer BTTS - Both teams to score and over 2.5 goals (0.3661 expected positive-CLV probability, clv_shadow_watch, USA vs Belgium, TBD)
-- #4 MLB Total - Over 10 (0.3643 expected positive-CLV probability, clv_shadow_watch, Astros vs Nationals, TBD)
+- #1 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 
 ## Rules Of Use
 
