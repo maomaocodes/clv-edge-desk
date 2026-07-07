@@ -16,11 +16,11 @@
 - #3 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 - #4 MLB Total - Over 8 (0.3636 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Pittsburgh Pirates, 18:40)
 - #5 MLB Prop - Hurston Waldrep Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Pittsburgh Pirates, 18:40)
-- #6 MLB Prop - Will Warren Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Tampa Bay Rays, 18:40)
-- #7 MLB Prop - Bryan Woo Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Miami Marlins, 18:40)
-- #8 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
-- #9 MLB Prop - Matthew Boyd Over 4.5 Strikeouts (5+) (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
-- #10 MLB Prop - Andrew Abbott Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Cincinnati Reds, 19:10)
+- #6 MLB Prop - Andrew Abbott Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Cincinnati Reds, 19:10)
+- #7 MLB Prop - Matthew Boyd Over 4.5 Strikeouts (5+) (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
+- #8 MLB Prop - Bryan Woo Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Miami Marlins, 18:40)
+- #9 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
+- #10 MLB Prop - Will Warren Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Tampa Bay Rays, 18:40)
 
 ## Rules Of Use
 
