@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 98
+- Consensus rows scored: 102
 - Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -12,15 +12,15 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Jacob Misiorowski Over 7.5 Strikeouts (0.3922 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ St. Louis Cardinals, 14:15)
-- #2 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #3 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #3 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 - #4 MLB Total - Over 8 (0.3636 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Pittsburgh Pirates, 18:40)
-- #5 MLB Prop - Matthew Boyd Over 4.5 Strikeouts (5+) (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
-- #6 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
-- #7 MLB Prop - Hurston Waldrep Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Pittsburgh Pirates, 18:40)
+- #5 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
+- #6 MLB Prop - Hurston Waldrep Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Pittsburgh Pirates, 18:40)
+- #7 MLB Prop - Matthew Boyd Over 4.5 Strikeouts (5+) (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Baltimore Orioles, 18:35)
 - #8 MLB Prop - Andrew Abbott Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Cincinnati Reds, 19:10)
-- #9 MLB Prop - Will Warren Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Tampa Bay Rays, 18:40)
-- #10 MLB Prop - Bryan Woo Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Miami Marlins, 18:40)
+- #9 MLB Prop - Bryan Woo Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Miami Marlins, 18:40)
+- #10 MLB Prop - Will Warren Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Tampa Bay Rays, 18:40)
 
 ## Rules Of Use
 
