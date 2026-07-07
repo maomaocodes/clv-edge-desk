@@ -18,10 +18,10 @@
 - #5 MLB Total - Under 7.5 (0.3693 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Francisco Giants, 21:45)
 - #6 Soccer BTTS - Both teams to score and over 2.5 goals (0.3661 expected positive-CLV probability, clv_shadow_watch, USA vs Belgium, TBD)
 - #7 MLB Total - Over 10 (0.3643 expected positive-CLV probability, clv_shadow_watch, Astros vs Nationals, TBD)
-- #8 MLB Prop - Eric Lauer Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Los Angeles Dodgers, 22:10)
+- #8 MLB Prop - Kyle Freeland Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Los Angeles Dodgers, 22:10)
 - #9 MLB Prop - Walker Buehler Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Diego Padres, 21:40)
 - #10 MLB Prop - Landen Roupp Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Francisco Giants, 21:45)
-- #11 MLB Prop - Kyle Freeland Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Los Angeles Dodgers, 22:10)
+- #11 MLB Prop - Eric Lauer Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
