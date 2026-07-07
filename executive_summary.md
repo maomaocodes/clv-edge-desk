@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #1 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3806 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 
 ## Rules Of Use
 
