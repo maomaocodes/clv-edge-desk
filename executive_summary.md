@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
-- #2 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #1 WNBA Prop - Nyara Sabally Over 12.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
+- #2 WNBA Prop - Nyara Sabally Over 13.5 Points (0.3864 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ New York Liberty, 20:00)
 - #3 Soccer BTTS - Both teams to score and over 2.5 goals (0.3661 expected positive-CLV probability, clv_shadow_watch, USA vs Belgium, TBD)
 - #4 MLB Total - Over 10 (0.3643 expected positive-CLV probability, clv_shadow_watch, Astros vs Nationals, TBD)
 
