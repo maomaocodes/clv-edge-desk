@@ -21,8 +21,8 @@
 - #8 MLB Prop - Nick Martinez Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Tampa Bay Rays, 19:10)
 - #9 MLB Prop - Sandy Alcantara Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Miami Marlins, 19:10)
 - #10 MLB Prop - Chris Sale Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 20:15)
-- #11 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
-- #12 MLB Prop - Hunter Greene Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
+- #11 MLB Prop - Hunter Greene Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
+- #12 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
 
 ## Rules Of Use
 
