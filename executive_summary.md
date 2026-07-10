@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 164
+- Consensus rows scored: 168
 - Shadow watch candidates: 14
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -22,7 +22,7 @@
 - #9 MLB Prop - Sandy Alcantara Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Miami Marlins, 19:10)
 - #10 MLB Prop - Chris Sale Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 20:15)
 - #11 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
-- #12 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Mets, 19:15)
+- #12 MLB Prop - Hunter Greene Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
 
 ## Rules Of Use
 
