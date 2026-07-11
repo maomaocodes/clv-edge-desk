@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 17
-- Shadow watch candidates: 0
+- Consensus rows scored: 106
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Cam Schlittler Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Washington Nationals, 16:05)
+- #2 MLB Prop - Yoshinobu Yamamoto Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 21:10)
+- #3 MLB Prop - Trey Yesavage 5+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Diego Padres, 20:40)
+- #4 MLB Prop - Nick Lodolo Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
+- #5 MLB Prop - Reynaldo Lopez Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
+- #6 MLB Prop - Matthew Liberatore Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
+- #7 Soccer Prop - Erling Haaland Anytime Goalscorer (0.36 expected positive-CLV probability, clv_shadow_watch, Norway vs England, 17:00)
 
 ## Rules Of Use
 
