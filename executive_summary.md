@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 287
+- Consensus rows scored: 296
 - Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,9 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Yoshinobu Yamamoto Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 21:10)
+- #1 MLB Prop - Trey Yesavage 5+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Diego Padres, 20:40)
 - #2 MLB Prop - Nick Lodolo Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 19:10)
-- #3 MLB Prop - Trey Yesavage 5+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Diego Padres, 20:40)
+- #3 MLB Prop - Yoshinobu Yamamoto Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 21:10)
 - #4 MLB Prop - Reynaldo Lopez Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
 - #5 MLB Prop - Matthew Liberatore Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
 
