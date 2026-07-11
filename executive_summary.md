@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 204
-- Shadow watch candidates: 4
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,7 @@
 
 - #1 MLB Prop - Eduardo Rodriguez Under 4.5 Strikeouts (0.3873 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 22:10)
 - #2 MLB Total - Under 8.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 22:10)
-- #3 MLB Prop - Chris Sale Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 20:15)
-- #4 Soccer Prop - Lamine Yamal 2+ Shots On Goal (0.3603 expected positive-CLV probability, clv_shadow_watch, Lamine Yamal, TBD)
+- #3 Soccer Prop - Lamine Yamal 2+ Shots On Goal (0.3603 expected positive-CLV probability, clv_shadow_watch, Lamine Yamal, TBD)
 
 ## Rules Of Use
 
