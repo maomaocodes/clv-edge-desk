@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 309
-- Shadow watch candidates: 4
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,6 @@
 
 - #1 MLB Prop - Yoshinobu Yamamoto Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Los Angeles Dodgers, 21:10)
 - #2 MLB Prop - Trey Yesavage 5+ Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ San Diego Padres, 20:40)
-- #3 MLB Prop - Matthew Liberatore Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
-- #4 MLB Prop - Reynaldo Lopez Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ St. Louis Cardinals, 19:15)
 
 ## Rules Of Use
 
