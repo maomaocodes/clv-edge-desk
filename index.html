@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>2 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783927934507642544:2026-07-13T03:32:18" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-13T03:32:18.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783928997265323403:2026-07-13T03:50:26" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-13T03:50:26.</div>
         </aside>
       </div>
     </header>
@@ -533,7 +533,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-13T03:32:18. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-13T03:50:26. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -559,7 +559,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-13T03:32:18"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-13T03:50:26"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
