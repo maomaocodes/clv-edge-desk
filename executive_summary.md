@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 00:00)
+- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 12:30)
 - #2 MLB Prop - Junior Caminero to win Home Run Derby (0.3795 expected positive-CLV probability, clv_shadow_watch, Junior Caminero, TBD)
 
 ## Rules Of Use
