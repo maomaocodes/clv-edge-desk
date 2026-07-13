@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 23
+- Consensus rows scored: 28
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 00:00)
-- #2 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Miomir Kecmanovic vs Kilian Feldbausch, 06:00)
+- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Miomir Kecmanovic vs Kilian Feldbausch, 06:00)
+- #2 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 00:00)
 
 ## Rules Of Use
 
