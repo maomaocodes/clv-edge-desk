@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 3,
-    "pass_or_monitor": 82,
-    "stale_started": 26
+    "pass_or_monitor": 81,
+    "stale_started": 27
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1783979840.4785073,
-  "consensus_mtime_ns": 1783979840478507187,
+  "consensus_mtime": 1783981077.4719636,
+  "consensus_mtime_ns": 1783981077471963742,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 111,
-  "dashboard_version": "1783979840478507187:2026-07-13T17:57:48",
-  "generated_at": "2026-07-13T17:57:48",
+  "dashboard_version": "1783981077471963742:2026-07-13T18:18:26",
+  "generated_at": "2026-07-13T18:18:26",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -136,7 +136,7 @@
       "matched_training_rows": 256,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "Home Run Derby 2026; Odds: +425; MLB All-Star Home Run Derby; Odds: +500; 2026 Home Run Derby",
+      "notes": "2026 Home Run Derby; Odds: +425; MLB All-Star Home Run Derby; Odds: +500; Home Run Derby 2026",
       "opposing_count": "0",
       "pick": "Junior Caminero to win Home Run Derby",
       "primary_capper": "BettingWithBush",
