@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Miomir Kecmanovic vs Kilian Feldbausch, 06:15)
+- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Miomir Kecmanovic vs Kilian Feldbausch, 06:30)
 - #2 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 00:00)
 
 ## Rules Of Use
