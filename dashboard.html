@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>3 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783982332679924492:2026-07-13T18:39:04" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-13T18:39:04.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1783983582208470833:2026-07-13T19:00:13" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-13T19:00:13.</div>
         </aside>
       </div>
     </header>
@@ -511,7 +511,7 @@
             </thead>
             <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3863</strong><span class="prob-track" aria-hidden="true"><span style="width:38.6%"></span></span></div></td><td>0.0263</td><td>Tennis</td><td>Total</td><td><strong>Over 21.5</strong><small>Nao Hibino vs Clara Tauson</small></td><td>12:30</td><td>-120</td><td>6.0</td><td>ParlaySafari</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-clv_shadow_watch"><td>2</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3795</strong><span class="prob-track" aria-hidden="true"><span style="width:38.0%"></span></span></div></td><td>0.0195</td><td>MLB</td><td>Prop</td><td><strong>Munetaka Murakami to Win Home Run Derby</strong><small>Munetaka Murakami</small></td><td>TBD</td><td>540</td><td>1.0</td><td>BettingWithBush, CashCing</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
-<tr class="row-clv_shadow_watch"><td>3</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3678</strong><span class="prob-track" aria-hidden="true"><span style="width:36.8%"></span></span></div></td><td>0.0078</td><td>MLB</td><td>Prop</td><td><strong>Junior Caminero to win Home Run Derby</strong><small>Junior Caminero (TB)</small></td><td>19:00</td><td>500</td><td>4.9</td><td>BettingWithBush, Picks4Dayzzz, PorterPicks, midwestmikesports</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
+<tr class="row-clv_shadow_watch"><td>3</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3678</strong><span class="prob-track" aria-hidden="true"><span style="width:36.8%"></span></span></div></td><td>0.0078</td><td>MLB</td><td>Prop</td><td><strong>Junior Caminero to win Home Run Derby</strong><small>Junior Caminero (TB)</small></td><td>19:00</td><td>425</td><td>4.9</td><td>BettingWithBush, Picks4Dayzzz, PorterPicks, midwestmikesports</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3578</strong><span class="prob-track" aria-hidden="true"><span style="width:35.8%"></span></span></div></td><td>-0.0022</td><td>WNBA</td><td>Prop</td><td><strong>Kahleah Copper Over 19.5 Points</strong><small>Phoenix Mercury @ Minnesota Lynx</small></td><td>21:00</td><td></td><td>7.0</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>5</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3578</strong><span class="prob-track" aria-hidden="true"><span style="width:35.8%"></span></span></div></td><td>-0.0022</td><td>WNBA</td><td>Prop</td><td><strong>Jordin Canada Over 11.5 Points</strong><small>Los Angeles Sparks @ Atlanta Dream</small></td><td>19:00</td><td></td><td>7.0</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>6</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.356</strong><span class="prob-track" aria-hidden="true"><span style="width:35.6%"></span></span></div></td><td>-0.004</td><td>MLB</td><td>Prop</td><td><strong>Caglianone to win Home Run Derby</strong><small>Home Run Derby</small></td><td>TBD</td><td>750</td><td>5.0</td><td>AnalyticsCapper</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
@@ -552,7 +552,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-13T18:39:04. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-13T19:00:13. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -578,7 +578,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-13T18:39:04"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-13T19:00:13"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
