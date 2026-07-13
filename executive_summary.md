@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 23
-- Shadow watch candidates: 0
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 00:00)
+- #2 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Miomir Kecmanovic vs Kilian Feldbausch, 06:00)
 
 ## Rules Of Use
 
