@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 4,
-    "pass_or_monitor": 67,
-    "stale_started": 77
+    "pass_or_monitor": 66,
+    "stale_started": 78
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1783993509.8792398,
-  "consensus_mtime_ns": 1783993509879239867,
+  "consensus_mtime": 1783994865.4233973,
+  "consensus_mtime_ns": 1783994865423397322,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 148,
-  "dashboard_version": "1783993509879239867:2026-07-13T21:45:20",
-  "generated_at": "2026-07-13T21:45:20",
+  "dashboard_version": "1783994865423397322:2026-07-13T22:07:58",
+  "generated_at": "2026-07-13T22:07:58",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -38,7 +38,7 @@
       "data_quality_flags": "ok",
       "diagnostic_reason": "CLV gate cleared; live price check required",
       "edge_vs_threshold": 0.028,
-      "entry_odds": 600,
+      "entry_odds": 540,
       "entry_odds_source": "explicit_american",
       "event_age_minutes": "",
       "event_date_et": "2026-07-13",
@@ -56,7 +56,7 @@
       "matched_training_rows": 227,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "Home Run Derby; Odds: +600; Odds: +540; Unresolved event time - verify matchup/start",
+      "notes": "Home Run Derby; Odds: +540; Odds: +600; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
       "pick": "Munetaka Murakami to Win Home Run Derby",
       "primary_capper": "BettingWithBush",
