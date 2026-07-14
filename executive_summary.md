@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 22
-- Shadow watch candidates: 2
+- Consensus rows scored: 24
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,7 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 12:30)
-- #2 Tennis Total - Under 17.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Sebastian Baez vs Max Dahlin, 10:30)
 
 ## Rules Of Use
 
