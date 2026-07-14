@@ -12,7 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 12:30)
-- #2 Tennis Total - Under 17.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Sebastian Baez vs Max Dahlin, 09:30)
+- #2 Tennis Total - Under 17.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Sebastian Baez vs Max Dahlin, 10:30)
 
 ## Rules Of Use
 
