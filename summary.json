@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 2,
-    "pass_or_monitor": 17,
-    "stale_started": 3
+    "pass_or_monitor": 16,
+    "stale_started": 4
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1784035715.5823953,
-  "consensus_mtime_ns": 1784035715582395312,
+  "consensus_mtime": 1784037018.5645487,
+  "consensus_mtime_ns": 1784037018564548735,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 22,
-  "dashboard_version": "1784035715582395312:2026-07-14T09:28:54",
-  "generated_at": "2026-07-14T09:28:54",
+  "dashboard_version": "1784037018564548735:2026-07-14T09:50:33",
+  "generated_at": "2026-07-14T09:50:33",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -496,7 +496,7 @@
       "matched_training_rows": 122,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "World Cup; FIFA World Cup; Unresolved event time - verify matchup/start",
+      "notes": "FIFA World Cup; World Cup; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
       "pick": "Both Teams To Score (BTTS)",
       "primary_capper": "Mike's Research Bot 1.0",
