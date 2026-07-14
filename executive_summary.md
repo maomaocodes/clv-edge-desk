@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 84
-- Shadow watch candidates: 3
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 WNBA Prop - Sonia Citron Over 17.5 Points (0.3744 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Toronto Tempo, 19:00)
-- #2 MLB Total - Over 7.5 (0.3641 expected positive-CLV probability, clv_shadow_watch, AL vs NL, TBD)
-- #3 MLB Total - Over 8 (0.3641 expected positive-CLV probability, clv_shadow_watch, AL All-Stars @ NL All-Stars, 19:00)
+- #2 MLB Total - Over 8 (0.3641 expected positive-CLV probability, clv_shadow_watch, AL All-Stars @ NL All-Stars, 19:00)
 
 ## Rules Of Use
 
