@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>2 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784066704887631823:2026-07-14T18:05:12" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-14T18:05:12.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784068025068767364:2026-07-14T18:27:22" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-14T18:27:22.</div>
         </aside>
       </div>
     </header>
@@ -508,7 +508,7 @@
               </tr>
             </thead>
             <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3744</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0144</td><td>WNBA</td><td>Prop</td><td><strong>Sonia Citron Over 17.5 Points</strong><small>Washington Mystics @ Toronto Tempo</small></td><td>19:00</td><td>-122</td><td>5.1</td><td>Caruso, Shark Culture</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
-<tr class="row-clv_shadow_watch"><td>2</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3641</strong><span class="prob-track" aria-hidden="true"><span style="width:36.4%"></span></span></div></td><td>0.0041</td><td>MLB</td><td>Total</td><td><strong>Over 8</strong><small>AL All-Stars @ NL All-Stars</small></td><td>19:00</td><td>-115</td><td>2.7</td><td>BetSharper, midwestmikesports</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
+<tr class="row-clv_shadow_watch"><td>2</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3641</strong><span class="prob-track" aria-hidden="true"><span style="width:36.4%"></span></span></div></td><td>0.0041</td><td>MLB</td><td>Total</td><td><strong>Over 8</strong><small>AL All-Stars @ NL All-Stars</small></td><td>19:00</td><td>-105</td><td>2.7</td><td>BetSharper, midwestmikesports</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3578</strong><span class="prob-track" aria-hidden="true"><span style="width:35.8%"></span></span></div></td><td>-0.0022</td><td>WNBA</td><td>Prop</td><td><strong>Kobe Sanders Over 19.5 PRA</strong><small>Kobe Sanders</small></td><td>21:00</td><td>550</td><td>7.1</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3578</strong><span class="prob-track" aria-hidden="true"><span style="width:35.8%"></span></span></div></td><td>-0.0022</td><td>WNBA</td><td>Prop</td><td><strong>Kiki Iriafen Over 27.5 PRA</strong><small>Washington Mystics @ Toronto Tempo</small></td><td>19:00</td><td>550</td><td>7.1</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>5</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3578</strong><span class="prob-track" aria-hidden="true"><span style="width:35.8%"></span></span></div></td><td>-0.0022</td><td>WNBA</td><td>Prop</td><td><strong>Maria Conde Under 14.5 Points + Rebounds</strong><small>Washington Mystics @ Toronto Tempo</small></td><td>19:00</td><td>550</td><td>7.1</td><td>Matthewp07</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
@@ -550,7 +550,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-14T18:05:12. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-14T18:27:22. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -576,7 +576,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-14T18:05:12"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-14T18:27:22"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
