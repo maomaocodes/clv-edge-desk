@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 147
+- Consensus rows scored: 148
 - Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -12,8 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Munetaka Murakami to Win Home Run Derby (0.388 expected positive-CLV probability, clv_shadow_watch, Munetaka Murakami, TBD)
-- #2 Tennis Total - Under 17.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Sebastian Baez vs Max Dahlin, 09:30)
-- #3 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 12:30)
+- #2 Tennis Total - Over 21.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Nao Hibino vs Clara Tauson, 12:30)
+- #3 Tennis Total - Under 17.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, Sebastian Baez vs Max Dahlin, 09:30)
 - #4 MLB Prop - Junior Caminero to win (0.3725 expected positive-CLV probability, clv_shadow_watch, Home Run Derby, TBD)
 
 ## Rules Of Use
