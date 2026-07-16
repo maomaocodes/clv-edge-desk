@@ -467,7 +467,7 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784227544451632300:2026-07-16T14:55:44" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-16T14:55:44.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784228526886595325:2026-07-16T15:02:19" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-16T15:02:19.</div>
         </aside>
       </div>
     </header>
@@ -522,7 +522,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-16T14:55:44. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-16T15:02:19. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -548,7 +548,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-16T14:55:44"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-16T15:02:19"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
