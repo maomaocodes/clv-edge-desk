@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-07-09
+# Expected CLV Consensus Dashboard - 2026-07-10
 
 ## Executive Read
 
-- Consensus rows scored: 176
-- Shadow watch candidates: 0
+- Consensus rows scored: 200
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 Soccer Prop - Lamine Yamal 2+ Shots On Goal (0.3603 expected positive-CLV probability, clv_shadow_watch, Lamine Yamal, TBD)
 
 ## Rules Of Use
 
