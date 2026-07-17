@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-07-05
+# Expected CLV Consensus Dashboard - 2026-07-06
 
 ## Executive Read
 
-- Consensus rows scored: 144
-- Shadow watch candidates: 0
+- Consensus rows scored: 194
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 WNBA Prop - Kiki Iriafen Over 0.5 Double Doubles (0.3852 expected positive-CLV probability, clv_shadow_watch, Golden State Valkyries @ Washington Mystics / Connecticut Sun @ Minnesota Lynx, TBD)
+- #2 Soccer BTTS - Both teams to score and over 2.5 goals (0.3662 expected positive-CLV probability, clv_shadow_watch, USA vs Belgium, TBD)
+- #3 MLB Total - Over 10 (0.3643 expected positive-CLV probability, clv_shadow_watch, Astros vs Nationals, TBD)
 
 ## Rules Of Use
 
