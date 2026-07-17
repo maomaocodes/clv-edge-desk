@@ -1,8 +1,8 @@
-# Expected CLV Consensus Dashboard - 2026-07-07
+# Expected CLV Consensus Dashboard - 2026-07-08
 
 ## Executive Read
 
-- Consensus rows scored: 190
+- Consensus rows scored: 228
 - Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Nationals vs Astros, TBD)
+- #1 Soccer BTTS - Both teams to score and over 2.5 goals (0.3662 expected positive-CLV probability, clv_shadow_watch, USA vs Belgium, TBD)
 
 ## Rules Of Use
 
