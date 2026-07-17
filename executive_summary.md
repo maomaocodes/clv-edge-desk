@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 189
-- Shadow watch candidates: 4
+- Consensus rows scored: 190
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,10 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 19:40)
-- #2 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
-- #3 MLB Total - Over 12 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
-- #4 MLB Total - Over 8 (0.3639 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 19:40)
+- #1 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
+- #2 MLB Total - Over 12 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
