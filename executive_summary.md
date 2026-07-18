@@ -18,8 +18,8 @@
 - #5 MLB Prop - Max Meyer Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 16:10)
 - #6 MLB Prop - Spencer Arrighetti Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Houston Astros, 16:10)
 - #7 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Los Angeles Angels, 22:07)
-- #8 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
-- #9 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
+- #8 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
+- #9 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
 - #10 MLB Prop - Dustin May Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Arizona Diamondbacks, 16:10)
 - #11 MLB Prop - Brandon Pfaadt Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Arizona Diamondbacks, 16:10)
 
