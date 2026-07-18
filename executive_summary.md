@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
-- #2 MLB Total - Over 12 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
+- #1 MLB Total - Over 12 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
+- #2 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
