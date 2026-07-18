@@ -12,9 +12,9 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 9 (0.3636 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Yankees, 20:08)
-- #2 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
-- #3 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Los Angeles Angels, 22:07)
-- #4 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
+- #2 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
+- #3 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Seattle Mariners, 20:08)
+- #4 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Los Angeles Angels, 22:07)
 - #5 MLB Prop - Zack Littell Over 2.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 22:05)
 
 ## Rules Of Use
