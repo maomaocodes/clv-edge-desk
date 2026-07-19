@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 219
+- Consensus rows scored: 222
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Los Angeles Angels, 22:07)
-- #2 MLB Prop - Zack Littell Over 2.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 22:05)
+- #1 MLB Prop - Zack Littell Over 2.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 22:05)
+- #2 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Los Angeles Angels, 22:07)
 
 ## Rules Of Use
 
