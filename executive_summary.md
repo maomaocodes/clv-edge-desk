@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 163
-- Shadow watch candidates: 6
+- Consensus rows scored: 167
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,12 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Robert Gasser Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 14:10)
-- #2 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
+- #1 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
+- #2 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
 - #3 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
-- #4 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
-- #5 MLB Prop - Brandon Young Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Houston Astros, 14:10)
-- #6 MLB Prop - Noah Cameron Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Kansas City Royals, 14:10)
 
 ## Rules Of Use
 
