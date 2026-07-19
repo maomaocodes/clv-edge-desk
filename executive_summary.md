@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 21
-- Shadow watch candidates: 0
+- Consensus rows scored: 78
+- Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,16 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
+- #2 MLB Prop - Sonny Gray Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Boston Red Sox, 13:35)
+- #3 MLB Prop - Nolan McLean Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Philadelphia Phillies, 13:35)
+- #4 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
+- #5 MLB Prop - Noah Cameron Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Kansas City Royals, 14:10)
+- #6 MLB Prop - Robert Gasser Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 14:10)
+- #7 MLB Prop - Nathan Eovaldi Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Atlanta Braves, 13:35)
+- #8 MLB Prop - Brandon Young Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Houston Astros, 14:10)
+- #9 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
+- #10 MLB Prop - Paul Skenes Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Cleveland Guardians, 13:40)
 
 ## Rules Of Use
 
