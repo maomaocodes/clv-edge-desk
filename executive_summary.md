@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 101
+- Consensus rows scored: 112
 - Shadow watch candidates: 11
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -12,16 +12,16 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Yankees, 12:35)
-- #2 MLB Prop - Nathan Eovaldi Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Atlanta Braves, 13:35)
-- #3 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
+- #2 MLB Prop - Nolan McLean Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Philadelphia Phillies, 13:35)
+- #3 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
 - #4 MLB Prop - Robert Gasser Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Milwaukee Brewers, 14:10)
-- #5 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
-- #6 MLB Prop - Brandon Young Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Houston Astros, 14:10)
-- #7 MLB Prop - Nolan McLean Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Philadelphia Phillies, 13:35)
-- #8 MLB Prop - Paul Skenes Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Cleveland Guardians, 13:40)
-- #9 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
+- #5 MLB Prop - Brandon Young Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Houston Astros, 14:10)
+- #6 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
+- #7 MLB Prop - Nathan Eovaldi Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Atlanta Braves, 13:35)
+- #8 MLB Prop - Sonny Gray Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Boston Red Sox, 13:35)
+- #9 MLB Prop - Paul Skenes Over 7 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Cleveland Guardians, 13:40)
 - #10 MLB Prop - Noah Cameron Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Kansas City Royals, 14:10)
-- #11 MLB Prop - Sonny Gray Under 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Boston Red Sox, 13:35)
+- #11 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
 
 ## Rules Of Use
 
