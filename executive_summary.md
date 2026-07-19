@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 167
-- Shadow watch candidates: 3
+- Consensus rows scored: 178
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Shota Imanaga Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
-- #2 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago Cubs, 14:20)
-- #3 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
+- #1 MLB Prop - Foster Griffin Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Oakland Athletics, 16:05)
 
 ## Rules Of Use
 
