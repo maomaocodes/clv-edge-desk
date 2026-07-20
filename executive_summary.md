@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 184
+- Consensus rows scored: 185
 - Shadow watch candidates: 15
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -16,13 +16,13 @@
 - #3 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Seattle Mariners, 21:40)
 - #4 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Texas Rangers, 20:05)
 - #5 MLB Total - Over 10.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Kansas City Royals, 19:40)
-- #6 MLB Prop - Jeffrey Springs Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Arizona Diamondbacks, 21:40)
-- #7 MLB Prop - Cristopher Sanchez Under 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 19:00)
-- #8 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Boston Red Sox, 19:10)
-- #9 MLB Prop - Payton Tolle Over 6 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Boston Red Sox, 19:10)
+- #6 MLB Prop - Shane Baz Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Boston Red Sox, 19:10)
+- #7 MLB Prop - Trevor McDonald Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Kansas City Royals, 19:40)
+- #8 MLB Prop - Jeffrey Springs Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Arizona Diamondbacks, 21:40)
+- #9 MLB Prop - JP Sears Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
 - #10 MLB Prop - Andrew Abbott Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Seattle Mariners, 21:40)
-- #11 MLB Prop - JP Sears Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
-- #12 MLB Prop - Bryce Elder Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
+- #11 MLB Prop - Bryce Elder Over 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
+- #12 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 19:40)
 
 ## Rules Of Use
 
