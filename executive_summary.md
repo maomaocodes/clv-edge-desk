@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 70
+- Consensus rows scored: 64
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -16,8 +16,8 @@
 - #3 Soccer Total - Over 3 (0.3693 expected positive-CLV probability, clv_shadow_watch, FC Thun vs Dinamo Zagreb, TBD)
 - #4 MLB Total - Over 12.5 (0.3689 expected positive-CLV probability, clv_shadow_watch, Nationals vs Rockies, TBD)
 - #5 MLB Total - Over 12.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 20:40)
-- #6 MLB Total - Over 8.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
-- #7 MLB Total - Over 9.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Kansas City Royals, 19:40)
+- #6 MLB Total - Over 9.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Kansas City Royals, 19:40)
+- #7 MLB Total - Over 8.5 (0.3641 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
 
 ## Rules Of Use
 
