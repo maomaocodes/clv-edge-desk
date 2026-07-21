@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 136
-- Shadow watch candidates: 15
+- Consensus rows scored: 137
+- Shadow watch candidates: 14
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -15,7 +15,7 @@
 - #2 MLB Prop - Matt Olson HR (0.3925 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
 - #3 MLB Prop - Griffin Conine HR (0.3925 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Houston Astros, 20:10)
 - #4 MLB Prop - Drake Baldwin HR (0.3925 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
-- #5 MLB Total - Under 9 (0.379 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
+- #5 MLB Total - Over 12.5 (0.3712 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 20:40)
 - #6 MLB Total - Over 9.5 (0.3698 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Kansas City Royals, 19:40)
 - #7 MLB Total - Over 8.5 (0.3697 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Houston Astros, 20:10)
 - #8 MLB Total - Over 8.5 (0.3696 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
