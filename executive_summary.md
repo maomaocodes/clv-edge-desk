@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Griffin Conine HR (0.3925 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Houston Astros, 20:10)
-- #2 MLB Prop - Colson Montgomery HR (0.3925 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Texas Rangers, 20:05)
+- #1 MLB Prop - Colson Montgomery HR (0.3925 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Texas Rangers, 20:05)
+- #2 MLB Prop - Griffin Conine HR (0.3925 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Houston Astros, 20:10)
 - #3 MLB Prop - Drake Baldwin HR (0.3925 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
 - #4 MLB Prop - Matt Olson HR (0.3925 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Atlanta Braves, 19:15)
 - #5 MLB Total - Under 9 (0.379 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
