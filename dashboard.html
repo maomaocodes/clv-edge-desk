@@ -467,7 +467,7 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784612734145303686:2026-07-21T01:45:53" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-21T01:45:53.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1784613737195369780:2026-07-21T02:02:29" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-21T02:02:29.</div>
         </aside>
       </div>
     </header>
@@ -507,12 +507,12 @@
             </thead>
             <tbody><tr class="row-pass_or_monitor"><td>1</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3167</strong><span class="prob-track" aria-hidden="true"><span style="width:31.7%"></span></span></div></td><td>-0.0433</td><td>Soccer</td><td>BTTS</td><td><strong>Both Teams to Score — YES</strong><small>Sturm Graz vs Hearts</small></td><td>14:30</td><td></td><td>5.1</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>2</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3167</strong><span class="prob-track" aria-hidden="true"><span style="width:31.7%"></span></span></div></td><td>-0.0433</td><td>Tennis</td><td>Set Betting</td><td><strong>Krejcikova to Win 2-0 (Set Betting)</strong><small>Barbora Krejcikova vs Linda Fruhvirtova</small></td><td>09:30</td><td></td><td>4.4</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2955</strong><span class="prob-track" aria-hidden="true"><span style="width:29.5%"></span></span></div></td><td>-0.0645</td><td>Tennis</td><td>ML</td><td><strong>Cerundolo to Win Match</strong><small>Marco Trungelliti vs Juan Manuel Cerundolo</small></td><td>05:00</td><td></td><td>5.4</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2955</strong><span class="prob-track" aria-hidden="true"><span style="width:29.5%"></span></span></div></td><td>-0.0645</td><td>Tennis</td><td>ML</td><td><strong>Burruchaga to Win Match</strong><small>Roman Andres Burruchaga vs Stan Wawrinka</small></td><td>10:00</td><td></td><td>5.4</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+<tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2955</strong><span class="prob-track" aria-hidden="true"><span style="width:29.5%"></span></span></div></td><td>-0.0645</td><td>Tennis</td><td>ML</td><td><strong>Cerundolo to Win Match</strong><small>Marco Trungelliti vs Juan Manuel Cerundolo</small></td><td>05:00</td><td></td><td>5.5</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2955</strong><span class="prob-track" aria-hidden="true"><span style="width:29.5%"></span></span></div></td><td>-0.0645</td><td>Tennis</td><td>ML</td><td><strong>Burruchaga to Win Match</strong><small>Roman Andres Burruchaga vs Stan Wawrinka</small></td><td>10:00</td><td></td><td>5.5</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-21T01:45:53. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-21T02:02:29. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -538,7 +538,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-21T01:45:53"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-21T02:02:29"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
