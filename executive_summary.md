@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 18
-- Shadow watch candidates: 0
+- Consensus rows scored: 68
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 Champions League Total - Over 2.75 (0.3902 expected positive-CLV probability, clv_shadow_watch, Thun vs Dinamo, 14:00)
+- #2 MLB Total - Over 12.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 20:40)
+- #3 MLB Total - Over 8.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Philadelphia Phillies, 18:40)
 
 ## Rules Of Use
 
