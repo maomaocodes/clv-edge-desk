@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 119
+- Consensus rows scored: 125
 - Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,9 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - William Contreras HR (0.3795 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
-- #2 MLB Prop - Esmerlyn Valdez HR (0.3795 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ New York Yankees, 13:05)
-- #3 MLB Prop - Ben Rice HR (0.3795 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ New York Yankees, 13:05)
+- #1 MLB Prop - Esmerlyn Valdez HR (0.3795 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ New York Yankees, 13:05)
+- #2 MLB Prop - Ben Rice HR (0.3795 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ New York Yankees, 13:05)
+- #3 MLB Prop - William Contreras HR (0.3795 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
 - #4 MLB Total - Over 11.5 (0.3713 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 15:10)
 - #5 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
 
