@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-07-21
+# Expected CLV Consensus Dashboard - 2026-07-22
 
 ## Executive Read
 
-- Consensus rows scored: 169
-- Shadow watch candidates: 1
+- Consensus rows scored: 10
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer Total - Over 3 (0.3693 expected positive-CLV probability, clv_shadow_watch, FC Thun vs Dinamo Zagreb, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
