@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 38
-- Shadow watch candidates: 0
+- Consensus rows scored: 88
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Total - Over 11.5 (0.3713 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 15:10)
+- #2 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
 
 ## Rules Of Use
 
