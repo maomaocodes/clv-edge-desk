@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 1,
-    "pass_or_monitor": 73,
+    "pass_or_monitor": 70,
     "price_unverified_watch": 4,
-    "stale_started": 77
+    "stale_started": 80
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1784750481.5860393,
-  "consensus_mtime_ns": 1784750481586039281,
+  "consensus_mtime": 1784751522.6852994,
+  "consensus_mtime_ns": 1784751522685299441,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 155,
-  "dashboard_version": "1784750481586039281:2026-07-22T16:01:29",
-  "generated_at": "2026-07-22T16:01:29",
+  "dashboard_version": "1784751522685299441:2026-07-22T16:18:56",
+  "generated_at": "2026-07-22T16:18:56",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -479,7 +479,7 @@
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0172,
-      "entry_odds": 411,
+      "entry_odds": 482,
       "entry_odds_source": "explicit_american",
       "event_age_minutes": "",
       "event_date_et": "2026-07-22",
@@ -497,13 +497,13 @@
       "matched_training_rows": 639,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "Odds: +411",
+      "notes": "Odds: +482",
       "opposing_count": "0",
-      "pick": "Bryce Harper to Hit Home Run",
+      "pick": "Andy Pages to Hit Home Run",
       "primary_capper": "BetSharper",
       "prior_positive_clv_prob": 0.3126,
       "rank": 12,
-      "row_key": "MLB|Los Angeles Dodgers @ Philadelphia Phillies|Prop|Bryce Harper to Hit Home Run|18:40|BetSharper",
+      "row_key": "MLB|Los Angeles Dodgers @ Philadelphia Phillies|Prop|Andy Pages to Hit Home Run|18:40|BetSharper",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
