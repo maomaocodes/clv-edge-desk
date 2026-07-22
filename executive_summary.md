@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 133
-- Shadow watch candidates: 4
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 419
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,10 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - William Contreras HR (0.3795 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
-- #2 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 15:10)
-- #3 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Milwaukee Brewers, 14:10)
-- #4 MLB Total - Under 8 (0.3639 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago Cubs, 20:00)
+- #1 MLB Total - Over 11.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Colorado Rockies, 15:10)
+- #2 MLB Total - Under 8 (0.3639 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago Cubs, 20:00)
 
 ## Rules Of Use
 
