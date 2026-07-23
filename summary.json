@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1784834377.885675,
-  "consensus_mtime_ns": 1784834377885674901,
+  "consensus_mtime": 1784835430.5684872,
+  "consensus_mtime_ns": 1784835430568487077,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 128,
-  "dashboard_version": "1784834377885674901:2026-07-23T15:20:04",
-  "generated_at": "2026-07-23T15:20:04",
+  "dashboard_version": "1784835430568487077:2026-07-23T15:37:29",
+  "generated_at": "2026-07-23T15:37:29",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -67,7 +67,7 @@
       "source_count": "2",
       "source_count_bucket": "sources_2",
       "started": "No",
-      "suggested_units": "1.0",
+      "suggested_units": "1.5",
       "suggested_units_bucket": "units_1_to_1_99",
       "support_status": "strong_support",
       "threshold": 0.36
@@ -97,7 +97,7 @@
       "matched_training_rows": 408,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "MLB 2026; MLB; Odds: +100; Opposed by: SmartMoneySports",
+      "notes": "MLB; Odds: +100; MLB 2026; Opposed by: SmartMoneySports",
       "opposing_count": "1",
       "pick": "Under 8",
       "primary_capper": "Cblez",
@@ -227,7 +227,7 @@
       "source_count": "3",
       "source_count_bucket": "sources_3",
       "started": "No",
-      "suggested_units": "1.0",
+      "suggested_units": "1.5",
       "suggested_units_bucket": "units_1_to_1_99",
       "support_status": "strong_support",
       "threshold": 0.36
