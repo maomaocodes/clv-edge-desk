@@ -13,12 +13,12 @@
 
 - #1 MLB Total - Over 8 (0.3718 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ St. Louis Cardinals, 20:15)
 - #2 MLB Total - Over 9.5 (0.3718 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
-- #3 MLB Total - Under 7.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
-- #4 MLB Total - Over 8.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
-- #5 MLB Prop - Davis Martin Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
+- #3 MLB Total - Over 8.5 (0.3714 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
+- #4 MLB Total - Under 7.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
+- #5 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
 - #6 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
 - #7 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
-- #8 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
+- #8 MLB Prop - Davis Martin Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
 
 ## Rules Of Use
 
