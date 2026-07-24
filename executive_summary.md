@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 141
+- Consensus rows scored: 143
 - Shadow watch candidates: 14
 - Threshold: 0.36
 - Training CLV rows: 419
@@ -11,18 +11,18 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 7.5 (0.367 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
-- #2 MLB Total - Over 8.5 (0.367 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
+- #1 MLB Total - Over 8.5 (0.367 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
+- #2 MLB Total - Under 7.5 (0.367 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
 - #3 MLB Total - Under 7.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Philadelphia Phillies, 18:45)
 - #4 MLB Total - Over 9 (0.3636 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
-- #5 MLB Prop - Davis Martin Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
-- #6 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
-- #7 MLB Prop - Tomoyuki Sugano Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Milwaukee Brewers, 16:10)
-- #8 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
+- #5 MLB Prop - Tomoyuki Sugano Under 3.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Milwaukee Brewers, 16:10)
+- #6 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
+- #7 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
+- #8 MLB Prop - Shane McClanahan Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Tampa Bay Rays, 19:10)
 - #9 MLB Prop - Jesus Luzardo Under 7.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Philadelphia Phillies, 18:45)
-- #10 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
-- #11 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
-- #12 MLB Prop - Shane McClanahan Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Tampa Bay Rays, 19:10)
+- #10 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
+- #11 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
+- #12 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3618 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
 
 ## Rules Of Use
 
