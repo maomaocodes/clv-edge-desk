@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 205
-- Shadow watch candidates: 13
+- Consensus rows scored: 206
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 420
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -15,14 +15,10 @@
 - #2 MLB Total - Over 9.5 (0.3718 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
 - #3 MLB Total - Under 7.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
 - #4 MLB Total - Over 8.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
-- #5 MLB Total - Over 8.5 (0.3649 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Miami Marlins, 19:10)
-- #6 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
-- #7 MLB Prop - Davis Martin Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
-- #8 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
-- #9 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
-- #10 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:10)
-- #11 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
-- #12 MLB Prop - Grant Holmes Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Baltimore Orioles, 19:05)
+- #5 MLB Prop - Davis Martin Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Chicago White Sox, 19:40)
+- #6 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 20:05)
+- #7 MLB Prop - Zebby Matthews Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Minnesota Twins, 20:10)
+- #8 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
 
 ## Rules Of Use
 
