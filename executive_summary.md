@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 288
+- Consensus rows scored: 291
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 420
@@ -12,7 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 7.5 (0.3718 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 19:15)
-- #2 MLB Total - Under 7.5 (0.3654 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:15)
+- #2 MLB Total - Under 7.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:15)
 
 ## Rules Of Use
 
