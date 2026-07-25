@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 3,
-    "pass_or_monitor": 178,
+    "pass_or_monitor": 179,
     "price_unverified_watch": 2,
-    "stale_started": 9
+    "stale_started": 11
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1784996059.5631793,
-  "consensus_mtime_ns": 1784996059563179166,
+  "consensus_mtime": 1784997174.2949579,
+  "consensus_mtime_ns": 1784997174294957833,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 192,
-  "dashboard_version": "1784996059563179166:2026-07-25T12:14:44",
-  "generated_at": "2026-07-25T12:14:44",
+  "consensus_rows": 195,
+  "dashboard_version": "1784997174294957833:2026-07-25T12:33:20",
+  "generated_at": "2026-07-25T12:33:20",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -259,11 +259,11 @@
       "model_score_band": "score_under_6",
       "notes": "",
       "opposing_count": "0",
-      "pick": "George Springer Over 0.5 Hits+Runs+RBIs",
+      "pick": "Masataka Yoshida Over 0.5 Hits+Runs+RBIs",
       "primary_capper": "SnewJ",
       "prior_positive_clv_prob": 0.3119,
       "rank": 6,
-      "row_key": "MLB|Toronto Blue Jays @ Boston Red Sox|Prop|George Springer Over 0.5 Hits+Runs+RBIs|16:10|SnewJ",
+      "row_key": "MLB|Toronto Blue Jays @ Boston Red Sox|Prop|Masataka Yoshida Over 0.5 Hits+Runs+RBIs|16:10|SnewJ",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -339,11 +339,11 @@
       "model_score_band": "score_under_6",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Masataka Yoshida Over 0.5 Hits+Runs+RBIs",
+      "pick": "George Springer Over 0.5 Hits+Runs+RBIs",
       "primary_capper": "SnewJ",
       "prior_positive_clv_prob": 0.3119,
       "rank": 8,
-      "row_key": "MLB|Toronto Blue Jays @ Boston Red Sox|Prop|Masataka Yoshida Over 0.5 Hits+Runs+RBIs|16:10|SnewJ",
+      "row_key": "MLB|Toronto Blue Jays @ Boston Red Sox|Prop|George Springer Over 0.5 Hits+Runs+RBIs|16:10|SnewJ",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
