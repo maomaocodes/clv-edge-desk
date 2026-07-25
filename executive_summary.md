@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 296
-- Shadow watch candidates: 2
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 420
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 7.5 (0.3718 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 19:15)
-- #2 MLB Total - Under 7.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:15)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
