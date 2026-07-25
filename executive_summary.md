@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 240
-- Shadow watch candidates: 3
+- Consensus rows scored: 244
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 420
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,7 +13,6 @@
 
 - #1 MLB Total - Over 7.5 (0.3681 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Tampa Bay Rays, 18:10)
 - #2 MLB Total - Under 7.5 (0.3654 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ New York Mets, 19:15)
-- #3 MLB Total - Over 9 (0.365 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Washington Nationals, 16:05)
 
 ## Rules Of Use
 
