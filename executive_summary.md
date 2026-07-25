@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 138
+- Consensus rows scored: 174
 - Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 420
