@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 206
-- Shadow watch candidates: 2
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 420
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 8 (0.3718 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ St. Louis Cardinals, 20:15)
-- #2 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
+- #1 MLB Prop - Logan Webb Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ San Francisco Giants, 22:15)
 
 ## Rules Of Use
 
