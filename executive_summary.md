@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 151
+- Consensus rows scored: 162
 - Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 420
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 8.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Baltimore Orioles, 13:35)
+- #1 MLB Total - Over 8.5 (0.3737 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Baltimore Orioles, 13:35)
 - #2 MLB Total - Under 8.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ St. Louis Cardinals, 14:15)
 - #3 MLB Total - Over 8 (0.368 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Philadelphia Phillies, 19:20)
 - #4 MLB Total - Under 7.5 (0.3674 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Texas Rangers, 14:35)
