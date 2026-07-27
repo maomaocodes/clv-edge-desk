@@ -2,9 +2,9 @@
   "action_counts": {
     "clv_shadow_watch": 3,
     "high_score_clv_unconfirmed": 4,
-    "pass_or_monitor": 70,
+    "pass_or_monitor": 63,
     "price_unverified_watch": 2,
-    "stale_started": 119
+    "stale_started": 126
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785193778.2404952,
-  "consensus_mtime_ns": 1785193778240495205,
+  "consensus_mtime": 1785194886.4201481,
+  "consensus_mtime_ns": 1785194886420148051,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 198,
-  "dashboard_version": "1785193778240495205:2026-07-27T19:09:49",
-  "generated_at": "2026-07-27T19:09:49",
+  "dashboard_version": "1785194886420148051:2026-07-27T19:28:21",
+  "generated_at": "2026-07-27T19:28:21",
   "high_score_clv_unconfirmed_count": 4,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -369,7 +369,7 @@
       "event_time_et": "19:45",
       "expected_positive_clv_prob": 0.2538,
       "game": "Chicago Cubs @ St. Louis Cardinals",
-      "handicappers": "Picks4Dayzzz, TheGamblingGawd, A11Bets, BeezoWins, ProfiticSports, BBank, Insider",
+      "handicappers": "Picks4Dayzzz, TheGamblingGawd, A11Bets, BeezoWins, ProfiticSports, BBank, Insider, BankrollBill",
       "has_lock": "Yes",
       "league": "MLB",
       "market": "ML",
@@ -384,8 +384,8 @@
       "primary_capper": "Picks4Dayzzz",
       "prior_positive_clv_prob": 0.3119,
       "rank": 9,
-      "row_key": "MLB|Chicago Cubs @ St. Louis Cardinals|ML|Cubs ML|19:45|Picks4Dayzzz, TheGamblingGawd, A11Bets, BeezoWins, ProfiticSports, BBank, Insider",
-      "source_count": "7",
+      "row_key": "MLB|Chicago Cubs @ St. Louis Cardinals|ML|Cubs ML|19:45|Picks4Dayzzz, TheGamblingGawd, A11Bets, BeezoWins, ProfiticSports, BBank, Insider, BankrollBill",
+      "source_count": "8",
       "source_count_bucket": "sources_4_plus",
       "started": "No",
       "suggested_units": "2.0",
