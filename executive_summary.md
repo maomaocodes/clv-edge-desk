@@ -18,10 +18,10 @@
 - #5 MLB Prop - Kyle Bradish Over 5.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Detroit Tigers, 18:40)
 - #6 MLB Prop - Tyler Phillips Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Miami Marlins, 18:40)
 - #7 MLB Prop - Zack Wheeler 7+ Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Miami Marlins, 18:40)
-- #8 MLB Prop - Max Scherzer Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
-- #9 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
-- #10 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Los Angeles Angels, 21:38)
-- #11 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #8 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #9 MLB Prop - Max Scherzer Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
+- #10 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
+- #11 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Los Angeles Angels, 21:38)
 
 ## Rules Of Use
 
