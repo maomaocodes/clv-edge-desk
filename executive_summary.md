@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 186
+- Consensus rows scored: 188
 - Shadow watch candidates: 15
 - Threshold: 0.36
 - Training CLV rows: 420
@@ -15,14 +15,14 @@
 - #2 MLB Total - Over 9.5 (0.3733 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
 - #3 MLB Total - Under 8.5 (0.3718 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
 - #4 MLB Total - Over 8.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Francisco Giants, 21:45)
-- #5 MLB Total - Over 10 (0.3654 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
-- #6 MLB Total - Over 9.5 (0.3651 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
-- #7 MLB Total - Over 9 (0.365 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
+- #5 MLB Total - Over 9 (0.3677 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
+- #6 MLB Total - Over 10 (0.3654 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
+- #7 MLB Total - Over 9.5 (0.3651 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
 - #8 MLB Total - Under 8.5 (0.365 expected positive-CLV probability, clv_shadow_watch, Orioles vs Tigers, 18:40)
-- #9 MLB Prop - Max Scherzer Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
-- #10 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
-- #11 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
-- #12 MLB Prop - Zack Wheeler 7+ Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Miami Marlins, 18:40)
+- #9 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #10 MLB Prop - Max Scherzer Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Washington Nationals, 18:45)
+- #11 MLB Prop - Tyler Phillips Under 3.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Miami Marlins, 18:40)
+- #12 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Pittsburgh Pirates, 18:40)
 
 ## Rules Of Use
 
