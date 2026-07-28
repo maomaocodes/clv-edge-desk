@@ -12,8 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 8.5 (0.3682 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Francisco Giants, 21:45)
-- #2 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
-- #3 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Los Angeles Angels, 21:38)
+- #2 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Los Angeles Angels, 21:38)
+- #3 MLB Prop - Jack Perkins Over 4.5 Strikeouts (0.3617 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
