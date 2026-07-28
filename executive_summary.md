@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 132
+- Consensus rows scored: 152
 - Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 420
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.3648 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #1 MLB Total - Over 9.5 (0.3674 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
