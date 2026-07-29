@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 1,
-    "pass_or_monitor": 160,
-    "stale_started": 110
+    "pass_or_monitor": 167,
+    "stale_started": 111
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785363216.0126865,
-  "consensus_mtime_ns": 1785363216012686483,
+  "consensus_mtime": 1785364346.1268063,
+  "consensus_mtime_ns": 1785364346126806269,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 271,
-  "dashboard_version": "1785363216012686483:2026-07-29T18:13:42",
-  "generated_at": "2026-07-29T18:13:42",
+  "consensus_rows": 279,
+  "dashboard_version": "1785364346126806269:2026-07-29T18:32:51",
+  "generated_at": "2026-07-29T18:32:51",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -178,11 +178,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Arike Ogunbowale Under 19.5 PRA",
+      "pick": "Chelsea Gray Over 6.5 Assists",
       "primary_capper": "Matthewp07",
       "prior_positive_clv_prob": 0.3129,
       "rank": 4,
-      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Arike Ogunbowale Under 19.5 PRA|20:00|Matthewp07",
+      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Chelsea Gray Over 6.5 Assists|20:00|Matthewp07",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -218,11 +218,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Chelsea Gray Over 6.5 Assists",
+      "pick": "Arike Ogunbowale Under 19.5 PRA",
       "primary_capper": "Matthewp07",
       "prior_positive_clv_prob": 0.3129,
       "rank": 5,
-      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Chelsea Gray Over 6.5 Assists|20:00|Matthewp07",
+      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Arike Ogunbowale Under 19.5 PRA|20:00|Matthewp07",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
