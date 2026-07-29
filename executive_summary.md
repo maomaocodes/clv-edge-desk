@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 226
-- Shadow watch candidates: 2
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 7.5 (0.3734 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Francisco Giants, 15:45)
-- #2 MLB Total - Over 10.5 (0.369 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #1 MLB Total - Over 10.5 (0.369 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
