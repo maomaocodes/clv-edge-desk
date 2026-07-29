@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 286
+- Consensus rows scored: 287
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 425
@@ -12,7 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 Tennis Prop - Jodar to win 2-0 (straight sets) (0.3774 expected positive-CLV probability, clv_shadow_watch, Kei Nishikori vs Rafael Jodar, 20:00)
-- #2 MLB Total - Over 7.5 (0.3731 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Tampa Bay Rays, 18:40)
+- #2 MLB Total - Under 7.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Chicago White Sox, 19:40)
 
 ## Rules Of Use
 
