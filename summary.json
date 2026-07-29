@@ -1,7 +1,7 @@
 {
   "action_counts": {
-    "pass_or_monitor": 121,
-    "stale_started": 107
+    "pass_or_monitor": 128,
+    "stale_started": 108
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785356368.07363,
-  "consensus_mtime_ns": 1785356368073630066,
+  "consensus_mtime": 1785357422.2717755,
+  "consensus_mtime_ns": 1785357422271775598,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 228,
-  "dashboard_version": "1785356368073630066:2026-07-29T16:19:38",
-  "generated_at": "2026-07-29T16:19:38",
+  "consensus_rows": 236,
+  "dashboard_version": "1785357422271775598:2026-07-29T16:37:17",
+  "generated_at": "2026-07-29T16:37:17",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -97,11 +97,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Chelsea Gray Over 6.5 Assists",
+      "pick": "Arike Ogunbowale Under 19.5 PRA",
       "primary_capper": "Matthewp07",
       "prior_positive_clv_prob": 0.3129,
       "rank": 2,
-      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Chelsea Gray Over 6.5 Assists|20:00|Matthewp07",
+      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Arike Ogunbowale Under 19.5 PRA|20:00|Matthewp07",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -137,11 +137,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Arike Ogunbowale Under 19.5 PRA",
+      "pick": "Chelsea Gray Over 6.5 Assists",
       "primary_capper": "Matthewp07",
       "prior_positive_clv_prob": 0.3129,
       "rank": 3,
-      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Arike Ogunbowale Under 19.5 PRA|20:00|Matthewp07",
+      "row_key": "WNBA|Atlanta Dream @ Dallas Wings|Prop|Chelsea Gray Over 6.5 Assists|20:00|Matthewp07",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
