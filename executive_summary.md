@@ -5,7 +5,7 @@
 - Consensus rows scored: 22
 - Shadow watch candidates: 0
 - Threshold: 0.36
-- Training CLV rows: 421
+- Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
 - Output is advisory only; verify live price/line movement before any decision.
 
