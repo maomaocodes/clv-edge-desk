@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 79
-- Shadow watch candidates: 0
+- Consensus rows scored: 111
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 Tennis Prop - Alex De Minaur Under 12.5 Games Won (0.3774 expected positive-CLV probability, clv_shadow_watch, Cruz Hewitt vs Alex de Minaur, 13:00)
 
 ## Rules Of Use
 
