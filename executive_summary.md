@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 251
-- Shadow watch candidates: 5
+- Consensus rows scored: 254
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,11 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Kyle Stowers Over 0.5 H+R+RBI (0.3899 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
-- #2 MLB Prop - Cal Raleigh Under 0.5 HR (0.3899 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Dodgers, 22:10)
-- #3 MLB Total - Under 7 (0.3736 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
-- #4 MLB Total - Under 10 (0.3735 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
-- #5 MLB Total - Over 9.5 (0.3731 expected positive-CLV probability, clv_shadow_watch, Nationals vs Braves, 19:15)
+- #1 MLB Prop - Cal Raleigh Under 0.5 HR (0.3899 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Dodgers, 22:10)
+- #2 MLB Total - Under 10 (0.3735 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
