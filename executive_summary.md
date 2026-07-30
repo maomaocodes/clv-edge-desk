@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 181
-- Shadow watch candidates: 6
+- Consensus rows scored: 196
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,10 +13,8 @@
 
 - #1 MLB Total - Over 9.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Atlanta Braves, 19:00)
 - #2 MLB Total - Under 7 (0.3736 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
-- #3 MLB Total - Under 8.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ St. Louis Cardinals, 14:15)
-- #4 MLB Total - Under 10 (0.3735 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
-- #5 MLB Total - Under 9 (0.3721 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ St. Louis Cardinals, 14:15)
-- #6 Tennis Total - Over 21 (0.3645 expected positive-CLV probability, clv_shadow_watch, Anastasia Potapova vs Diana Shnaider, 18:00)
+- #3 MLB Total - Under 10 (0.3735 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
+- #4 Tennis Total - Over 21 (0.3645 expected positive-CLV probability, clv_shadow_watch, Anastasia Potapova vs Diana Shnaider, 18:00)
 
 ## Rules Of Use
 
