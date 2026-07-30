@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>1 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785400876348816833:2026-07-30T04:41:21" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-30T04:41:21.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785402016963150052:2026-07-30T05:00:21" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-30T05:00:21.</div>
         </aside>
       </div>
     </header>
@@ -505,7 +505,7 @@
                 <th>Rank</th><th>Signal</th><th>Exp CLV</th><th>Edge</th><th>League</th><th>Market</th><th>Pick</th><th>Time</th><th>Odds</th><th>Score</th><th>Sources</th><th>Action</th>
               </tr>
             </thead>
-            <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3645</strong><span class="prob-track" aria-hidden="true"><span style="width:36.4%"></span></span></div></td><td>0.0045</td><td>KBO</td><td>Total</td><td><strong>Over 9.5</strong><small>Lotte Giants vs Hanwha Eagles</small></td><td>05:30</td><td>-110</td><td>3.7</td><td>A11Bets, PorterPicks</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
+            <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3645</strong><span class="prob-track" aria-hidden="true"><span style="width:36.4%"></span></span></div></td><td>0.0045</td><td>KBO</td><td>Total</td><td><strong>Over 9.5</strong><small>Lotte Giants vs Hanwha Eagles</small></td><td>05:30</td><td>-120</td><td>3.7</td><td>A11Bets, PorterPicks</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-pass_or_monitor"><td>2</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3416</strong><span class="prob-track" aria-hidden="true"><span style="width:34.2%"></span></span></div></td><td>-0.0184</td><td>Tennis</td><td>Parlay</td><td><strong>Cam Norrie ML / Ben Shelton +1.5 Sets</strong><small>Ben Shelton vs Ugo Humbert</small></td><td>18:30</td><td>-144</td><td>6.7</td><td>TennisWinnersOnly</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3408</strong><span class="prob-track" aria-hidden="true"><span style="width:34.1%"></span></span></div></td><td>-0.0192</td><td>WNBA</td><td>Prop</td><td><strong>Angel Reese Over 11.5 Rebounds</strong><small>Connecticut Sun @ Chicago Sky</small></td><td>20:00</td><td></td><td>5.1</td><td>Cody Brown</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3406</strong><span class="prob-track" aria-hidden="true"><span style="width:34.1%"></span></span></div></td><td>-0.0194</td><td>Soccer</td><td>Prop</td><td><strong>Sebastián Valdéz Over 51.5 Passes Attempted</strong><small>Sebastián Valdéz (Independiente)</small></td><td>20:15</td><td></td><td>5.6</td><td>Chan</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
@@ -548,7 +548,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-30T04:41:21. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-30T05:00:21. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -574,7 +574,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-30T04:41:21"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-30T05:00:21"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
