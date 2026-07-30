@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>6 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785433472201989424:2026-07-30T13:44:47" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-30T13:44:47.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785434658205467405:2026-07-30T14:04:21" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-07-30T14:04:21.</div>
         </aside>
       </div>
     </header>
@@ -513,7 +513,7 @@
               </tr>
             </thead>
             <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3736</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0136</td><td>MLB</td><td>Total</td><td><strong>Over 9.5</strong><small>Washington Nationals @ Atlanta Braves</small></td><td>19:00</td><td>-105</td><td>4.7</td><td>Mike&#x27;s Research Bot 1.0, AndersPicks</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
-<tr class="row-clv_shadow_watch"><td>2</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3736</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0136</td><td>MLB</td><td>Total</td><td><strong>Under 7</strong><small>Miami Marlins @ New York Mets</small></td><td>19:10</td><td>-105</td><td>3.7</td><td>Mike&#x27;s Research Bot 1.0, MrBigBets</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
+<tr class="row-clv_shadow_watch"><td>2</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3736</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0136</td><td>MLB</td><td>Total</td><td><strong>Under 7</strong><small>Miami Marlins @ New York Mets</small></td><td>19:10</td><td>100</td><td>3.7</td><td>Mike&#x27;s Research Bot 1.0, MrBigBets</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-clv_shadow_watch"><td>3</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3736</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0136</td><td>MLB</td><td>Total</td><td><strong>Under 8.5</strong><small>Chicago Cubs @ St. Louis Cardinals</small></td><td>14:15</td><td>-109</td><td>3.2</td><td>CHEESE RENT, @Diamond</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-clv_shadow_watch"><td>4</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3735</strong><span class="prob-track" aria-hidden="true"><span style="width:37.4%"></span></span></div></td><td>0.0135</td><td>MLB</td><td>Total</td><td><strong>Under 10</strong><small>Boston Red Sox @ Oakland Athletics</small></td><td>21:40</td><td>-105</td><td>3.2</td><td>Picks4Dayzzz, Cblez</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
 <tr class="row-clv_shadow_watch"><td>5</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3721</strong><span class="prob-track" aria-hidden="true"><span style="width:37.2%"></span></span></div></td><td>0.0121</td><td>MLB</td><td>Total</td><td><strong>Under 9</strong><small>Chicago Cubs @ St. Louis Cardinals</small></td><td>14:15</td><td>-138</td><td>6.2</td><td>Erik Kuselias</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
@@ -555,7 +555,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-07-30T13:44:47. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-07-30T14:04:21. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -581,7 +581,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-30T13:44:47"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-07-30T14:04:21"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
