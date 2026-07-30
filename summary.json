@@ -2,9 +2,9 @@
   "action_counts": {
     "clv_shadow_watch": 3,
     "high_score_clv_unconfirmed": 1,
-    "pass_or_monitor": 121,
+    "pass_or_monitor": 120,
     "price_unverified_watch": 7,
-    "stale_started": 77
+    "stale_started": 79
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785443052.7002358,
-  "consensus_mtime_ns": 1785443052700235808,
+  "consensus_mtime": 1785443897.6546564,
+  "consensus_mtime_ns": 1785443897654656390,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 209,
-  "dashboard_version": "1785443052700235808:2026-07-30T16:24:21",
-  "generated_at": "2026-07-30T16:24:21",
+  "consensus_rows": 210,
+  "dashboard_version": "1785443897654656390:2026-07-30T16:38:21",
+  "generated_at": "2026-07-30T16:38:21",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -458,8 +458,8 @@
       "matched_training_rows": 260,
       "minutes_to_event": "",
       "model_score_band": "score_8_to_8_99",
-      "notes": "Opposed by: CashItBaby; Soft opp: BeezoWins, DormroomDegenerates, Duck Investments, TheGamblingGawd",
-      "opposing_count": "5",
+      "notes": "Opposed by: CashItBaby; Soft opp: BeezoWins, BulliesPicks, DormroomDegenerates, Duck Investments, TheGamblingGawd",
+      "opposing_count": "6",
       "pick": "Athletics +1.5",
       "primary_capper": "BBank",
       "prior_positive_clv_prob": 0.3129,
