@@ -15,7 +15,7 @@
 - #2 MLB Prop - Kyle Stowers Over 0.5 H+R+RBI (0.3899 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
 - #3 MLB Total - Under 7 (0.3736 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
 - #4 MLB Total - Under 10 (0.3735 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Oakland Athletics, 21:40)
-- #5 Tennis Total - Over 21 (0.3645 expected positive-CLV probability, clv_shadow_watch, Anastasia Potapova vs Diana Shnaider, 18:00)
+- #5 Tennis Total - Over 21 (0.3645 expected positive-CLV probability, clv_shadow_watch, Anastasia Potapova vs Diana Shnaider, 18:30)
 
 ## Rules Of Use
 
