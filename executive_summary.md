@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Tennis Prop - Alex De Minaur Under 12.5 Games Won (0.3774 expected positive-CLV probability, clv_shadow_watch, Cruz Hewitt vs Alex de Minaur, 13:00)
+- #1 Tennis Prop - Alex De Minaur Under 12.5 Games Won (0.3774 expected positive-CLV probability, clv_shadow_watch, Cruz Hewitt vs Alex de Minaur, 13:30)
 - #2 MLB Total - Over 9.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Atlanta Braves, 19:00)
 - #3 MLB Total - Under 7 (0.3736 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ New York Mets, 19:10)
 - #4 MLB Total - Under 8.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ St. Louis Cardinals, 14:15)
