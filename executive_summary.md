@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 230
+- Consensus rows scored: 238
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 425
@@ -13,7 +13,7 @@
 
 - #1 MLB Prop - Paul Skenes Over 7.5 Strikeouts (0.3909 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Cincinnati Reds, 18:10)
 - #2 MLB Total - Under 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Seattle Mariners, 22:10)
-- #3 MLB Total - Under 7.5 (0.3695 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Toronto Blue Jays, 19:07)
+- #3 WNBA Total - Over 177.5 (0.3638 expected positive-CLV probability, clv_shadow_watch, Seattle Storm @ Atlanta Dream, 19:30)
 
 ## Rules Of Use
 
