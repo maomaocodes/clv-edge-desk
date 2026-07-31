@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 279
+- Consensus rows scored: 283
 - Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 425
@@ -13,8 +13,8 @@
 
 - #1 Liga MX Total - Over 2.75 (0.3813 expected positive-CLV probability, clv_shadow_watch, Puebla vs Guadalajara, 21:00)
 - #2 MLB Total - Under 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Seattle Mariners, 22:10)
-- #3 MLB Total - Under 8 (0.3749 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Seattle Mariners, 22:10)
-- #4 MLB Total - Under 8.5 (0.3749 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Toronto Blue Jays, 19:07)
+- #3 MLB Total - Under 8.5 (0.3749 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Toronto Blue Jays, 19:07)
+- #4 MLB Total - Under 8 (0.3749 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Seattle Mariners, 22:10)
 - #5 MLB Total - Under 7.5 (0.3734 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Houston Astros, 20:15)
 - #6 WNBA Total - Over 177.5 (0.3638 expected positive-CLV probability, clv_shadow_watch, Seattle Storm @ Atlanta Dream, 19:30)
 
