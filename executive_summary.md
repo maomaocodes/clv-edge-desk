@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 298
-- Shadow watch candidates: 7
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,13 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLS BTTS - Both Teams to Score & Over 3.5 (0.3813 expected positive-CLV probability, clv_shadow_watch, San Jose Earthquakes @ FC Cincinnati, 19:30)
-- #2 MLB Total - Under 8 (0.3761 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Dodgers, 21:10)
-- #3 MLB Total - Under 7.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Dodgers, 21:10)
-- #4 MLB Total - Over 9.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Atlanta Braves, 19:15)
-- #5 MLB Total - Over 10.5 (0.3732 expected positive-CLV probability, clv_shadow_watch, Tigers vs Athletics, TBD)
-- #6 MLB Total - Over 10.5 (0.369 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Oakland Athletics, 21:40)
-- #7 MLB Total - Under 6.5 (0.369 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Chicago Cubs, 19:15)
+- #1 MLB Total - Under 8 (0.3761 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Dodgers, 21:10)
+- #2 MLB Total - Under 7.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Los Angeles Dodgers, 21:10)
+- #3 MLB Total - Over 10.5 (0.3732 expected positive-CLV probability, clv_shadow_watch, Tigers vs Athletics, TBD)
+- #4 MLB Total - Over 10.5 (0.369 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
