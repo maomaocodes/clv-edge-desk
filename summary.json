@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 3,
-    "pass_or_monitor": 75,
+    "pass_or_monitor": 67,
     "price_unverified_watch": 7,
-    "stale_started": 212
+    "stale_started": 220
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785544435.045318,
-  "consensus_mtime_ns": 1785544435045318002,
+  "consensus_mtime": 1785545592.3400865,
+  "consensus_mtime_ns": 1785545592340086344,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 297,
-  "dashboard_version": "1785544435045318002:2026-07-31T20:34:00",
-  "generated_at": "2026-07-31T20:34:00",
+  "dashboard_version": "1785545592340086344:2026-07-31T20:53:21",
+  "generated_at": "2026-07-31T20:53:21",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -179,11 +179,11 @@
       "model_score_band": "score_7_to_7_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Ranger Suarez Under 16.5 Outs",
+      "pick": "Ranger Suarez Under 28.5 Fantasy Points",
       "primary_capper": "FantasyAce",
       "prior_positive_clv_prob": 0.3129,
       "rank": 4,
-      "row_key": "MLB|Boston Red Sox @ Los Angeles Dodgers|Prop|Ranger Suarez Under 16.5 Outs|22:10|FantasyAce",
+      "row_key": "MLB|Boston Red Sox @ Los Angeles Dodgers|Prop|Ranger Suarez Under 28.5 Fantasy Points|22:10|FantasyAce",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -219,11 +219,11 @@
       "model_score_band": "score_7_to_7_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Ranger Suarez Under 28.5 Fantasy Points",
+      "pick": "Ranger Suarez Under 16.5 Outs",
       "primary_capper": "FantasyAce",
       "prior_positive_clv_prob": 0.3129,
       "rank": 5,
-      "row_key": "MLB|Boston Red Sox @ Los Angeles Dodgers|Prop|Ranger Suarez Under 28.5 Fantasy Points|22:10|FantasyAce",
+      "row_key": "MLB|Boston Red Sox @ Los Angeles Dodgers|Prop|Ranger Suarez Under 16.5 Outs|22:10|FantasyAce",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
