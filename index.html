@@ -467,7 +467,7 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785558751122065556:2026-08-01T00:32:49" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-01T00:32:49.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785559910497981034:2026-08-01T00:51:57" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-01T00:51:57.</div>
         </aside>
       </div>
     </header>
@@ -521,11 +521,11 @@
 <tr class="row-pass_or_monitor"><td>14</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2851</strong><span class="prob-track" aria-hidden="true"><span style="width:28.5%"></span></span></div></td><td>-0.0749</td><td>Scottish Premiership</td><td>ML</td><td><strong>Heart of Midlothian ML</strong><small>Aberdeen vs Heart of Midlothian</small></td><td>12:30</td><td>116</td><td>4.9</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>15</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2851</strong><span class="prob-track" aria-hidden="true"><span style="width:28.5%"></span></span></div></td><td>-0.0749</td><td>Tennis</td><td>ML</td><td><strong>Naomi Osaka ML</strong><small>Alexandra Eala vs Naomi Osaka</small></td><td>15:30</td><td>-150</td><td>4.8</td><td>Mike&#x27;s Research Bot 1.0</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>16</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2851</strong><span class="prob-track" aria-hidden="true"><span style="width:28.5%"></span></span></div></td><td>-0.0749</td><td>Tennis</td><td>ML</td><td><strong>Toby Samuel (2-0 in sets)</strong><small>Kayla Day vs Darja Vidmanova</small></td><td>15:00</td><td>-120</td><td>4.7</td><td>Aiden 🎾🏴󠁧󠁢󠁳󠁣󠁴󠁿</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-stale_started"><td>17</td><td><span class="pill stale_started">stale started</span></td><td><div class="prob-cell"><strong>0.2851</strong><span class="prob-track" aria-hidden="true"><span style="width:28.5%"></span></span></div></td><td>-0.0749</td><td>Tennis</td><td>ML</td><td><strong>Cameron Norrie ML</strong><small>Denis Shapovalov vs Cameron Norrie</small></td><td>00:30</td><td>-130</td><td>4.8</td><td>Mike&#x27;s Research Bot 1.0</td><td>Started or event time has passed; do not enter from this table.</td></tr></tbody>
+<tr class="row-stale_started"><td>17</td><td><span class="pill stale_started">stale started</span></td><td><div class="prob-cell"><strong>0.2851</strong><span class="prob-track" aria-hidden="true"><span style="width:28.5%"></span></span></div></td><td>-0.0749</td><td>Tennis</td><td>ML</td><td><strong>Cameron Norrie ML</strong><small>Denis Shapovalov vs Cameron Norrie</small></td><td>00:50</td><td>-130</td><td>4.8</td><td>Mike&#x27;s Research Bot 1.0</td><td>Started or event time has passed; do not enter from this table.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-08-01T00:32:49. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-08-01T00:51:57. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -551,7 +551,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-01T00:32:49"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-01T00:51:57"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
