@@ -1,10 +1,10 @@
 {
   "action_counts": {
     "clv_shadow_watch": 7,
-    "high_score_clv_unconfirmed": 5,
-    "pass_or_monitor": 169,
+    "high_score_clv_unconfirmed": 4,
+    "pass_or_monitor": 158,
     "price_unverified_watch": 7,
-    "stale_started": 110
+    "stale_started": 122
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,13 +13,13 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785624661.7109873,
-  "consensus_mtime_ns": 1785624661710987220,
+  "consensus_mtime": 1785625866.305342,
+  "consensus_mtime_ns": 1785625866305341859,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 298,
-  "dashboard_version": "1785624661710987220:2026-08-01T18:51:22",
-  "generated_at": "2026-08-01T18:51:22",
-  "high_score_clv_unconfirmed_count": 5,
+  "dashboard_version": "1785625866305341859:2026-08-01T19:11:22",
+  "generated_at": "2026-08-01T19:11:22",
+  "high_score_clv_unconfirmed_count": 4,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
     "Use only rows that are not started and whose current market price still matches or beats the listed entry.",
@@ -80,7 +80,7 @@
       "data_quality_flags": "ok",
       "diagnostic_reason": "CLV gate cleared; live price check required",
       "edge_vs_threshold": 0.0161,
-      "entry_odds": 100,
+      "entry_odds": -106,
       "entry_odds_source": "explicit_american",
       "event_age_minutes": "",
       "event_date_et": "2026-08-01",
@@ -98,7 +98,7 @@
       "matched_training_rows": 404,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "Odds: +100; MLB 2026; Odds: -106",
+      "notes": "MLB 2026; Odds: -106; Odds: +100",
       "opposing_count": "0",
       "pick": "Under 8",
       "primary_capper": "AndersPicks",
