@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 165
-- Shadow watch candidates: 4
+- Consensus rows scored: 172
+- Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,9 +12,10 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Zack Wheeler Over 7.5 Strikeouts (0.3906 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Baltimore Orioles, 13:35)
-- #2 MLB Total - Under 6.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Chicago Cubs, 14:20)
-- #3 MLB Total - Over 11 (0.3736 expected positive-CLV probability, clv_shadow_watch, Tigers vs Athletics, TBD)
-- #4 MLB Total - Under 7.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Angels, 15:15)
+- #2 MLB Total - Under 7.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Seattle Mariners, 16:10)
+- #3 MLB Total - Under 6.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Chicago Cubs, 14:20)
+- #4 MLB Total - Over 11 (0.3736 expected positive-CLV probability, clv_shadow_watch, Tigers vs Athletics, TBD)
+- #5 MLB Total - Under 7.5 (0.3695 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Angels, 15:15)
 
 ## Rules Of Use
 
