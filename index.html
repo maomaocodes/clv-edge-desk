@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>2 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785633078382590861:2026-08-01T21:11:22" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-01T21:11:22.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1785634284805565643:2026-08-01T21:31:33" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-01T21:31:33.</div>
         </aside>
       </div>
     </header>
@@ -489,8 +489,8 @@
         <ul class="state-list"><li><strong>0</strong><span>Priority watch</span><small>act only after price check</small></li>
 <li><strong>2</strong><span>Shadow watch</span><small>candidate verification queue</small></li>
 <li><strong>1</strong><span>High score / no CLV</span><small>good model score, thesis says wait</small></li>
-<li><strong>116</strong><span>Pass or monitor</span><small>do not elevate</small></li>
-<li><strong>176</strong><span>Started/stale</span><small>do not enter</small></li></ul>
+<li><strong>115</strong><span>Pass or monitor</span><small>do not elevate</small></li>
+<li><strong>177</strong><span>Started/stale</span><small>do not enter</small></li></ul>
       </div>
       <div class="panel">
         <h2>Best CLV Thesis Candidates</h2>
@@ -551,7 +551,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-08-01T21:11:22. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-08-01T21:31:33. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -577,7 +577,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-01T21:11:22"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-01T21:31:33"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
