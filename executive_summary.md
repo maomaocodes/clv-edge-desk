@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 298
-- Shadow watch candidates: 2
+- Consensus rows scored: 300
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,7 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 10.5 (0.3732 expected positive-CLV probability, clv_shadow_watch, Tigers vs Athletics, TBD)
-- #2 MLB Total - Over 10.5 (0.369 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
