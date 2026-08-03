@@ -2,9 +2,9 @@
   "action_counts": {
     "clv_shadow_watch": 4,
     "high_score_clv_unconfirmed": 9,
-    "pass_or_monitor": 109,
+    "pass_or_monitor": 108,
     "price_unverified_watch": 10,
-    "stale_started": 37
+    "stale_started": 38
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785789685.7243066,
-  "consensus_mtime_ns": 1785789685724306465,
+  "consensus_mtime": 1785790781.4924347,
+  "consensus_mtime_ns": 1785790781492434770,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 169,
-  "dashboard_version": "1785789685724306465:2026-08-03T16:41:53",
-  "generated_at": "2026-08-03T16:41:53",
+  "dashboard_version": "1785790781492434770:2026-08-03T17:00:01",
+  "generated_at": "2026-08-03T17:00:01",
   "high_score_clv_unconfirmed_count": 9,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -138,7 +138,7 @@
       "matched_training_rows": 323,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "MLB 8/3/2026; Odds: -102",
+      "notes": "Odds: -102; MLB 8/3/2026",
       "opposing_count": "0",
       "pick": "Under 9",
       "primary_capper": "BetSharper & CashItBaby",
