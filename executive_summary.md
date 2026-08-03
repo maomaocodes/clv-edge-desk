@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 169
-- Shadow watch candidates: 4
+- Consensus rows scored: 203
+- Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,10 @@
 
 - #1 Soccer Prop - Mladost Under 0.5 Team Goals (0.3853 expected positive-CLV probability, clv_shadow_watch, Železničar vs Mladost, TBD)
 - #2 MLB Total - Over 9 (0.3761 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Philadelphia Phillies, 18:40)
-- #3 MLB Total - Under 9 (0.3695 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Houston Astros, 20:10)
-- #4 MLB Total - Under 11.5 (0.3686 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Colorado Rockies, 20:40)
+- #3 MLB Total - Over 7.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Chicago Cubs, 20:05)
+- #4 MLB Total - Over 9 (0.3736 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Arizona Diamondbacks, 21:40)
+- #5 MLB Total - Under 9 (0.3695 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Houston Astros, 20:10)
+- #6 MLB Total - Under 11.5 (0.3686 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
