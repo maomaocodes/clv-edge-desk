@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 225
-- Shadow watch candidates: 4
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,7 @@
 
 - #1 Soccer Prop - Mladost Under 0.5 Team Goals (0.3853 expected positive-CLV probability, clv_shadow_watch, Železničar vs Mladost, TBD)
 - #2 MLB Total - Under 9.5 (0.377 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Arizona Diamondbacks, 21:40)
-- #3 WNBA Prop - Kahleah Copper Over 21.5 Points (0.3766 expected positive-CLV probability, clv_shadow_watch, Phoenix Mercury @ Chicago Sky, 21:00)
-- #4 MLB Total - Over 9 (0.3736 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Arizona Diamondbacks, 21:40)
+- #3 MLB Total - Over 9 (0.3736 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Arizona Diamondbacks, 21:40)
 
 ## Rules Of Use
 
