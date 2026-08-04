@@ -1,6 +1,7 @@
 {
   "action_counts": {
-    "pass_or_monitor": 44
+    "pass_or_monitor": 36,
+    "stale_started": 8
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -9,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785854859.0785608,
-  "consensus_mtime_ns": 1785854859078560782,
+  "consensus_mtime": 1785856036.5188997,
+  "consensus_mtime_ns": 1785856036518899634,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 44,
-  "dashboard_version": "1785854859078560782:2026-08-04T10:47:41",
-  "generated_at": "2026-08-04T10:47:41",
+  "dashboard_version": "1785856036518899634:2026-08-04T11:07:20",
+  "generated_at": "2026-08-04T11:07:20",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
