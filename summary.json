@@ -2,7 +2,7 @@
   "action_counts": {
     "clv_shadow_watch": 3,
     "high_score_clv_unconfirmed": 3,
-    "pass_or_monitor": 38,
+    "pass_or_monitor": 39,
     "stale_started": 181
   },
   "artifacts": {
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1785805254.3404267,
-  "consensus_mtime_ns": 1785805254340426702,
+  "consensus_mtime": 1785806461.3378468,
+  "consensus_mtime_ns": 1785806461337846673,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 225,
-  "dashboard_version": "1785805254340426702:2026-08-03T21:01:21",
-  "generated_at": "2026-08-03T21:01:21",
+  "consensus_rows": 226,
+  "dashboard_version": "1785806461337846673:2026-08-03T21:21:30",
+  "generated_at": "2026-08-03T21:21:30",
   "high_score_clv_unconfirmed_count": 3,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -165,7 +165,7 @@
       "event_date_et": "2026-08-03",
       "event_datetime_et": "",
       "event_status": "",
-      "event_time_et": "21:15",
+      "event_time_et": "21:30",
       "expected_positive_clv_prob": 0.3037,
       "game": "Gael Monfils vs Kamil Majchrzak",
       "handicappers": "LeTennisGoat",
@@ -183,7 +183,7 @@
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3129,
       "rank": 4,
-      "row_key": "Tennis|Gael Monfils vs Kamil Majchrzak|Spread|Majchrzak -1.5 Sets|21:15|LeTennisGoat",
+      "row_key": "Tennis|Gael Monfils vs Kamil Majchrzak|Spread|Majchrzak -1.5 Sets|21:30|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
