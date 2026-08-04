@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 217
-- Shadow watch candidates: 5
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,10 +12,9 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB F5 - F5 Under 4.5 (0.377 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Seattle Mariners, 21:40)
-- #2 MLB Total - Under 8 (0.377 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Milwaukee Brewers, 19:40)
-- #3 MLB Total - Under 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Seattle Mariners, 21:40)
+- #2 MLB Total - Under 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Seattle Mariners, 21:40)
+- #3 MLB Total - Over 8.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Houston Astros, 20:10)
 - #4 MLB Total - Under 9 (0.3736 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Chicago Cubs, 20:05)
-- #5 MLB Total - Over 8.5 (0.3736 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
