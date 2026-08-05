@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 217
-- Shadow watch candidates: 2
+- Consensus rows scored: 218
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB F5 - F5 Under 4.5 (0.377 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Seattle Mariners, 21:40)
-- #2 MLB Total - Under 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Seattle Mariners, 21:40)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
