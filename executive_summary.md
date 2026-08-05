@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 240
-- Shadow watch candidates: 2
+- Consensus rows scored: 241
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.3732 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Philadelphia Phillies, 18:40)
-- #2 NCAAF Total - Under 8.5 (0.3651 expected positive-CLV probability, clv_shadow_watch, Michigan Wolverines, TBD)
+- #1 NCAAF Total - Under 8.5 (0.3651 expected positive-CLV probability, clv_shadow_watch, Michigan Wolverines, TBD)
 
 ## Rules Of Use
 
