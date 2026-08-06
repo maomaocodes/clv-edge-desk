@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 3,
-    "pass_or_monitor": 96,
-    "stale_started": 66
+    "pass_or_monitor": 100,
+    "stale_started": 62
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786044287.4048688,
-  "consensus_mtime_ns": 1786044287404868925,
+  "consensus_mtime": 1786045446.348989,
+  "consensus_mtime_ns": 1786045446348989005,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 165,
-  "dashboard_version": "1786044287404868925:2026-08-06T15:25:14",
-  "generated_at": "2026-08-06T15:25:14",
+  "dashboard_version": "1786045446348989005:2026-08-06T15:44:23",
+  "generated_at": "2026-08-06T15:44:23",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -298,15 +298,15 @@
       "model_score_band": "score_7_to_7_99",
       "notes": "Odds: 1.96",
       "opposing_count": "0",
-      "pick": "Nakashima ML / Hurkacz ML Parlay",
+      "pick": "Nakashima ML / Mensik ML Parlay",
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3129,
       "rank": 7,
-      "row_key": "Tennis|Titouan Droguet vs Brandon Nakashima|Parlay|Nakashima ML / Hurkacz ML Parlay|19:30|LeTennisGoat",
+      "row_key": "Tennis|Titouan Droguet vs Brandon Nakashima|Parlay|Nakashima ML / Mensik ML Parlay|19:30|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
-      "suggested_units": "2.5",
+      "suggested_units": "2.0",
       "suggested_units_bucket": "units_2_to_2_99",
       "support_status": "weak_support",
       "threshold": 0.36
@@ -378,15 +378,15 @@
       "model_score_band": "score_7_to_7_99",
       "notes": "Odds: 1.96",
       "opposing_count": "0",
-      "pick": "Nakashima ML / Mensik ML Parlay",
+      "pick": "Nakashima ML / Hurkacz ML Parlay",
       "primary_capper": "LeTennisGoat",
       "prior_positive_clv_prob": 0.3129,
       "rank": 9,
-      "row_key": "Tennis|Titouan Droguet vs Brandon Nakashima|Parlay|Nakashima ML / Mensik ML Parlay|19:30|LeTennisGoat",
+      "row_key": "Tennis|Titouan Droguet vs Brandon Nakashima|Parlay|Nakashima ML / Hurkacz ML Parlay|19:30|LeTennisGoat",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
-      "suggested_units": "2.0",
+      "suggested_units": "2.5",
       "suggested_units_bucket": "units_2_to_2_99",
       "support_status": "weak_support",
       "threshold": 0.36
