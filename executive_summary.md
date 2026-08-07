@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 56
-- Shadow watch candidates: 0
+- Consensus rows scored: 110
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Total - Under 8.5 (0.3735 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Boston Red Sox, 19:10)
+- #2 WNBA Total - Over 174 (0.3644 expected positive-CLV probability, clv_shadow_watch, Phoenix Mercury @ Connecticut Sun, 19:30)
 
 ## Rules Of Use
 
