@@ -13,7 +13,7 @@
 
 - #1 MLB Total - Over 8 (0.3736 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ New York Yankees, 19:05)
 - #2 MLB Total - Under 8.5 (0.3735 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Boston Red Sox, 19:10)
-- #3 MLB Total - Over 9 (0.3732 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Arizona Diamondbacks, 21:40)
+- #3 MLB Total - Over 9 (0.369 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Arizona Diamondbacks, 21:40)
 - #4 WNBA Total - Over 174 (0.3644 expected positive-CLV probability, clv_shadow_watch, Phoenix Mercury @ Connecticut Sun, 19:30)
 
 ## Rules Of Use
