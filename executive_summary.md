@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 118
-- Shadow watch candidates: 0
+- Consensus rows scored: 128
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Total - Under 7.5 (0.3734 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Chicago White Sox, 19:15)
 
 ## Rules Of Use
 
