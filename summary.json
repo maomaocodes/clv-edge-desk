@@ -1,7 +1,7 @@
 {
   "action_counts": {
-    "pass_or_monitor": 85,
-    "stale_started": 17
+    "pass_or_monitor": 87,
+    "stale_started": 15
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786212620.9196224,
-  "consensus_mtime_ns": 1786212620919622308,
+  "consensus_mtime": 1786213718.9319105,
+  "consensus_mtime_ns": 1786213718931910557,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 102,
-  "dashboard_version": "1786212620919622308:2026-08-08T14:10:43",
-  "generated_at": "2026-08-08T14:10:43",
+  "dashboard_version": "1786213718931910557:2026-08-08T14:28:52",
+  "generated_at": "2026-08-08T14:28:52",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -483,7 +483,7 @@
       "event_date_et": "2026-08-08",
       "event_datetime_et": "",
       "event_status": "",
-      "event_time_et": "14:15",
+      "event_time_et": "14:40",
       "expected_positive_clv_prob": 0.3406,
       "game": "Brandon Nakashima vs Arthur Rinderknech",
       "handicappers": "NickyCashin",
@@ -501,7 +501,7 @@
       "primary_capper": "NickyCashin",
       "prior_positive_clv_prob": 0.3129,
       "rank": 12,
-      "row_key": "Tennis|Brandon Nakashima vs Arthur Rinderknech|Prop|Nakashima Over 23.5|14:15|NickyCashin",
+      "row_key": "Tennis|Brandon Nakashima vs Arthur Rinderknech|Prop|Nakashima Over 23.5|14:40|NickyCashin",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
