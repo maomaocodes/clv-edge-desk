@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 169
+- Consensus rows scored: 176
 - Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 425
@@ -15,11 +15,11 @@
 - #2 MLB Total - Over 9 (0.3729 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Arizona Diamondbacks, 16:10)
 - #3 MLB Total - Over 8.5 (0.3695 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Arizona Diamondbacks, 16:10)
 - #4 Soccer Total - Over 3 (0.3669 expected positive-CLV probability, clv_shadow_watch, Kristiansund vs Molde, TBD)
-- #5 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Milwaukee Brewers, 14:10)
-- #6 MLB Prop - Logan Webb Over 5+ Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
-- #7 MLB Prop - Randy Vasquez Over 2.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ San Diego Padres, 20:20)
-- #8 MLB Prop - Logan Webb 5+ Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
-- #9 MLB Prop - Troy Melton Over 4.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
+- #5 MLB Prop - Logan Webb Over 5+ Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
+- #6 MLB Prop - Logan Webb 5+ Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
+- #7 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Milwaukee Brewers, 14:10)
+- #8 MLB Prop - Troy Melton Over 4.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ San Francisco Giants, 16:05)
+- #9 MLB Prop - Randy Vasquez Over 2.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ San Diego Padres, 20:20)
 
 ## Rules Of Use
 
