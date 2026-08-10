@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 109
-- Shadow watch candidates: 6
+- Consensus rows scored: 111
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -17,6 +17,7 @@
 - #4 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
 - #5 MLB Total - Under 8 (0.3728 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 21:38)
 - #6 MLB Total - Over 10 (0.3726 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #7 Tennis Total - Over 22.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Arthur Fils vs Rafael Jodar, 18:00)
 
 ## Rules Of Use
 
