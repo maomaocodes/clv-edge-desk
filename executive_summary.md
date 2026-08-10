@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-10
+# Expected CLV Consensus Dashboard - 2026-08-09
 
 ## Executive Read
 
-- Consensus rows scored: 57
-- Shadow watch candidates: 3
+- Consensus rows scored: 181
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 426
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.3734 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
-- #2 MLB Total - Over 8 (0.3734 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
-- #3 MLB Total - Over 10 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #1 Soccer Total - Over 3 (0.3667 expected positive-CLV probability, clv_shadow_watch, Kristiansund vs Molde, TBD)
 
 ## Rules Of Use
 
