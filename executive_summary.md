@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 131
-- Shadow watch candidates: 8
+- Consensus rows scored: 143
+- Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,11 +14,12 @@
 - #1 WNBA Prop - Laura Juskaite under 9.5 points (0.3761 expected positive-CLV probability, clv_shadow_watch, Toronto Tempo @ Atlanta Dream, 20:00)
 - #2 MLB Total - Over 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
 - #3 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, HOU vs SF, 20:45)
-- #4 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #4 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Minnesota Twins, 19:40)
 - #5 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
-- #6 MLB Total - Over 10 (0.3726 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
-- #7 MLB Total - Under 8 (0.3673 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 21:38)
-- #8 Tennis Total - Over 22.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Arthur Fils vs Rafael Jodar, 19:00)
+- #6 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #7 MLB Total - Under 7 (0.3728 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Diego Padres, 21:40)
+- #8 MLB Total - Over 10 (0.3726 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #9 MLB Total - Under 8 (0.3673 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 21:38)
 
 ## Rules Of Use
 
