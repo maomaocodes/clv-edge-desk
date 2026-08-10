@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 179
-- Shadow watch candidates: 3
+- Consensus rows scored: 181
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 425
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 8.5 (0.3761 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ San Diego Padres, 20:20)
-- #2 Soccer Total - Over 3 (0.3669 expected positive-CLV probability, clv_shadow_watch, Kristiansund vs Molde, TBD)
-- #3 MLB Prop - Randy Vasquez Over 2.5 Strikeouts (0.3608 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ San Diego Padres, 20:20)
+- #1 Soccer Total - Over 3 (0.3669 expected positive-CLV probability, clv_shadow_watch, Kristiansund vs Molde, TBD)
 
 ## Rules Of Use
 
