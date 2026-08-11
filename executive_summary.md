@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 122
+- Consensus rows scored: 127
 - Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -13,8 +13,8 @@
 
 - #1 MLB Total - Under 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:05)
 - #2 MLB Total - Over 9 (0.3738 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 21:38)
-- #3 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
-- #4 MLB Total - Over 10 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #3 MLB Total - Over 10 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #4 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
 - #5 MLB Total - Under 7 (0.3729 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
 
 ## Rules Of Use
