@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 144
-- Shadow watch candidates: 6
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,12 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 WNBA Prop - Laura Juskaite under 9.5 points (0.3761 expected positive-CLV probability, clv_shadow_watch, Toronto Tempo @ Atlanta Dream, 20:00)
-- #2 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, HOU vs SF, 20:45)
-- #3 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
-- #4 MLB Total - Under 7 (0.3728 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Diego Padres, 21:40)
-- #5 MLB Total - Over 10 (0.3726 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
-- #6 Tennis Total - Over 22.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Arthur Fils vs Rafael Jodar, 20:15)
+- #1 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, HOU vs SF, 20:45)
+- #2 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #3 MLB Total - Under 7 (0.3728 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Diego Padres, 21:40)
+- #4 MLB Total - Over 10 (0.3726 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
