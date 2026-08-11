@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 170
-- Shadow watch candidates: 6
+- Consensus rows scored: 197
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,12 +11,14 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:05)
-- #2 MLB Total - Over 9 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Arizona Diamondbacks, 21:40)
-- #3 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
-- #4 MLB Total - Under 7 (0.3729 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
-- #5 MLB Total - Under 8 (0.3722 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:05)
-- #6 MLB Total - Over 10 (0.3675 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #1 MLB Total - Under 9.5 (0.3759 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Minnesota Twins, 19:40)
+- #2 MLB Total - Under 7.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Miami Marlins, 18:40)
+- #3 MLB Total - Under 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:05)
+- #4 MLB Total - Over 9 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Arizona Diamondbacks, 21:40)
+- #5 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
+- #6 MLB Total - Under 8 (0.3722 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:05)
+- #7 MLB Total - Over 10 (0.3675 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
+- #8 MLB Total - Under 7 (0.3604 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Toronto Blue Jays, 19:07)
 
 ## Rules Of Use
 
