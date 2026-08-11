@@ -1,17 +1,17 @@
-# Expected CLV Consensus Dashboard - 2026-07-12
+# Expected CLV Consensus Dashboard - 2026-08-11
 
 ## Executive Read
 
-- Consensus rows scored: 126
+- Consensus rows scored: 23
 - Shadow watch candidates: 1
 - Threshold: 0.36
-- Training CLV rows: 419
+- Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
 - Output is advisory only; verify live price/line movement before any decision.
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3902 expected positive-CLV probability, clv_shadow_watch, Brann vs Start, TBD)
+- #1 Tennis Total - Over 22.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Arthur Fils vs Rafael Jodar, 14:00)
 
 ## Rules Of Use
 
