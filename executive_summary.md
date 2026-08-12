@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Arizona Diamondbacks, 21:40)
+- #1 MLB Total - Over 9 (0.3755 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Arizona Diamondbacks, 21:40)
 - #2 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
 - #3 MLB Total - Over 10 (0.3675 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 21:40)
 
