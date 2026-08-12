@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 227
-- Shadow watch candidates: 9
+- Consensus rows scored: 229
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,15 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Washington Nationals, 18:45)
-- #2 MLB Total - Over 9 (0.3755 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 22:00)
-- #3 MLB Total - Under 8 (0.3728 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Detroit Tigers, 18:40)
-- #4 MLB Total - Over 8.5 (0.3671 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago White Sox, 19:40)
+- #1 MLB Total - Over 9 (0.3755 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Los Angeles Angels, 22:00)
+- #2 MLB Total - Over 8.5 (0.3671 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago White Sox, 19:40)
+- #3 MLB Prop - Dustin May Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
+- #4 MLB Prop - Eric Lauer Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
 - #5 MLB Prop - Rhett Lowder Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago White Sox, 19:40)
-- #6 MLB Prop - Will Warren Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
-- #7 MLB Prop - Bryce Miller Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
-- #8 MLB Prop - Eric Lauer Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
-- #9 MLB Prop - Dustin May Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
+- #6 MLB Prop - Bryce Miller Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
+- #7 MLB Prop - Will Warren Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
 
 ## Rules Of Use
 
