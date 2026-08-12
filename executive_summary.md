@@ -16,11 +16,11 @@
 - #3 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Arizona Diamondbacks, 15:40)
 - #4 MLB Prop - Zebby Matthews Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Minnesota Twins, 13:40)
 - #5 MLB Prop - Drew Rasmussen Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Oakland Athletics, 15:05)
-- #6 MLB Prop - Bryce Miller Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
+- #6 MLB Prop - Will Warren Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
 - #7 MLB Prop - Rhett Lowder Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago White Sox, 19:40)
 - #8 MLB Prop - Kyle Leahy Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ St. Louis Cardinals, 14:15)
 - #9 MLB Prop - Zack Wheeler Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ St. Louis Cardinals, 14:15)
-- #10 MLB Prop - Will Warren Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
+- #10 MLB Prop - Bryce Miller Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ New York Yankees, 19:00)
 - #11 MLB Prop - Dustin May Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ San Diego Padres, 16:10)
 - #12 MLB Prop - Eric Lauer Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Dodgers, 22:10)
 
