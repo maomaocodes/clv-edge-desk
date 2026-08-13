@@ -9,12 +9,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786600419.3117404,
-  "consensus_mtime_ns": 1786600419311740327,
+  "consensus_mtime": 1786601476.0754921,
+  "consensus_mtime_ns": 1786601476075492036,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 12,
-  "dashboard_version": "1786600419311740327:2026-08-13T01:54:10",
-  "generated_at": "2026-08-13T01:54:10",
+  "dashboard_version": "1786601476075492036:2026-08-13T02:11:19",
+  "generated_at": "2026-08-13T02:11:19",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -32,7 +32,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 6.5,
+      "consensus_score": 6.6,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0039,
@@ -72,7 +72,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 2.9,
+      "consensus_score": 2.8,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0199,
@@ -112,7 +112,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 3.9,
+      "consensus_score": 4.0,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0356,
@@ -152,7 +152,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.0,
+      "consensus_score": 4.1,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0364,
@@ -232,7 +232,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.3,
+      "consensus_score": 1.0,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0452,
