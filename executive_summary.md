@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 196
-- Shadow watch candidates: 8
+- Consensus rows scored: 197
+- Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,14 +11,12 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #2 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #1 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #2 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
 - #3 WNBA Total - Over 169.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Las Vegas Aces, 22:00)
 - #4 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #5 MLB Prop - Cade Cavalli Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Washington Nationals, 16:05)
+- #5 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
 - #6 MLB Prop - Taj Bradley Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
-- #7 MLB Prop - Kevin Gausman Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Washington Nationals, 16:05)
-- #8 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
 
 ## Rules Of Use
 
