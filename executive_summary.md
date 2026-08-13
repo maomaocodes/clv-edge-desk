@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 221
-- Shadow watch candidates: 7
+- Consensus rows scored: 226
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,13 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #2 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #3 MLB Total - Over 8.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
-- #4 WNBA Total - Over 169.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Las Vegas Aces, 22:00)
-- #5 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #6 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
-- #7 MLB Prop - Taj Bradley Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
+- #1 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #2 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #3 WNBA Total - Over 169.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Las Vegas Aces, 22:00)
+- #4 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
