@@ -16,8 +16,8 @@
 - #3 MLB Total - Over 8.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
 - #4 WNBA Total - Over 169.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Las Vegas Aces, 22:00)
 - #5 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #6 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
-- #7 MLB Prop - Taj Bradley Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
+- #6 MLB Prop - Taj Bradley Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
+- #7 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 19:30)
 
 ## Rules Of Use
 
