@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 309
+- Consensus rows scored: 308
 - Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -17,10 +17,10 @@
 - #4 MLB Total - Under 8 (0.3671 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
 - #5 Soccer Total - Under 0.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Atlético Grau vs Comerciantes Unidos, TBD)
 - #6 NFL Total - Over 34.5 (0.3653 expected positive-CLV probability, clv_shadow_watch, Jets vs Buccaneers, TBD)
-- #7 MLB Prop - Yoshinobu Yamamoto Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #8 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
+- #7 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
+- #8 MLB Prop - Yoshinobu Yamamoto Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
 - #9 MLB Prop - Peter Lambert Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
-- #10 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
+- #10 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
