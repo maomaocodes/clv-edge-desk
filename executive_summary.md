@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 153
+- Consensus rows scored: 155
 - Shadow watch candidates: 12
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -15,14 +15,14 @@
 - #2 MLB Prop - Gerrit Cole Over 5.5 Strikeouts (0.3971 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 19:15)
 - #3 UFC Prop - Islam No Distance (Fight Does Not Go the Distance) (0.3768 expected positive-CLV probability, clv_shadow_watch, Islam, TBD)
 - #4 Soccer Total - Under 0.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Atlético Grau vs Comerciantes Unidos, TBD)
-- #5 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
-- #6 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
-- #7 MLB Prop - Gavin Williams Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cleveland Guardians, 19:10)
-- #8 MLB Prop - Yoshinobu Yamamoto Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #9 MLB Prop - Peter Lambert Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
-- #10 MLB Prop - Michael King Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cleveland Guardians, 19:10)
-- #11 MLB Prop - Brandon Pfaadt Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 19:15)
-- #12 MLB Prop - Chase Burns Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Cincinnati Reds, 18:10)
+- #5 MLB Prop - Yoshinobu Yamamoto Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
+- #6 MLB Prop - Michael King Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cleveland Guardians, 19:10)
+- #7 MLB Prop - Peter Lambert Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
+- #8 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
+- #9 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
+- #10 MLB Prop - Gavin Williams Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cleveland Guardians, 19:10)
+- #11 MLB Prop - Chase Burns Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Cincinnati Reds, 18:10)
+- #12 MLB Prop - Brandon Pfaadt Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 19:15)
 
 ## Rules Of Use
 
