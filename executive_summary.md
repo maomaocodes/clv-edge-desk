@@ -19,10 +19,10 @@
 - #6 Soccer Total - Under 0.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Atlético Grau vs Comerciantes Unidos, TBD)
 - #7 NFL Total - Over 34.5 (0.3653 expected positive-CLV probability, clv_shadow_watch, Jets vs Buccaneers, TBD)
 - #8 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
-- #9 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
+- #9 MLB Prop - Peter Lambert Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
 - #10 MLB Prop - Brandon Pfaadt Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 19:15)
 - #11 MLB Prop - Chase Burns Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Cincinnati Reds, 18:10)
-- #12 MLB Prop - Peter Lambert Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
+- #12 MLB Prop - George Kirby Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
