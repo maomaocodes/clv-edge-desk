@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #2 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #1 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #2 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
 
 ## Rules Of Use
 
