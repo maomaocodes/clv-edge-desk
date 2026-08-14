@@ -1,8 +1,8 @@
 {
   "action_counts": {
     "clv_shadow_watch": 2,
-    "pass_or_monitor": 57,
-    "stale_started": 169
+    "pass_or_monitor": 55,
+    "stale_started": 171
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -11,12 +11,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786675184.771078,
-  "consensus_mtime_ns": 1786675184771078125,
+  "consensus_mtime": 1786676097.2252421,
+  "consensus_mtime_ns": 1786676097225242225,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 228,
-  "dashboard_version": "1786675184771078125:2026-08-13T22:39:56",
-  "generated_at": "2026-08-13T22:39:56",
+  "dashboard_version": "1786676097225242225:2026-08-13T22:55:05",
+  "generated_at": "2026-08-13T22:55:05",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -58,11 +58,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "Saudi Pro League; Odds: -125; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "Both Teams to Score & Over 2.5",
+      "pick": "Both Teams to Score & Over 2.5 Goals",
       "primary_capper": "Fredo",
       "prior_positive_clv_prob": 0.3107,
       "rank": 1,
-      "row_key": "Soccer|Al-Shabab vs Al-Qadsiah|BTTS|Both Teams to Score & Over 2.5|TBD|Fredo",
+      "row_key": "Soccer|Al-Shabab vs Al-Qadsiah|BTTS|Both Teams to Score & Over 2.5 Goals|TBD|Fredo",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -98,11 +98,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "Saudi Pro League; Odds: -125; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "Both Teams to Score & Over 2.5 Goals",
+      "pick": "Both Teams to Score & Over 2.5",
       "primary_capper": "Fredo",
       "prior_positive_clv_prob": 0.3107,
       "rank": 2,
-      "row_key": "Soccer|Al-Shabab vs Al-Qadsiah|BTTS|Both Teams to Score & Over 2.5 Goals|TBD|Fredo",
+      "row_key": "Soccer|Al-Shabab vs Al-Qadsiah|BTTS|Both Teams to Score & Over 2.5|TBD|Fredo",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
