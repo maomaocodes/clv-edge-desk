@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-13
+# Expected CLV Consensus Dashboard - 2026-08-14
 
 ## Executive Read
 
-- Consensus rows scored: 228
-- Shadow watch candidates: 2
+- Consensus rows scored: 7
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #2 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
