@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
-- #2 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #1 Soccer BTTS - Both Teams to Score & Over 2.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
+- #2 Soccer BTTS - Both Teams to Score & Over 2.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al-Shabab vs Al-Qadsiah, TBD)
 - #3 WNBA Total - Over 169.5 (0.3637 expected positive-CLV probability, clv_shadow_watch, Washington Mystics @ Las Vegas Aces, 22:00)
 - #4 MLB Prop - Roki Sasaki Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
 
