@@ -9,12 +9,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786773346.128526,
-  "consensus_mtime_ns": 1786773346128526077,
+  "consensus_mtime": 1786774470.9081757,
+  "consensus_mtime_ns": 1786774470908175781,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 15,
-  "dashboard_version": "1786773346128526077:2026-08-15T01:55:48",
-  "generated_at": "2026-08-15T01:55:48",
+  "dashboard_version": "1786774470908175781:2026-08-15T02:14:58",
+  "generated_at": "2026-08-15T02:14:58",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -272,7 +272,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 3.6,
+      "consensus_score": 3.5,
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0452,
@@ -392,7 +392,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 3.2,
+      "consensus_score": 3.0,
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.066,
