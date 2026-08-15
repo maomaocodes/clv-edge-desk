@@ -12,11 +12,11 @@
 ## Top CLV Thesis Candidates
 
 - #1 UFC Prop - Esteban Ribovics by KO/TKO (0.3768 expected positive-CLV probability, clv_shadow_watch, Esteban Ribovics, TBD)
-- #2 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
-- #3 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
+- #2 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
+- #3 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
 - #4 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
-- #5 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
-- #6 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
+- #5 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
+- #6 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
 
 ## Rules Of Use
 
