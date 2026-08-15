@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 309
-- Shadow watch candidates: 6
+- Consensus rows scored: 310
+- Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -16,7 +16,6 @@
 - #3 Soccer Total - Under 0.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Atlético Grau vs Comerciantes Unidos, TBD)
 - #4 NFL Total - Over 34.5 (0.3653 expected positive-CLV probability, clv_shadow_watch, Jets vs Buccaneers, TBD)
 - #5 MLB Prop - Yoshinobu Yamamoto Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 22:10)
-- #6 MLB Prop - Kumar Rocker Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Oakland Athletics, 21:40)
 
 ## Rules Of Use
 
