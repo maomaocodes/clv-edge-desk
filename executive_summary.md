@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 307
-- Shadow watch candidates: 6
+- Consensus rows scored: 309
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,11 +12,12 @@
 ## Top CLV Thesis Candidates
 
 - #1 UFC Prop - Esteban Ribovics by KO/TKO (0.3768 expected positive-CLV probability, clv_shadow_watch, Esteban Ribovics, TBD)
-- #2 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
-- #3 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
-- #4 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
+- #2 MLB Total - Under 9 (0.3759 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cleveland Guardians, 19:10)
+- #3 MLB Total - Under 8 (0.3759 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
+- #4 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
 - #5 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
-- #6 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
+- #6 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
+- #7 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
 
 ## Rules Of Use
 
