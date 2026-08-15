@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 207
+- Consensus rows scored: 218
 - Shadow watch candidates: 11
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -17,11 +17,11 @@
 - #4 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ San Francisco Giants, 16:05)
 - #5 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 15:07)
 - #6 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
-- #7 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
-- #8 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
-- #9 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ New York Mets, 16:10)
-- #10 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
-- #11 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
+- #7 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
+- #8 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ New York Mets, 16:10)
+- #9 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
+- #10 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
+- #11 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
 
 ## Rules Of Use
 
