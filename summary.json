@@ -2,8 +2,8 @@
   "action_counts": {
     "clv_shadow_watch": 7,
     "high_score_clv_unconfirmed": 1,
-    "pass_or_monitor": 185,
-    "stale_started": 116
+    "pass_or_monitor": 183,
+    "stale_started": 118
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786833447.7944944,
-  "consensus_mtime_ns": 1786833447794494315,
+  "consensus_mtime": 1786834363.8122075,
+  "consensus_mtime_ns": 1786834363812207521,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 309,
-  "dashboard_version": "1786833447794494315:2026-08-15T18:37:50",
-  "generated_at": "2026-08-15T18:37:50",
+  "dashboard_version": "1786834363812207521:2026-08-15T18:52:59",
+  "generated_at": "2026-08-15T18:52:59",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -379,11 +379,11 @@
       "model_score_band": "score_7_to_7_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Dearica Hamby Under 7.5 REB+AST",
+      "pick": "Shakira Austin Under 14.5 PTS",
       "primary_capper": "Landon",
       "prior_positive_clv_prob": 0.3107,
       "rank": 9,
-      "row_key": "WNBA|Los Angeles Sparks @ Washington Mystics|Prop|Dearica Hamby Under 7.5 REB+AST|19:30|Landon",
+      "row_key": "WNBA|Los Angeles Sparks @ Washington Mystics|Prop|Shakira Austin Under 14.5 PTS|19:30|Landon",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
