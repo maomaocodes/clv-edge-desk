@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 236
-- Shadow watch candidates: 12
+- Consensus rows scored: 242
+- Shadow watch candidates: 11
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -16,13 +16,12 @@
 - #3 MLB Total - Over 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
 - #4 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ San Francisco Giants, 16:05)
 - #5 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 15:07)
-- #6 WNBA Total - 1H Under 88.5 (0.3631 expected positive-CLV probability, clv_shadow_watch, New York Liberty @ Connecticut Sun, 13:00)
-- #7 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
-- #8 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
-- #9 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
-- #10 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ New York Mets, 16:10)
-- #11 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
-- #12 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
+- #6 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 21:38)
+- #7 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Los Angeles Dodgers, 19:15)
+- #8 MLB Prop - Sonny Gray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Pittsburgh Pirates, 19:15)
+- #9 MLB Prop - Sean Manaea Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ New York Mets, 16:10)
+- #10 MLB Prop - Ian Seymour Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:10)
+- #11 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:10)
 
 ## Rules Of Use
 
