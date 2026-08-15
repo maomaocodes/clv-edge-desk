@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-14
+# Expected CLV Consensus Dashboard - 2026-08-15
 
 ## Executive Read
 
-- Consensus rows scored: 311
-- Shadow watch candidates: 3
+- Consensus rows scored: 8
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 UFC Prop - Islam No Distance (Fight Does Not Go the Distance) (0.3768 expected positive-CLV probability, clv_shadow_watch, Islam, TBD)
-- #2 Soccer Total - Under 0.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Atlético Grau vs Comerciantes Unidos, TBD)
-- #3 NFL Total - Over 34.5 (0.3653 expected positive-CLV probability, clv_shadow_watch, Jets vs Buccaneers, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
