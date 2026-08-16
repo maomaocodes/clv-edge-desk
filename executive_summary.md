@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 191
-- Shadow watch candidates: 7
+- Consensus rows scored: 200
+- Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,13 +11,11 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
-- #2 WNBA Total - Over 177 (0.3631 expected positive-CLV probability, clv_shadow_watch, Portland Fire @ Phoenix Mercury, 19:00)
+- #1 WNBA Total - Over 177 (0.3631 expected positive-CLV probability, clv_shadow_watch, Portland Fire @ Phoenix Mercury, 19:00)
+- #2 MLB Prop - Hunter Dobbins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 15:00)
 - #3 MLB Prop - Noah Cameron Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 16:07)
-- #4 MLB Prop - Hunter Dobbins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 15:00)
-- #5 MLB Prop - Dean Kremer Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
-- #6 MLB Prop - Hunter Brown Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
-- #7 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
+- #4 MLB Prop - Hunter Brown Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
+- #5 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
 
 ## Rules Of Use
 
