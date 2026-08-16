@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 3,
-    "pass_or_monitor": 54,
+    "pass_or_monitor": 52,
     "price_unverified_watch": 1,
-    "stale_started": 145
+    "stale_started": 147
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786912041.6319666,
-  "consensus_mtime_ns": 1786912041631966508,
+  "consensus_mtime": 1786912959.6202178,
+  "consensus_mtime_ns": 1786912959620217863,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 203,
-  "dashboard_version": "1786912041631966508:2026-08-16T16:27:30",
-  "generated_at": "2026-08-16T16:27:30",
+  "dashboard_version": "1786912959620217863:2026-08-16T16:43:08",
+  "generated_at": "2026-08-16T16:43:08",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -499,11 +499,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Chelsea Gray Under 4.5 AST",
+      "pick": "Jordin Canada Over 7.5 PTS",
       "primary_capper": "Landon",
       "prior_positive_clv_prob": 0.3107,
       "rank": 12,
-      "row_key": "WNBA|Indiana Fever @ Atlanta Dream|Prop|Chelsea Gray Under 4.5 AST|17:00|Landon",
+      "row_key": "WNBA|Indiana Fever @ Atlanta Dream|Prop|Jordin Canada Over 7.5 PTS|17:00|Landon",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
