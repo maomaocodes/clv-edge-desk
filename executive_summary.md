@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-15
+# Expected CLV Consensus Dashboard - 2026-08-16
 
 ## Executive Read
 
-- Consensus rows scored: 313
-- Shadow watch candidates: 1
+- Consensus rows scored: 6
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 UFC Prop - Esteban Ribovics by KO/TKO (0.3768 expected positive-CLV probability, clv_shadow_watch, Esteban Ribovics, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
