@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 4,
-    "pass_or_monitor": 79,
+    "pass_or_monitor": 78,
     "price_unverified_watch": 2,
-    "stale_started": 116
+    "stale_started": 117
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1786908495.2957323,
-  "consensus_mtime_ns": 1786908495295732328,
+  "consensus_mtime": 1786909659.2776008,
+  "consensus_mtime_ns": 1786909659277600744,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 201,
-  "dashboard_version": "1786908495295732328:2026-08-16T15:28:29",
-  "generated_at": "2026-08-16T15:28:29",
+  "dashboard_version": "1786909659277600744:2026-08-16T15:48:09",
+  "generated_at": "2026-08-16T15:48:09",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -499,11 +499,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Dominique Malonga Over 7.5 REB",
+      "pick": "Jordan Horston Over 4.5 PTS",
       "primary_capper": "Landon",
       "prior_positive_clv_prob": 0.3107,
       "rank": 12,
-      "row_key": "WNBA|Chicago Sky @ Seattle Storm|Prop|Dominique Malonga Over 7.5 REB|17:00|Landon",
+      "row_key": "WNBA|Chicago Sky @ Seattle Storm|Prop|Jordan Horston Over 4.5 PTS|17:00|Landon",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
