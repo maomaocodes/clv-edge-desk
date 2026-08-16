@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 199
-- Shadow watch candidates: 5
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,8 +14,7 @@
 - #1 WNBA Total - Over 177 (0.3631 expected positive-CLV probability, clv_shadow_watch, Portland Fire @ Phoenix Mercury, 19:00)
 - #2 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
 - #3 MLB Prop - Hunter Brown Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
-- #4 MLB Prop - Hunter Dobbins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 15:00)
-- #5 MLB Prop - Noah Cameron Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 16:07)
+- #4 MLB Prop - Noah Cameron Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 16:07)
 
 ## Rules Of Use
 
