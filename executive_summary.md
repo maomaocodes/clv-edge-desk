@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 183
-- Shadow watch candidates: 17
+- Consensus rows scored: 191
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,18 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Dylan Cease Over 8.5 Strikeouts (0.3902 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 13:37)
-- #2 MLB Total - Over 8 (0.3759 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Cincinnati Reds, 13:40)
-- #3 MLB Total - Over 7 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 13:37)
-- #4 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
-- #5 MLB Total - Under 7.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Toronto Blue Jays, 13:37)
-- #6 WNBA Total - Over 177 (0.3631 expected positive-CLV probability, clv_shadow_watch, Portland Fire @ Phoenix Mercury, 19:00)
-- #7 MLB Prop - Bryce Elder Over 4 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 13:35)
-- #8 MLB Prop - Bryce Elder Over 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 13:35)
-- #9 MLB Prop - Hunter Brown Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
-- #10 MLB Prop - Michael Soroka Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Atlanta Braves, 13:35)
-- #11 MLB Prop - Christian Scott Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ New York Mets, 13:40)
-- #12 MLB Prop - Dean Kremer Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
+- #1 MLB Total - Over 9.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
+- #2 WNBA Total - Over 177 (0.3631 expected positive-CLV probability, clv_shadow_watch, Portland Fire @ Phoenix Mercury, 19:00)
+- #3 MLB Prop - Noah Cameron Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Los Angeles Angels, 16:07)
+- #4 MLB Prop - Hunter Dobbins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Chicago Cubs, 15:00)
+- #5 MLB Prop - Dean Kremer Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Minnesota Twins, 14:10)
+- #6 MLB Prop - Hunter Brown Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
+- #7 MLB Prop - Bryan Woo Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Houston Astros, 19:20)
 
 ## Rules Of Use
 
