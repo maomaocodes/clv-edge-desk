@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 120
+- Consensus rows scored: 129
 - Shadow watch candidates: 17
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -13,15 +13,15 @@
 
 - #1 MLB Total - Under 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Philadelphia Phillies, 18:40)
 - #2 MLB Total - Over 9 (0.3671 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
-- #3 MLB Prop - Bailey Ober Over 4.5 Strikeouts (5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
+- #3 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Chicago Cubs, 20:05)
 - #4 MLB Prop - Walker Buehler Over 4.5 Strikeouts (5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 - #5 MLB Prop - Walker Buehler Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
-- #6 MLB Prop - Nolan McLean Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
-- #7 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Chicago Cubs, 20:05)
-- #8 MLB Prop - Quinn Matthews Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
-- #9 MLB Prop - Mason Barnett Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #10 MLB Prop - Michael Wacha Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #11 MLB Prop - Michael Wacha Over 4.5 Strikeouts (Alt: 5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #6 MLB Prop - Michael Wacha Over 4.5 Strikeouts (Alt: 5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #7 MLB Prop - Michael Wacha Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #8 MLB Prop - Mason Barnett Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #9 MLB Prop - Nolan McLean Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #10 MLB Prop - Quinn Matthews Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
+- #11 MLB Prop - Bailey Ober Over 4.5 Strikeouts (5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
 - #12 MLB Prop - Brandon Young Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Tampa Bay Rays, 18:05)
 
 ## Rules Of Use
