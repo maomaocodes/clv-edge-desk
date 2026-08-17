@@ -12,15 +12,15 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Michael Wacha Over 4.5 Strikeouts (Alt: 5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #2 MLB Prop - Michael Wacha Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #3 MLB Prop - Quinn Matthews Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
-- #4 MLB Prop - Bailey Ober Over 4.5 Strikeouts (5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
+- #2 MLB Prop - Mason Barnett Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #3 MLB Prop - Bailey Ober Over 4.5 Strikeouts (5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
+- #4 MLB Prop - Bailey Ober Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
 - #5 MLB Prop - Shota Imanaga Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Chicago Cubs, 20:05)
-- #6 MLB Prop - Bailey Ober Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
-- #7 MLB Prop - Mason Barnett Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #8 MLB Prop - Tomoyuki Sugano Over 4.5 Strikeouts (Alt: 5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
-- #9 MLB Prop - Tomoyuki Sugano Over 2.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
-- #10 MLB Prop - Blake Snell Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
+- #6 MLB Prop - Quinn Matthews Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Minnesota Twins, 19:40)
+- #7 MLB Prop - Michael Wacha Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
+- #8 MLB Prop - Tomoyuki Sugano Over 2.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
+- #9 MLB Prop - Blake Snell Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
+- #10 MLB Prop - Tomoyuki Sugano Over 4.5 Strikeouts (Alt: 5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
