@@ -21,8 +21,8 @@
 - #8 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
 - #9 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
 - #10 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
-- #11 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
-- #12 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #11 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #12 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 
 ## Rules Of Use
 
