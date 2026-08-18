@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 186
+- Consensus rows scored: 188
 - Shadow watch candidates: 23
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -17,12 +17,12 @@
 - #4 MLB Total - Over 8.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 - #5 MLB Total - Over 8 (0.3722 expected positive-CLV probability, clv_shadow_watch, Nationals vs Rangers, 20:00)
 - #6 MLB Total - Over 8.5 (0.3664 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Cincinnati Reds, 18:40)
-- #7 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
-- #8 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
-- #9 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #10 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
-- #11 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
-- #12 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #7 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
+- #8 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
+- #9 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
+- #10 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
+- #11 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #12 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 
 ## Rules Of Use
 
