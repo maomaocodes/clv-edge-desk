@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 192
+- Consensus rows scored: 202
 - Shadow watch candidates: 18
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -16,12 +16,12 @@
 - #3 MLB Total - Over 9 (0.3755 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Houston Astros, 20:10)
 - #4 MLB Total - Over 8.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 - #5 MLB Total - Over 8 (0.3722 expected positive-CLV probability, clv_shadow_watch, Nationals vs Rangers, 20:00)
-- #6 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #7 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
-- #8 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
-- #9 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
-- #10 MLB Prop - Ranger Suarez Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 19:10)
-- #11 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #6 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
+- #7 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
+- #8 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
+- #9 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
+- #10 MLB Prop - Kyle Harrison Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
+- #11 MLB Prop - Jack Perkins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
 - #12 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
 
 ## Rules Of Use
