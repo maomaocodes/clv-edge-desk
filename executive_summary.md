@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 112
+- Consensus rows scored: 127
 - Shadow watch candidates: 18
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -15,14 +15,14 @@
 - #2 MLB Total - Over 8 (0.3722 expected positive-CLV probability, clv_shadow_watch, Nationals vs Rangers, 20:00)
 - #3 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
 - #4 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #5 MLB Prop - Merrill Kelly Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 19:10)
-- #6 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
-- #7 MLB Prop - Ranger Suarez Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 19:10)
-- #8 MLB Prop - Kyle Harrison Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
-- #9 MLB Prop - Kyle Harrison Over 8 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
-- #10 MLB Prop - Ryan Feltner Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
-- #11 MLB Prop - Jack Perkins Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Kansas City Royals, 19:40)
-- #12 MLB Prop - Kyle Leahy Over 8 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Cincinnati Reds, 18:40)
+- #5 MLB Prop - Kyle Harrison Over 8 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
+- #6 MLB Prop - Kyle Harrison Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
+- #7 MLB Prop - Robbie Ray Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #8 MLB Prop - Robbie Ray Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ New York Mets, 19:10)
+- #9 MLB Prop - Kyle Leahy Over 8 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Cincinnati Reds, 18:40)
+- #10 MLB Prop - Kyle Leahy Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Cincinnati Reds, 18:40)
+- #11 MLB Prop - Ranger Suarez Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 19:10)
+- #12 MLB Prop - Merrill Kelly Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 19:10)
 
 ## Rules Of Use
 
