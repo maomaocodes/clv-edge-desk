@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 38
+- Consensus rows scored: 40
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,9 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #2 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
-- #3 NCAAF Total - Over 6.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Fresno State Bulldogs, TBD)
+- #1 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
+- #2 NCAAF Total - Over 6.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Fresno State Bulldogs, TBD)
+- #3 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
 
 ## Rules Of Use
 
