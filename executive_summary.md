@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 5
-- Shadow watch candidates: 0
+- Consensus rows scored: 10
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Shohei Ohtani Over 0.5 HR (0.3698 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
