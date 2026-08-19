@@ -17,8 +17,8 @@
 - #4 MLB Total - Under 7.5 (0.3605 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
 - #5 MLB Prop - Logan Gilbert Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
 - #6 MLB Prop - Drew Rasmussen Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Tampa Bay Rays, 18:40)
-- #7 MLB Prop - Sandy Alcantara Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Philadelphia Phillies, 18:05)
-- #8 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Philadelphia Phillies, 18:05)
+- #7 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Philadelphia Phillies, 18:05)
+- #8 MLB Prop - Sandy Alcantara Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Philadelphia Phillies, 18:05)
 - #9 MLB Prop - Clay Holmes Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Chicago Cubs, 14:20)
 - #10 MLB Prop - Payton Tolle Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 16:10)
 
