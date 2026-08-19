@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-18
+# Expected CLV Consensus Dashboard - 2026-08-19
 
 ## Executive Read
 
-- Consensus rows scored: 201
-- Shadow watch candidates: 5
+- Consensus rows scored: 5
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,11 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NCAAF Total - Over 6.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Fresno State Bulldogs, TBD)
-- #2 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #3 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
-- #4 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
-- #5 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
