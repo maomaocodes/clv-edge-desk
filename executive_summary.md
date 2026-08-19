@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
-- #2 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #1 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #2 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
 - #3 MLB F5 - F5 Under 4.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 16:10)
 - #4 MLB Total - Under 8 (0.3729 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Boston Red Sox, 16:10)
 - #5 MLB Total - Under 7.5 (0.3724 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
