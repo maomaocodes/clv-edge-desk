@@ -1,9 +1,9 @@
 {
   "action_counts": {
     "clv_shadow_watch": 5,
-    "pass_or_monitor": 81,
+    "pass_or_monitor": 79,
     "price_unverified_watch": 5,
-    "stale_started": 123
+    "stale_started": 125
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1787179687.1957712,
-  "consensus_mtime_ns": 1787179687195771194,
+  "consensus_mtime": 1787180905.3063579,
+  "consensus_mtime_ns": 1787180905306357962,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 214,
-  "dashboard_version": "1787179687195771194:2026-08-19T18:48:24",
-  "generated_at": "2026-08-19T18:48:24",
+  "dashboard_version": "1787180905306357962:2026-08-19T19:08:33",
+  "generated_at": "2026-08-19T19:08:33",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -59,11 +59,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "Champions League Qualifier; Odds: +100; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "Both Teams to Score & Over 3.5",
+      "pick": "Both Teams to Score & Over 3.5 Goals",
       "primary_capper": "Fredo",
       "prior_positive_clv_prob": 0.3107,
       "rank": 1,
-      "row_key": "Champions League|NEC vs Bodo/Glimt|BTTS|Both Teams to Score & Over 3.5|TBD|Fredo",
+      "row_key": "Champions League|NEC vs Bodo/Glimt|BTTS|Both Teams to Score & Over 3.5 Goals|TBD|Fredo",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -99,11 +99,11 @@
       "model_score_band": "score_6_to_6_99",
       "notes": "Champions League Qualifier; Odds: +100; Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "Both Teams to Score & Over 3.5 Goals",
+      "pick": "Both Teams to Score & Over 3.5",
       "primary_capper": "Fredo",
       "prior_positive_clv_prob": 0.3107,
       "rank": 2,
-      "row_key": "Champions League|NEC vs Bodo/Glimt|BTTS|Both Teams to Score & Over 3.5 Goals|TBD|Fredo",
+      "row_key": "Champions League|NEC vs Bodo/Glimt|BTTS|Both Teams to Score & Over 3.5|TBD|Fredo",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
