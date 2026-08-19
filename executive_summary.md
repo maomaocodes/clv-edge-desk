@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 197
+- Consensus rows scored: 203
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,13 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
-- #2 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #1 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #2 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
 - #3 MLB Total - Under 7.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Cleveland Guardians, 18:40)
 - #4 MLB Prop - Shohei Ohtani Over 0.5 HR (0.3698 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
 - #5 MLB Total - Under 7.5 (0.3605 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
-- #6 MLB Prop - Logan Gilbert Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
-- #7 MLB Prop - Drew Rasmussen Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Tampa Bay Rays, 18:40)
+- #6 MLB Prop - Drew Rasmussen Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Tampa Bay Rays, 18:40)
+- #7 MLB Prop - Logan Gilbert Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Milwaukee Brewers, 19:40)
 
 ## Rules Of Use
 
