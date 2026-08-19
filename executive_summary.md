@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 198
-- Shadow watch candidates: 10
+- Consensus rows scored: 200
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,14 +13,11 @@
 
 - #1 MLB Prop - Ryan Feltner Under 3.5 Strikeouts (0.3969 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
 - #2 MLB Prop - Shohei Ohtani Over 2.5 Total Bases (0.3902 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
-- #3 MLB Total - Over 9 (0.375 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Houston Astros, 20:10)
-- #4 NCAAF Total - Over 6.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Fresno State Bulldogs, TBD)
-- #5 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
-- #6 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
-- #7 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
-- #8 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
-- #9 MLB Prop - Jackson Kent Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Texas Rangers, 20:05)
-- #10 MLB Prop - Jackson Kent Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Texas Rangers, 20:05)
+- #3 NCAAF Total - Over 6.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Fresno State Bulldogs, TBD)
+- #4 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Iowa State, TBD)
+- #5 NCAAF Total - Under 4.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Arkansas Razorbacks, TBD)
+- #6 NCAAF Total - Under 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Kentucky Wildcats, TBD)
+- #7 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs, TBD)
 
 ## Rules Of Use
 
