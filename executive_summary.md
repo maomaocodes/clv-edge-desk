@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 217
+- Consensus rows scored: 218
 - Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
-- #2 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #1 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #2 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
 - #3 MLB Prop - Shohei Ohtani Over 0.5 HR (0.3698 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Colorado Rockies, 20:40)
 - #4 NCAAF Total - Over 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, West Virginia Mountaineers, TBD)
 - #5 NCAAF Total - Under 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Michigan Wolverines, TBD)
