@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 170
-- Shadow watch candidates: 6
+- Consensus rows scored: 175
+- Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -16,7 +16,6 @@
 - #3 NFL Total - Under 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Washington Commanders, TBD)
 - #4 NFL Total - Under 3.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Green Bay Packers, TBD)
 - #5 MLB Prop - Peter Lambert Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Houston Astros, 20:10)
-- #6 MLB Prop - Gerrit Cole Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Baltimore Orioles, 18:35)
 
 ## Rules Of Use
 
