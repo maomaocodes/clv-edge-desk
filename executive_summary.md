@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 136
+- Consensus rows scored: 137
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,8 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Under 7.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Nationals vs Rangers, TBD)
-- #2 MLB Prop - Peter Lambert Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Houston Astros, 20:10)
-- #3 MLB Prop - Gerrit Cole Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Baltimore Orioles, 18:35)
+- #2 MLB Prop - Gerrit Cole Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Baltimore Orioles, 18:35)
+- #3 MLB Prop - Peter Lambert Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
