@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
-- #2 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #1 Champions League BTTS - Both Teams to Score & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
+- #2 Champions League BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, NEC vs Bodo/Glimt, TBD)
 - #3 NCAAF Total - Over 5.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, West Virginia Mountaineers, TBD)
 - #4 NCAAF Total - Under 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Michigan Wolverines, TBD)
 - #5 NCAAF Total - Over 8.5 (0.3645 expected positive-CLV probability, clv_shadow_watch, Alabama, TBD)
