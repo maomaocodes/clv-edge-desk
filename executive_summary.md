@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 155
-- Shadow watch candidates: 11
+- Consensus rows scored: 183
+- Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,15 +13,14 @@
 
 - #1 Soccer BTTS - BTTS & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
 - #2 Soccer BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
-- #3 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Texas Rangers, 20:15)
-- #4 MLB Prop - Eduardo Rodriguez Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
-- #5 MLB Prop - Hayden Wesneski Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Houston Astros, 20:10)
+- #3 MLB Prop - Freddy Peralta Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Baltimore Orioles, 19:15)
+- #4 MLB Prop - Troy Melton Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Kansas City Royals, 20:10)
+- #5 MLB Prop - Nick Lodolo Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
 - #6 MLB Prop - JT Ginn Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Houston Astros, 20:10)
-- #7 MLB Prop - Nick Lodolo Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
-- #8 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Texas Rangers, 20:15)
-- #9 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ San Diego Padres, 21:40)
-- #10 MLB Prop - Freddy Peralta Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Baltimore Orioles, 19:15)
-- #11 MLB Prop - Troy Melton Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Kansas City Royals, 20:10)
+- #7 MLB Prop - Hayden Wesneski Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Houston Astros, 20:10)
+- #8 MLB Prop - Eduardo Rodriguez Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
+- #9 MLB Prop - MacKenzie Gore Over 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Texas Rangers, 20:15)
+- #10 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ San Diego Padres, 21:40)
 
 ## Rules Of Use
 
