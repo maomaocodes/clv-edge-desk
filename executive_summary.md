@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
-- #2 Soccer BTTS - BTTS & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
+- #1 Soccer BTTS - BTTS & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
+- #2 Soccer BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
 
 ## Rules Of Use
 
