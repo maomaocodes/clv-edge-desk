@@ -14,8 +14,8 @@
 - #1 Soccer BTTS - Both Teams to Score & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
 - #2 Soccer BTTS - BTTS & Over 3.5 Goals (0.3803 expected positive-CLV probability, clv_shadow_watch, Al Qadsiah vs Al Ittihad, TBD)
 - #3 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ San Diego Padres, 21:40)
-- #4 MLB Prop - Eduardo Rodriguez Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
-- #5 MLB Prop - Nick Lodolo Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
+- #4 MLB Prop - Nick Lodolo Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
+- #5 MLB Prop - Eduardo Rodriguez Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 21:40)
 
 ## Rules Of Use
 
