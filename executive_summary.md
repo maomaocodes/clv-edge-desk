@@ -19,8 +19,8 @@
 - #6 MLB Prop - Brandon Young Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Baltimore Orioles, 19:05)
 - #7 MLB Prop - Gabriel Hughes Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Colorado Rockies, 20:10)
 - #8 MLB Prop - Michael Soroka Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 20:10)
-- #9 MLB Prop - Tarik Skubal Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
-- #10 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
+- #9 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
+- #10 MLB Prop - Tarik Skubal Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
 
 ## Rules Of Use
 
