@@ -19,8 +19,8 @@
 - #6 MLB Prop - Luis Castillo Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Chicago White Sox, 19:10)
 - #7 MLB Prop - Ryan Johnson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Texas Rangers, 19:05)
 - #8 MLB Prop - Logan Henderson Over 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Milwaukee Brewers, 14:10)
-- #9 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
-- #10 MLB Prop - Tarik Skubal Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
+- #9 MLB Prop - Tarik Skubal Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
+- #10 MLB Prop - Tarik Skubal Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Los Angeles Dodgers, 19:15)
 - #11 MLB Prop - Jake Irvin Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Miami Marlins, 16:10)
 - #12 MLB Prop - Brandon Young Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Baltimore Orioles, 19:05)
 
