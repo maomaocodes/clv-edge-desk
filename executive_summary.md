@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 189
-- Shadow watch candidates: 1
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NFL Total - Under 38.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, Tennessee Titans vs Seattle Seahawks, 17:00)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
