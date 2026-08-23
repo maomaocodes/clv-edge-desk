@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 232
-- Shadow watch candidates: 3
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 WNBA Prop - Jordin Canada To Score 10+ Points (0.3838 expected positive-CLV probability, clv_shadow_watch, Atlanta Dream @ Phoenix Mercury, 22:00)
-- #2 MLB Prop - Gabriel Hughes Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Colorado Rockies, 20:10)
-- #3 MLB Prop - Michael Soroka Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Arizona Diamondbacks, 20:10)
 
 ## Rules Of Use
 
