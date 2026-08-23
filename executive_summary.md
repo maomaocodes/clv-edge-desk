@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 186
-- Shadow watch candidates: 3
+- Consensus rows scored: 187
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB F5 - F5 Under 4.5 (0.3738 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Chicago White Sox, 14:10)
-- #2 MLB Total - Under 7.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Seattle Mariners, 16:10)
-- #3 NFL Total - Under 38.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, Tennessee Titans vs Seattle Seahawks, 17:00)
+- #1 MLB Total - Under 7.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Seattle Mariners, 16:10)
+- #2 NFL Total - Under 38.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, Tennessee Titans vs Seattle Seahawks, 17:00)
 
 ## Rules Of Use
 
