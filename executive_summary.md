@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 213
+- Consensus rows scored: 218
 - Shadow watch candidates: 19
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -21,8 +21,8 @@
 - #8 MLB Total - Under 7.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 - #9 MLB Total - Over 9.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:40)
 - #10 MLB Total - Over 8.5 (0.3676 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
-- #11 MLB Prop - Gavin Williams Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
-- #12 MLB Prop - Chris Bassitt Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ St. Louis Cardinals, 19:45)
+- #11 MLB Prop - Chris Bassitt Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ St. Louis Cardinals, 19:45)
+- #12 MLB Prop - Kyle Harrison Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 
 ## Rules Of Use
 
