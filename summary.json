@@ -1,7 +1,7 @@
 {
   "action_counts": {
     "high_score_clv_unconfirmed": 2,
-    "pass_or_monitor": 21
+    "pass_or_monitor": 22
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1787663273.514827,
-  "consensus_mtime_ns": 1787663273514826950,
+  "consensus_mtime": 1787664360.9527228,
+  "consensus_mtime_ns": 1787664360952722755,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 23,
-  "dashboard_version": "1787663273514826950:2026-08-25T09:08:03",
-  "generated_at": "2026-08-25T09:08:03",
+  "consensus_rows": 24,
+  "dashboard_version": "1787664360952722755:2026-08-25T09:26:13",
+  "generated_at": "2026-08-25T09:26:13",
   "high_score_clv_unconfirmed_count": 2,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -297,11 +297,11 @@
       "model_score_band": "score_under_6",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Alonso Over 1.5 Hits+Runs+RBI",
+      "pick": "Bassitt Under 16.5 Outs",
       "primary_capper": "BeezoWins",
       "prior_positive_clv_prob": 0.3107,
       "rank": 7,
-      "row_key": "MLB|Baltimore Orioles @ St. Louis Cardinals|Prop|Alonso Over 1.5 Hits+Runs+RBI|19:45|BeezoWins",
+      "row_key": "MLB|Baltimore Orioles @ St. Louis Cardinals|Prop|Bassitt Under 16.5 Outs|19:45|BeezoWins",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
@@ -337,11 +337,11 @@
       "model_score_band": "score_under_6",
       "notes": "",
       "opposing_count": "0",
-      "pick": "Bassitt Under 16.5 Outs",
+      "pick": "Alonso Over 1.5 Hits+Runs+RBI",
       "primary_capper": "BeezoWins",
       "prior_positive_clv_prob": 0.3107,
       "rank": 8,
-      "row_key": "MLB|Baltimore Orioles @ St. Louis Cardinals|Prop|Bassitt Under 16.5 Outs|19:45|BeezoWins",
+      "row_key": "MLB|Baltimore Orioles @ St. Louis Cardinals|Prop|Alonso Over 1.5 Hits+Runs+RBI|19:45|BeezoWins",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
