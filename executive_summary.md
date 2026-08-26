@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 38
-- Shadow watch candidates: 0
+- Consensus rows scored: 45
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Sean Burke Over 4 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
+- #2 MLB Prop - Matthew Boyd Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Arizona Diamondbacks, 15:40)
+- #3 MLB Prop - Sonny Gray Over 3 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Miami Marlins, 18:40)
+- #4 MLB Prop - Randy Dobnak Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
 
 ## Rules Of Use
 
