@@ -15,9 +15,9 @@
 - #2 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ San Francisco Giants, 21:45)
 - #3 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
 - #4 MLB Total - Over 9.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:40)
-- #5 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 21:40)
-- #6 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
-- #7 MLB Prop - Gavin Williams Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
+- #5 MLB Prop - Gavin Williams Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
+- #6 MLB Prop - Aaron Nola Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 21:40)
+- #7 MLB Prop - Walbert Urena Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 21:38)
 - #8 MLB Prop - Brandon Pfaadt Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Arizona Diamondbacks, 21:40)
 - #9 MLB Prop - Adrian Houser Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ San Francisco Giants, 21:45)
 
