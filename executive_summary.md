@@ -21,7 +21,7 @@
 - #8 MLB Total - Over 8.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 - #9 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
 - #10 MLB Prop - Dustin May Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #11 MLB Prop - Bryan Woo Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 16:10)
+- #11 MLB Prop - Bryan Woo (SEA) Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 16:10)
 - #12 MLB Prop - Sean Burke (CWS) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
 
 ## Rules Of Use
