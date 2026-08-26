@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 272
-- Shadow watch candidates: 14
+- Consensus rows scored: 278
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,17 +12,13 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Sean Burke Over 4 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
-- #2 MLB Total - Over 8.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #3 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #4 MLB Prop - Sean Burke (CWS) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
-- #5 MLB Prop - Sean Burke Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
-- #6 MLB Prop - Dustin May (MIL) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #7 MLB Prop - JT Ginn (ATH) Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #8 MLB Prop - AJ Smith-Shayver (ATL) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #9 MLB Prop - AJ Smith-Shayver Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #10 MLB Prop - Roki Sasaki Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #11 MLB Prop - Roki Sasaki (LAD) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #12 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #2 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #3 MLB Prop - Sean Burke (CWS) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
+- #4 MLB Prop - Sean Burke Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
+- #5 MLB Prop - Connor Prielipp (MIN) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #6 MLB Prop - JT Ginn (ATH) Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #7 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #8 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
 
 ## Rules Of Use
 
