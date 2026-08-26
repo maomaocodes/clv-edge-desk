@@ -20,8 +20,8 @@
 - #7 MLB Total - Over 8.5 (0.3725 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 16:07)
 - #8 MLB Total - Over 8.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 - #9 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #10 MLB Prop - Roki Sasaki Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #11 MLB Prop - AJ Smith-Shayver Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #10 MLB Prop - AJ Smith-Shayver (ATL) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #11 MLB Prop - Dustin May (MIL) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 - #12 MLB Prop - Roki Sasaki (LAD) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 
 ## Rules Of Use
