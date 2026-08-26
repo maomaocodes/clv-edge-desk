@@ -11,10 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Sonny Gray Over 3 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Miami Marlins, 18:40)
-- #2 MLB Prop - Matthew Boyd Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Arizona Diamondbacks, 15:40)
-- #3 MLB Prop - Randy Dobnak Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
-- #4 MLB Prop - Sean Burke Over 4 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
+- #1 MLB Prop - Randy Dobnak Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
+- #2 MLB Prop - Sean Burke Over 4 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
+- #3 MLB Prop - Sonny Gray Over 3 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Miami Marlins, 18:40)
+- #4 MLB Prop - Matthew Boyd Under 5 Strikeouts (0.3923 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Arizona Diamondbacks, 15:40)
 - #5 MLB Total - Over 9 (0.3755 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 18:45)
 - #6 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 - #7 MLB Total - Over 8.5 (0.3725 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Los Angeles Angels, 16:07)
