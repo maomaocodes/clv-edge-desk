@@ -21,8 +21,8 @@
 - #8 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
 - #9 MLB Prop - Roki Sasaki Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 - #10 MLB Prop - Sean Burke Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Chicago White Sox, 19:40)
-- #11 MLB Prop - Jesus Luzardo Over 7 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 16:10)
-- #12 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #11 MLB Prop - Bryan Woo (SEA) Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Seattle Mariners, 16:10)
+- #12 MLB Prop - JT Ginn (ATH) Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
 
 ## Rules Of Use
 
