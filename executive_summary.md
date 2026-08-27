@@ -12,10 +12,10 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 10 (0.3671 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #2 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #3 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #4 MLB Prop - Connor Prielipp (MIN) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
-- #5 MLB Prop - JT Ginn (ATH) Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #2 MLB Prop - JT Ginn (ATH) Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #3 MLB Prop - Connor Prielipp Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #4 MLB Prop - JT Ginn Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
+- #5 MLB Prop - Connor Prielipp (MIN) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Oakland Athletics, 21:05)
 
 ## Rules Of Use
 
