@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 169
-- Shadow watch candidates: 21
+- Consensus rows scored: 173
+- Shadow watch candidates: 18
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,18 +11,18 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Jake Irvin Over 4.5 Strikeouts (0.4041 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 13:05)
-- #2 MLB Prop - Gerrit Cole Over 5.5 Strikeouts (0.3957 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
-- #3 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 21:45)
-- #4 MLB Total - Over 10 (0.373 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 13:05)
-- #5 MLB F5 - Orioles F5 Team Total Over 1.5 (0.3715 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ St. Louis Cardinals, 14:15)
-- #6 MLB Total - Under 7 (0.3666 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #7 Soccer Total - Over 3.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Tottenham Hotspur vs Charlton Athletic, 14:45)
-- #8 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #9 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #10 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #11 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
-- #12 MLB Prop - Jake Irvin (WSH) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 13:05)
+- #1 MLB Prop - Gerrit Cole Over 5.5 Strikeouts (0.3957 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
+- #2 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 21:45)
+- #3 MLB F5 - Orioles F5 Team Total Over 1.5 (0.3715 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ St. Louis Cardinals, 14:15)
+- #4 MLB Total - Under 7 (0.3666 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #5 Soccer Total - Over 3.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Tottenham Hotspur vs Charlton Athletic, 14:45)
+- #6 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #7 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #8 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #9 MLB Prop - Gerrit Cole (NYY) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
+- #10 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #11 MLB Prop - Yoshinobu Yamamoto (LAD) 6+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #12 MLB Prop - Noah Cameron (KAN) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
 
 ## Rules Of Use
 
