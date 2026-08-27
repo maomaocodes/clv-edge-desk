@@ -18,11 +18,11 @@
 - #5 MLB Total - Under 7 (0.3666 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 - #6 Soccer Total - Over 3.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Tottenham Hotspur vs Charlton Athletic, 14:45)
 - #7 MLB Prop - Hayden Wesneski (HOU) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros vs (opponent), TBD)
-- #8 MLB Prop - Jake Irvin Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 13:05)
-- #9 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #10 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #11 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #12 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #8 MLB Prop - Jake Irvin (WSH) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Washington Nationals, 13:05)
+- #9 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #10 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #11 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #12 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 
 ## Rules Of Use
 
