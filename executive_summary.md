@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 218
+- Consensus rows scored: 221
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 21:45)
+- #1 MLB Total - Over 8 (0.3675 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 21:45)
 - #2 MLB Prop - Hayden Wesneski (HOU) Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros vs (opponent), TBD)
 
 ## Rules Of Use
