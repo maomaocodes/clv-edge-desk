@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 172
-- Shadow watch candidates: 17
+- Shadow watch candidates: 16
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,15 +14,15 @@
 - #1 MLB Prop - Gerrit Cole Over 5.5 Strikeouts (0.3957 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
 - #2 MLB Total - Over 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 21:45)
 - #3 MLB Total - Under 7 (0.3675 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #4 Soccer Total - Over 3.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Tottenham Hotspur vs Charlton Athletic, 14:45)
-- #5 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
-- #6 MLB Prop - Gerrit Cole (NYY) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
-- #7 MLB Prop - Chris Sale (ATL) Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #8 MLB Prop - Yoshinobu Yamamoto (LAD) 6+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #9 MLB Prop - Chris Sale Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #10 MLB Prop - Yoshinobu Yamamoto Over 6 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #11 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #12 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #4 MLB Prop - Gerrit Cole (NYY) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
+- #5 MLB Prop - Yoshinobu Yamamoto Over 6 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #6 MLB Prop - Chris Sale Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #7 MLB Prop - Yoshinobu Yamamoto (LAD) 6+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #8 MLB Prop - Chris Sale (ATL) Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
+- #9 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #10 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #11 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #12 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 
 ## Rules Of Use
 
