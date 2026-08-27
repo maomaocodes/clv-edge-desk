@@ -16,13 +16,13 @@
 - #3 MLB F5 - Orioles F5 Team Total Over 1.5 (0.3715 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ St. Louis Cardinals, 14:15)
 - #4 MLB Total - Under 7 (0.3666 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
 - #5 Soccer Total - Over 3.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Tottenham Hotspur vs Charlton Athletic, 14:45)
-- #6 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #7 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #8 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #9 MLB Prop - Gerrit Cole (NYY) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
-- #10 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
-- #11 MLB Prop - Yoshinobu Yamamoto (LAD) 6+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
-- #12 MLB Prop - Noah Cameron (KAN) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Toronto Blue Jays, 19:07)
+- #6 MLB Prop - Sean Manaea (NYM) Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #7 MLB Prop - Sean Manaea Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #8 MLB Prop - Jacob Misiorowski (MIL) Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #9 MLB Prop - Hayden Wesneski Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
+- #10 MLB Prop - Gerrit Cole (NYY) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Yankees, 19:05)
+- #11 MLB Prop - Jacob Misiorowski Under 8.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ New York Mets, 19:10)
+- #12 MLB Prop - Chris Sale Under 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Atlanta Braves, 19:15)
 
 ## Rules Of Use
 
