@@ -13,10 +13,10 @@
 
 - #1 MLB Total - Under 8 (0.3759 expected positive-CLV probability, clv_shadow_watch, LA vs Detroit, TBD)
 - #2 MLB Prop - Luis Castillo Under 5.5 Hits Allowed (0.3712 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
-- #3 MLB Total - Over 8.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
-- #4 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 21:38)
-- #5 MLB Prop - Quinn Matthews Over 5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
-- #6 MLB Prop - Logan Henderson Over 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 19:40)
+- #3 MLB Total - Over 8 (0.3698 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
+- #4 MLB Total - Over 8.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
+- #5 MLB Prop - Reid Detmers Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 21:38)
+- #6 MLB Prop - Quinn Matthews Over 5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 20:10)
 
 ## Rules Of Use
 
