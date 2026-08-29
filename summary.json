@@ -2,9 +2,9 @@
   "action_counts": {
     "clv_shadow_watch": 3,
     "high_score_clv_unconfirmed": 1,
-    "pass_or_monitor": 91,
+    "pass_or_monitor": 92,
     "price_unverified_watch": 2,
-    "stale_started": 122
+    "stale_started": 123
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1788044776.3704221,
-  "consensus_mtime_ns": 1788044776370422174,
+  "consensus_mtime": 1788045923.5495489,
+  "consensus_mtime_ns": 1788045923549548769,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 219,
-  "dashboard_version": "1788044776370422174:2026-08-29T19:06:22",
-  "generated_at": "2026-08-29T19:06:22",
+  "consensus_rows": 221,
+  "dashboard_version": "1788045923549548769:2026-08-29T19:25:32",
+  "generated_at": "2026-08-29T19:25:32",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -448,7 +448,7 @@
       "event_status": "",
       "event_time_et": "TBD",
       "expected_positive_clv_prob": 0.3402,
-      "game": "Kai vs. Aori",
+      "game": "Su Mudaerji",
       "handicappers": "thorrism",
       "has_lock": "No",
       "league": "MMA",
@@ -460,11 +460,11 @@
       "model_score_band": "score_under_6",
       "notes": "Unresolved event time - verify matchup/start",
       "opposing_count": "0",
-      "pick": "No - Fight Does Not Go To Decision (Kai/Aori)",
+      "pick": "Su Mudaerji Most Significant Strikes",
       "primary_capper": "thorrism",
       "prior_positive_clv_prob": 0.3107,
       "rank": 11,
-      "row_key": "MMA|Kai vs. Aori|Prop|No - Fight Does Not Go To Decision (Kai/Aori)|TBD|thorrism",
+      "row_key": "MMA|Su Mudaerji|Prop|Su Mudaerji Most Significant Strikes|TBD|thorrism",
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
