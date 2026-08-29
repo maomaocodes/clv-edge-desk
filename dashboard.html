@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>11 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1788031871145056492:2026-08-29T15:31:20" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-29T15:31:20.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1788032787844193961:2026-08-29T15:46:57" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-08-29T15:46:57.</div>
         </aside>
       </div>
     </header>
@@ -553,11 +553,11 @@
 <tr class="row-pass_or_monitor"><td>37</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3244</strong><span class="prob-track" aria-hidden="true"><span style="width:32.4%"></span></span></div></td><td>-0.0356</td><td>NCAAF</td><td>Total (1H)</td><td><strong>1H Under 23.5</strong><small>TCU game</small></td><td>TBD</td><td>-110</td><td>3.7</td><td>system-picks</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>38</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3244</strong><span class="prob-track" aria-hidden="true"><span style="width:32.4%"></span></span></div></td><td>-0.0356</td><td>NCAAF</td><td>F5</td><td><strong>F5 Under 23.5</strong><small>North Carolina vs TCU</small></td><td>TBD</td><td>-105</td><td>1.0</td><td>McBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>39</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3244</strong><span class="prob-track" aria-hidden="true"><span style="width:32.4%"></span></span></div></td><td>-0.0356</td><td>NCAAF</td><td>Total</td><td><strong>Over 60</strong><small>USC</small></td><td>TBD</td><td>-120</td><td>1.0</td><td>McBets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>40</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3243</strong><span class="prob-track" aria-hidden="true"><span style="width:32.4%"></span></span></div></td><td>-0.0357</td><td>NCAAF</td><td>Total</td><td><strong>Hawaii/Stanford UND 48.5</strong><small>Hawaii vs Stanford</small></td><td>TBD</td><td></td><td>4.9</td><td>TheGamblingGawd</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+<tr class="row-pass_or_monitor"><td>40</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3243</strong><span class="prob-track" aria-hidden="true"><span style="width:32.4%"></span></span></div></td><td>-0.0357</td><td>NCAAF</td><td>1Q Total</td><td><strong>1Q Over 13.5</strong><small>Memphis vs UNLV</small></td><td>TBD</td><td></td><td>4.9</td><td>TheGamblingGawd</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-08-29T15:31:20. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-08-29T15:46:57. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -583,7 +583,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-29T15:31:20"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-08-29T15:46:57"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
