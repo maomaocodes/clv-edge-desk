@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 202
+- Consensus rows scored: 212
 - Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -13,13 +13,13 @@
 
 - #1 NCAAF Total - Under 46.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, TCU vs North Carolina, TBD)
 - #2 NCAAF Total - Under 46.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, TCU vs UNC, TBD)
-- #3 MLB Prop - Kade Anderson Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 15:07)
-- #4 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 16:05)
-- #5 MLB Prop - Walker Buehler Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Tampa Bay Rays, 16:10)
-- #6 MLB Prop - Nolan McLean Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Mets, 16:10)
+- #3 MLB Prop - Nolan McLean Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ New York Mets, 16:10)
+- #4 MLB Prop - Cristopher Sanchez Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 22:07)
+- #5 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 16:05)
+- #6 MLB Prop - Kade Anderson Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 15:07)
 - #7 MLB Prop - Ryan Feltner Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Atlanta Braves, 16:10)
-- #8 MLB Prop - Foster Griffin Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Cleveland Guardians, 16:10)
-- #9 MLB Prop - Cristopher Sanchez Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 22:07)
+- #8 MLB Prop - Walker Buehler Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Tampa Bay Rays, 16:10)
+- #9 MLB Prop - Foster Griffin Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Cleveland Guardians, 16:10)
 - #10 MLB Prop - Cade Cavalli Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Washington Nationals, 16:05)
 
 ## Rules Of Use
