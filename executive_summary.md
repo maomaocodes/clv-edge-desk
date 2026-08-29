@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-28
+# Expected CLV Consensus Dashboard - 2026-08-29
 
 ## Executive Read
 
-- Consensus rows scored: 280
-- Shadow watch candidates: 1
+- Consensus rows scored: 7
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 8 (0.3759 expected positive-CLV probability, clv_shadow_watch, LA vs Detroit, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
