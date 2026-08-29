@@ -12,9 +12,9 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Bailey Ober 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
-- #2 MLB Prop - Kade Anderson Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 15:07)
-- #3 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 16:05)
-- #4 MLB Prop - Ryan Feltner Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Atlanta Braves, 16:10)
+- #2 MLB Prop - Merrill Kelly Under 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ San Francisco Giants, 16:05)
+- #3 MLB Prop - Ryan Feltner Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ Atlanta Braves, 16:10)
+- #4 MLB Prop - Kade Anderson Over 4.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 15:07)
 - #5 MLB Prop - Foster Griffin Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Cleveland Guardians, 16:10)
 - #6 MLB Prop - Cade Cavalli Under 6.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Washington Nationals, 16:05)
 - #7 MLB Prop - Walker Buehler Under 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Tampa Bay Rays, 16:10)
