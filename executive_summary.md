@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 157
+- Consensus rows scored: 197
 - Shadow watch candidates: 22
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -13,16 +13,16 @@
 
 - #1 MLB Total - Over 7.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Yankees, 13:35)
 - #2 MLB Total - Under 8 (0.3755 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Yankees, 13:35)
-- #3 MLB Total - Over 9 (0.373 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago Cubs, 19:20)
-- #4 MLB Total - Over 8 (0.3675 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
-- #5 MLB Prop - Kumar Rocker Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 14:10)
-- #6 MLB Prop - Robbie Ray 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Tampa Bay Rays, 13:40)
-- #7 MLB Prop - Robbie Ray (SFG) 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
-- #8 MLB Prop - Zebby Matthews (MIN) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
-- #9 MLB Prop - Logan Gilbert 5+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
-- #10 MLB Prop - Logan Gilbert Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
+- #3 MLB Total - Over 8 (0.3675 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
+- #4 MLB Total - Over 9 (0.3675 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Chicago Cubs, 19:20)
+- #5 MLB Prop - Robbie Ray (SFG) 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
+- #6 MLB Prop - Logan Gilbert 5+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
+- #7 MLB Prop - Logan Gilbert Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
+- #8 MLB Prop - Logan Gilbert (SEA) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
+- #9 MLB Prop - Logan Gilbert (SEA) 5+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Toronto Blue Jays, 13:37)
+- #10 MLB Prop - Ranger Suarez Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Yankees, 13:35)
 - #11 MLB Prop - Ranger Suarez (BOS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Yankees, 13:35)
-- #12 MLB Prop - Ranger Suarez Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ New York Yankees, 13:35)
+- #12 MLB Prop - Tyler Glasnow Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Detroit Tigers, 13:40)
 
 ## Rules Of Use
 
