@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-08-29
+# Expected CLV Consensus Dashboard - 2026-08-30
 
 ## Executive Read
 
-- Consensus rows scored: 220
-- Shadow watch candidates: 2
+- Consensus rows scored: 7
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NCAAF Total - Under 46.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, TCU vs North Carolina, TBD)
-- #2 NCAAF Total - Under 46.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, TCU vs UNC, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
