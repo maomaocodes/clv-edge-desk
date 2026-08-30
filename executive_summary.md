@@ -12,9 +12,9 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 8 (0.3738 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
-- #2 MLB Prop - Robbie Ray (SFG) 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
-- #3 MLB Prop - Yusei Kikuchi Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
-- #4 MLB Prop - Yusei Kikuchi (LAA) Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
+- #2 MLB Prop - Yusei Kikuchi Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
+- #3 MLB Prop - Yusei Kikuchi (LAA) Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
+- #4 MLB Prop - Robbie Ray (SFG) 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
 
 ## Rules Of Use
 
