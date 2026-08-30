@@ -10,12 +10,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1788068894.4594414,
-  "consensus_mtime_ns": 1788068894459441510,
+  "consensus_mtime": 1788070024.6572928,
+  "consensus_mtime_ns": 1788070024657292869,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 14,
-  "dashboard_version": "1788068894459441510:2026-08-30T01:48:25",
-  "generated_at": "2026-08-30T01:48:25",
+  "dashboard_version": "1788070024657292869:2026-08-30T02:07:35",
+  "generated_at": "2026-08-30T02:07:35",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -33,7 +33,7 @@
     {
       "action": "Blocked watch: CLV signal clears, but entry odds are missing; verify price first.",
       "action_label": "price_unverified_watch",
-      "consensus_score": 7.4,
+      "consensus_score": 7.2,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "missing entry odds",
       "edge_vs_threshold": 0.0197,
@@ -193,7 +193,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.6,
+      "consensus_score": 4.7,
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.036,
