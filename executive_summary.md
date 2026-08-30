@@ -12,11 +12,11 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 8 (0.3738 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
-- #2 MLB Prop - Kumar Rocker Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 14:10)
-- #3 MLB Prop - Zebby Matthews (MIN) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
-- #4 MLB Prop - Zebby Matthews Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
+- #2 MLB Prop - Kumar Rocker (TEX) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 14:10)
+- #3 MLB Prop - Zebby Matthews Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
+- #4 MLB Prop - Zebby Matthews (MIN) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Minnesota Twins, 14:10)
 - #5 MLB Prop - Robbie Ray (SFG) 4+ Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
-- #6 MLB Prop - Kumar Rocker (TEX) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 14:10)
+- #6 MLB Prop - Kumar Rocker Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Milwaukee Brewers, 14:10)
 - #7 MLB Prop - Yusei Kikuchi (LAA) Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
 - #8 MLB Prop - Yusei Kikuchi Under 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Los Angeles Angels, 16:07)
 
