@@ -18,10 +18,10 @@
 - #5 MLB Total - Over 9.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 - #6 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
 - #7 MLB Prop - Elmer Rodríguez Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
-- #8 MLB Prop - Anthony Kay Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #9 MLB Prop - Anthony Kay Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #8 MLB Prop - Anthony Kay Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #9 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 - #10 MLB Prop - Taj Bradley Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Minnesota Twins, 19:40)
-- #11 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
+- #11 MLB Prop - Anthony Kay Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
 - #12 MLB Prop - Aaron Nola Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 
 ## Rules Of Use
