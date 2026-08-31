@@ -21,8 +21,8 @@
 - #8 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 - #9 MLB Prop - Elmer Rodríguez Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #10 MLB Prop - Aaron Nola Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
-- #11 MLB Prop - Brady Singer Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
-- #12 MLB Prop - Michael King Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #11 MLB Prop - Michael King Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #12 MLB Prop - Brady Singer Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
