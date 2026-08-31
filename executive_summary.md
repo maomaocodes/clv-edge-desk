@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 220
-- Shadow watch candidates: 18
+- Consensus rows scored: 233
+- Shadow watch candidates: 17
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -15,14 +15,14 @@
 - #2 MLB Total - Under 8.5 (0.3759 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 18:45)
 - #3 MLB Total - Under 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 - #4 MLB Total - Under 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
-- #5 MLB Total - Over 9 (0.3728 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Atlanta Braves, 18:05)
+- #5 MLB Total - Over 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 - #6 MLB Total - Over 9.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 - #7 MLB Total - Over 9 (0.3675 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
 - #8 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #9 MLB Prop - Taj Bradley Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Minnesota Twins, 19:40)
+- #9 MLB Prop - George Kirby Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 18:45)
 - #10 MLB Prop - Brady Singer Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
-- #11 MLB Prop - Michael King Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
-- #12 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
+- #11 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
+- #12 MLB Prop - Michael King Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
