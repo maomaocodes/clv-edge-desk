@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 233
+- Consensus rows scored: 235
 - Shadow watch candidates: 17
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -19,10 +19,10 @@
 - #6 MLB Total - Over 9.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 - #7 MLB Total - Over 9 (0.3675 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
 - #8 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #9 MLB Prop - George Kirby Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 18:45)
-- #10 MLB Prop - Brady Singer Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #9 MLB Prop - Anthony Kay Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #10 MLB Prop - Elmer Rodríguez Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #11 MLB Prop - Clay Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
-- #12 MLB Prop - Michael King Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #12 MLB Prop - George Kirby Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 18:45)
 
 ## Rules Of Use
 
