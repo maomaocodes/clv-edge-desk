@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 162
+- Consensus rows scored: 169
 - Shadow watch candidates: 23
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -18,11 +18,11 @@
 - #5 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #6 MLB Total - Over 11 (0.3675 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 20:40)
 - #7 MLB Total - Under 7.5 (0.3673 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #8 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #9 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #10 MLB Prop - Jake Irvin (WSH) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
-- #11 MLB Prop - Sean Burke Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #12 MLB Prop - Jake Irvin Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #8 MLB Prop - Spencer Arrighetti (TOR) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
+- #9 MLB Prop - Nick Lodolo Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #10 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
+- #11 MLB Prop - Nick Lodolo (CIN) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #12 MLB Prop - Spencer Arrighetti Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
 
 ## Rules Of Use
 
