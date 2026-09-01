@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 135
+- Consensus rows scored: 138
 - Shadow watch candidates: 22
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -17,12 +17,12 @@
 - #4 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
 - #5 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #6 MLB Total - Under 7.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #7 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #8 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #9 MLB Prop - Robert Gasser Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
-- #10 MLB Prop - Spencer Arrighetti Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
-- #11 MLB Prop - Robert Gasser (MIL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
-- #12 MLB Prop - Spencer Arrighetti (TOR) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
+- #7 MLB Prop - Jake Irvin Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #8 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
+- #9 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
+- #10 MLB Prop - Sean Burke Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #11 MLB Prop - Jake Irvin (WSH) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #12 MLB Prop - Sean Burke (CWS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
