@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 101
+- Consensus rows scored: 104
 - Shadow watch candidates: 20
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -15,13 +15,13 @@
 - #2 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
 - #3 MLB Total - Under 7.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
 - #4 MLB Total - Over 9.5 (0.3707 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
-- #5 MLB Prop - Nick Lodolo (CIN) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #5 MLB Prop - Spencer Arrighetti Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
 - #6 MLB Prop - Spencer Arrighetti (TOR) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
-- #7 MLB Prop - Spencer Arrighetti Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
+- #7 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
 - #8 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #9 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #10 MLB Prop - Jake Irvin (WSH) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
-- #11 MLB Prop - Jake Irvin Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #9 MLB Prop - Jake Irvin (WSH) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #10 MLB Prop - Jake Irvin Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 18:45)
+- #11 MLB Prop - Nick Lodolo Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
 - #12 MLB Prop - Robert Gasser Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 
 ## Rules Of Use
