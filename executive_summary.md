@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 251
+- Consensus rows scored: 252
 - Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -16,9 +16,9 @@
 - #3 MLB Total - Over 11 (0.373 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 20:40)
 - #4 MLB Total - Over 8.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 - #5 MLB Total - Under 7.5 (0.3675 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #6 MLB Prop - Elmer Rodríguez Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
-- #7 MLB Prop - Anthony Kay Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #8 MLB Prop - Anthony Kay Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #6 MLB Prop - Anthony Kay Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #7 MLB Prop - Anthony Kay Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #8 MLB Prop - Elmer Rodríguez Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #9 MLB Prop - Aaron Nola Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 
 ## Rules Of Use
