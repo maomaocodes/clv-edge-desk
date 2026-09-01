@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 173
+- Consensus rows scored: 172
 - Shadow watch candidates: 24
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -19,10 +19,10 @@
 - #6 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
 - #7 MLB Total - Over 11 (0.373 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 20:40)
 - #8 MLB Total - Under 7.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
-- #9 MLB Prop - Robert Gasser (MIL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
-- #10 MLB Prop - Nick Lodolo Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
-- #11 MLB Prop - Freddy Peralta Over 3.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Tampa Bay Rays, 18:40)
-- #12 MLB Prop - Nick Lodolo (CIN) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Cincinnati Reds, 18:40)
+- #9 MLB Prop - Sean Burke (CWS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #10 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
+- #11 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
+- #12 MLB Prop - Robert Gasser Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 
 ## Rules Of Use
 
