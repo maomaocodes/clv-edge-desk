@@ -16,8 +16,8 @@
 - #3 MLB Prop - Dylan Cease Over 6.5 Strikeouts (0.377 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
 - #4 MLB Total - Over 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
 - #5 NCAAF Total - Under 51.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, UMass vs Rutgers, 18:00)
-- #6 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
-- #7 MLB Prop - Landen Roupp Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
+- #6 MLB Prop - Landen Roupp Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
+- #7 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
 - #8 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 
 ## Rules Of Use
