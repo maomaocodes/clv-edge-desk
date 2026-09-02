@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 201
-- Shadow watch candidates: 3
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 Soccer BTTS - Both Teams to Score & Over 4.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, KR Reykjavik vs Vikingur, TBD)
-- #2 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #3 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
