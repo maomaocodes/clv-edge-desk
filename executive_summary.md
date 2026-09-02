@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 229
+- Consensus rows scored: 228
 - Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,8 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
-- #2 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #1 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #2 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
 
 ## Rules Of Use
 
