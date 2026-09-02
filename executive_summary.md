@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-09-01
+# Expected CLV Consensus Dashboard - 2026-09-02
 
 ## Executive Read
 
-- Consensus rows scored: 201
-- Shadow watch candidates: 1
+- Consensus rows scored: 15
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 Soccer BTTS - Both Teams to Score & Over 4.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, KR Reykjavik vs Vikingur, TBD)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
