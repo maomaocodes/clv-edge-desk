@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 178
+- Consensus rows scored: 201
 - Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,15 +12,15 @@
 ## Top CLV Thesis Candidates
 
 - #1 Soccer BTTS - Both Teams to Score & Over 4.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, KR Reykjavik vs Vikingur, TBD)
-- #2 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
-- #3 MLB Total - Over 11 (0.3675 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 20:40)
-- #4 MLB Total - Under 7.5 (0.3673 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Texas Rangers, 20:05)
+- #2 MLB Total - Over 7.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
+- #3 MLB Total - Under 7.5 (0.373 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Los Angeles Angels, 21:38)
+- #4 MLB Total - Over 11 (0.3675 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 20:40)
 - #5 MLB Prop - Michael McGreevey Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
 - #6 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
-- #7 MLB Prop - Sean Burke Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #8 MLB Prop - Sean Burke (CWS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #9 MLB Prop - Jesus Luzardo Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
-- #10 MLB Prop - Jesus Luzardo (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
+- #7 MLB Prop - Jesus Luzardo (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
+- #8 MLB Prop - Jesus Luzardo Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
+- #9 MLB Prop - Sean Burke Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
+- #10 MLB Prop - Sean Burke (CWS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
