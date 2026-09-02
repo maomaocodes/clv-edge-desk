@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 126
+- Consensus rows scored: 134
 - Shadow watch candidates: 10
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -15,12 +15,12 @@
 - #2 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3901 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
 - #3 MLB Total - Under 7 (0.3771 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Cleveland Guardians, 18:40)
 - #4 MLB Total - Over 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
-- #5 MLB Prop - Landen Roupp Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
-- #6 MLB Prop - Patrick Sandoval Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 16:10)
-- #7 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #5 MLB Prop - Patrick Sandoval Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Boston Red Sox, 16:10)
+- #6 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #7 MLB Prop - Trevor Rogers Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 15:10)
 - #8 MLB Prop - Grant Holmes Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Washington Nationals, 13:05)
-- #9 MLB Prop - Trevor Rogers Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Baltimore Orioles @ Colorado Rockies, 15:10)
-- #10 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
+- #9 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:40)
+- #10 MLB Prop - Landen Roupp Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 18:40)
 
 ## Rules Of Use
 
