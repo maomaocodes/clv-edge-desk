@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 201
-- Shadow watch candidates: 10
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -19,8 +19,6 @@
 - #6 MLB Prop - Michael McGreevey (STL) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Los Angeles Dodgers, 22:10)
 - #7 MLB Prop - Jesus Luzardo (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
 - #8 MLB Prop - Jesus Luzardo Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Arizona Diamondbacks, 21:40)
-- #9 MLB Prop - Sean Burke Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
-- #10 MLB Prop - Sean Burke (CWS) Over 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Houston Astros, 20:10)
 
 ## Rules Of Use
 
