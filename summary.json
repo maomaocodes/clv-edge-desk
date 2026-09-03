@@ -9,12 +9,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1788414914.4078593,
-  "consensus_mtime_ns": 1788414914407859385,
+  "consensus_mtime": 1788416128.1267166,
+  "consensus_mtime_ns": 1788416128126716682,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 11,
-  "dashboard_version": "1788414914407859385:2026-09-03T01:55:43",
-  "generated_at": "2026-09-03T01:55:43",
+  "dashboard_version": "1788416128126716682:2026-09-03T02:15:53",
+  "generated_at": "2026-09-03T02:15:53",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -32,7 +32,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.9,
+      "consensus_score": 5.1,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0199,
@@ -72,7 +72,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.9,
+      "consensus_score": 5.1,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0199,
@@ -112,7 +112,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.4,
+      "consensus_score": 4.5,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0203,
@@ -152,7 +152,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 5.0,
+      "consensus_score": 5.1,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0452,
@@ -312,7 +312,7 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 4.9,
+      "consensus_score": 5.0,
       "data_quality_flags": "missing_entry_odds",
       "diagnostic_reason": "below CLV watch threshold",
       "edge_vs_threshold": -0.0671,
@@ -432,10 +432,10 @@
     {
       "action": "Monitor only; CLV thesis does not elevate it.",
       "action_label": "pass_or_monitor",
-      "consensus_score": 5.0,
+      "consensus_score": 4.7,
       "data_quality_flags": "ok",
       "diagnostic_reason": "below CLV watch threshold",
-      "edge_vs_threshold": -0.0726,
+      "edge_vs_threshold": -0.0765,
       "entry_odds": -153,
       "entry_odds_source": "explicit_american",
       "event_age_minutes": "",
@@ -443,7 +443,7 @@
       "event_datetime_et": "",
       "event_status": "",
       "event_time_et": "2026-09-04T18:30:00",
-      "expected_positive_clv_prob": 0.2874,
+      "expected_positive_clv_prob": 0.2835,
       "game": "San Jose State at Eastern Michigan",
       "handicappers": "Ben Burns",
       "has_lock": "No",
@@ -451,7 +451,7 @@
       "market": "ML",
       "market_family": "moneyline",
       "matched_feature_groups": 4,
-      "matched_training_rows": 424,
+      "matched_training_rows": 572,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
       "notes": "College Football - Week 2; Odds: -153",
@@ -464,8 +464,8 @@
       "source_count": "1",
       "source_count_bucket": "sources_1",
       "started": "No",
-      "suggested_units": "2.0",
-      "suggested_units_bucket": "units_2_to_2_99",
+      "suggested_units": "1.5",
+      "suggested_units_bucket": "units_1_to_1_99",
       "support_status": "strong_support",
       "threshold": 0.36
     }
