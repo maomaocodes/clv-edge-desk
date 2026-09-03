@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 28
-- Shadow watch candidates: 0
+- Consensus rows scored: 95
+- Shadow watch candidates: 16
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,18 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Brandon Young (BAL) Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
+- #2 MLB Prop - Jack Perkins Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
+- #3 MLB Prop - Blade Tidwell (SFG) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
+- #4 MLB Prop - Blade Tidwell Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
+- #5 MLB Prop - Shane McClanahan (TB) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
+- #6 MLB Prop - Shane McClanahan Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
+- #7 MLB Prop - Brandon Young Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
+- #8 MLB Prop - Jack Perkins (ATH) Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
+- #9 MLB Prop - Michael Wacha (KAN) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #10 MLB Prop - Logan Henderson (MIL) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
+- #11 MLB Prop - Kevin Gausman (CHC) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:15)
+- #12 MLB Prop - Kevin Gausman Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:15)
 
 ## Rules Of Use
 
