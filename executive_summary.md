@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 95
+- Consensus rows scored: 100
 - Shadow watch candidates: 16
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,15 +12,15 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Brandon Young Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
-- #2 MLB Prop - Logan Henderson (MIL) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
-- #3 MLB Prop - Blade Tidwell (SFG) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
-- #4 MLB Prop - Blade Tidwell Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
-- #5 MLB Prop - Shane McClanahan (TB) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
-- #6 MLB Prop - Shane McClanahan Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
-- #7 MLB Prop - Jack Perkins (ATH) Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
-- #8 MLB Prop - Jack Perkins Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
-- #9 MLB Prop - Brandon Young (BAL) Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
-- #10 MLB Prop - Sandy Alcantara Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #2 MLB Prop - Jack Perkins (ATH) Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
+- #3 MLB Prop - Shane McClanahan Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
+- #4 MLB Prop - Shane McClanahan (TB) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
+- #5 MLB Prop - Blade Tidwell Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
+- #6 MLB Prop - Brandon Young (BAL) Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
+- #7 MLB Prop - Logan Henderson (MIL) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:15)
+- #8 MLB Prop - Sandy Alcantara Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
+- #9 MLB Prop - Jack Perkins Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
+- #10 MLB Prop - Blade Tidwell (SFG) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Pittsburgh Pirates, 12:35)
 - #11 MLB Prop - Michael Wacha Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ Kansas City Royals, 19:40)
 - #12 MLB Prop - Kevin Gausman (CHC) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Chicago Cubs, 19:15)
 
