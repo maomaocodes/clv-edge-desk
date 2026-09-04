@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 101
-- Shadow watch candidates: 6
+- Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,9 +14,8 @@
 - #1 MLB Total - Over 9.5 (0.3671 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Kansas City Royals, 20:10)
 - #2 MLB Total - Under 6.5 (0.367 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 18:40)
 - #3 MLB Prop - Chris Sale Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 18:40)
-- #4 MLB Prop - Cristopher Sanchez Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 18:40)
-- #5 MLB Prop - Shane Baz Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
-- #6 MLB Prop - Walker Buehler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
+- #4 MLB Prop - Shane Baz Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
+- #5 MLB Prop - Walker Buehler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
 
 ## Rules Of Use
 
