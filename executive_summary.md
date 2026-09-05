@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 184
-- Shadow watch candidates: 5
+- Consensus rows scored: 176
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,10 +12,12 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - George Kirby Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
-- #2 MLB Prop - Matthew Liberatore Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Colorado Rockies, 20:10)
-- #3 MLB Prop - Chris Bassitt Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
-- #4 MLB Prop - Sonny Gray Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
-- #5 MLB Prop - Andrew Abbott Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Cincinnati Reds, 18:40)
+- #2 MLB Prop - Carlos Rodon Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 19:15)
+- #3 MLB Prop - Matthew Liberatore Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Colorado Rockies, 20:10)
+- #4 MLB Prop - Taj Bradley Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago White Sox, 19:10)
+- #5 MLB Prop - Chris Bassitt Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
+- #6 MLB Prop - Sonny Gray Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
+- #7 MLB Prop - Andrew Abbott Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
