@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 188
+- Consensus rows scored: 191
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,13 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - George Kirby Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
-- #2 MLB Prop - Matthew Liberatore Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Colorado Rockies, 20:10)
-- #3 MLB Prop - Carlos Rodon Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 19:15)
+- #1 MLB Prop - Andrew Abbott Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Cincinnati Reds, 18:40)
+- #2 MLB Prop - Sonny Gray Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
+- #3 MLB Prop - Chris Bassitt Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
 - #4 MLB Prop - Taj Bradley Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Chicago White Sox, 19:10)
-- #5 MLB Prop - Andrew Abbott Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Cincinnati Reds, 18:40)
-- #6 MLB Prop - Chris Bassitt Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
-- #7 MLB Prop - Sonny Gray Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Baltimore Orioles, 19:05)
+- #5 MLB Prop - Carlos Rodon Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 19:15)
+- #6 MLB Prop - Matthew Liberatore Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Colorado Rockies, 20:10)
+- #7 MLB Prop - George Kirby Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Seattle Mariners, 21:40)
 
 ## Rules Of Use
 
