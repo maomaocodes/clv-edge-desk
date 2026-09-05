@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 117
-- Shadow watch candidates: 4
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,10 +11,8 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Over 7.5 (0.3743 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 20:05)
-- #2 MLB Total - Under 8 (0.3743 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
-- #3 MLB Total - Over 9.5 (0.3671 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Kansas City Royals, 20:10)
-- #4 MLB Prop - Walker Buehler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
+- #1 MLB Total - Under 8 (0.3743 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
+- #2 MLB Prop - Walker Buehler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 21:40)
 
 ## Rules Of Use
 
