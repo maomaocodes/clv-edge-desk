@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 54
+- Consensus rows scored: 62
 - Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Brady Singer Under 15.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Cincinnati Reds, 12:10)
+- #1 NCAAF Total - Under 46.5 (0.3627 expected positive-CLV probability, clv_shadow_watch, Wisconsin Badgers @ Notre Dame Fighting Irish, 19:30)
 - #2 MLB Prop - Tyler Mahle Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
 - #3 MLB Prop - Aaron Nola Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
 - #4 MLB Prop - Walbert Urena Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Pittsburgh Pirates, 13:35)
