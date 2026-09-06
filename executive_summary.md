@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 96
-- Shadow watch candidates: 1
+- Consensus rows scored: 97
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NCAAF Total - Under 55.5 (0.3632 expected positive-CLV probability, clv_shadow_watch, Louisville Cardinals @ Ole Miss Rebels, 19:30)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
