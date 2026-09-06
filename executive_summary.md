@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 88
+- Consensus rows scored: 96
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,8 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Ian Seymour Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 14:35)
-- #2 MLB Prop - Michael King Over 17.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
-- #3 MLB Prop - Gerritt Cole Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
+- #2 MLB Prop - Gerritt Cole Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
+- #3 MLB Prop - Michael King Over 17.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
 
 ## Rules Of Use
 
