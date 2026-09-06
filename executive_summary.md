@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 71
+- Consensus rows scored: 81
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,13 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Ian Seymour Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 14:35)
-- #2 MLB Prop - Gerritt Cole Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
-- #3 MLB Prop - Michael King Over 17.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
-- #4 MLB Prop - Aaron Nola Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
-- #5 MLB Prop - Jackson Jobe Under 15.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Cleveland Guardians, 13:40)
-- #6 MLB Prop - Walbert Urena Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Pittsburgh Pirates, 13:35)
-- #7 MLB Prop - Tyler Mahle Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
+- #1 MLB Prop - Tyler Mahle Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
+- #2 MLB Prop - Aaron Nola Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Philadelphia Phillies, 13:10)
+- #3 MLB Prop - Jackson Jobe Under 15.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Cleveland Guardians, 13:40)
+- #4 MLB Prop - Ian Seymour Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Texas Rangers, 14:35)
+- #5 MLB Prop - Michael King Over 17.5 outs recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
+- #6 MLB Prop - Gerritt Cole Over 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ San Diego Padres, 16:10)
+- #7 MLB Prop - Walbert Urena Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Angels @ Pittsburgh Pirates, 13:35)
 
 ## Rules Of Use
 
