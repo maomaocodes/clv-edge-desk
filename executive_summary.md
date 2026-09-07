@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 82
+- Consensus rows scored: 80
 - Shadow watch candidates: 5
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,11 +11,11 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Jake Irvin Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ San Diego Padres, 17:10)
-- #2 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
-- #3 MLB Prop - Chase Burns Over 2.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Los Angeles Dodgers, 21:10)
-- #4 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Kansas City Royals, 14:10)
-- #5 MLB Prop - Matthew Boyd Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 14:10)
+- #1 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
+- #2 MLB Prop - Chase Burns Over 2.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Los Angeles Dodgers, 21:10)
+- #3 MLB Prop - Jake Irvin Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ San Diego Padres, 17:10)
+- #4 MLB Prop - Matthew Boyd Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 14:10)
+- #5 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Kansas City Royals, 14:10)
 
 ## Rules Of Use
 
