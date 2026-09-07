@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 1
-- Shadow watch candidates: 0
+- Consensus rows scored: 68
+- Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,12 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Trevor Rogers Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Baltimore Orioles, 13:35)
+- #2 MLB Prop - Matthew Boyd Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 14:10)
+- #3 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Kansas City Royals, 14:10)
+- #4 MLB Prop - Jake Irvin Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ San Diego Padres, 17:10)
+- #5 MLB Prop - Chase Burns Over 2.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Los Angeles Dodgers, 21:10)
+- #6 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
 
 ## Rules Of Use
 
