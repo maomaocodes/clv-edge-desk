@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 80
-- Shadow watch candidates: 5
+- Consensus rows scored: 88
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,8 +14,6 @@
 - #1 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
 - #2 MLB Prop - Chase Burns Over 2.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Los Angeles Dodgers, 21:10)
 - #3 MLB Prop - Jake Irvin Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ San Diego Padres, 17:10)
-- #4 MLB Prop - Matthew Boyd Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 14:10)
-- #5 MLB Prop - Noah Cameron Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Kansas City Royals, 14:10)
 
 ## Rules Of Use
 
