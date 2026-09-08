@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 74
+- Consensus rows scored: 72
 - Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,9 +12,9 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Under 7.5 (0.3666 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 19:40)
-- #2 MLB Prop - Bubba Chandler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Chicago White Sox, 19:40)
-- #3 MLB Prop - Sean Burke Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Chicago White Sox, 19:40)
-- #4 MLB Prop - AJ Smith-Shawver Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Atlanta Braves, 19:15)
+- #2 MLB Prop - AJ Smith-Shawver Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Atlanta Braves, 19:15)
+- #3 MLB Prop - Bubba Chandler Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Chicago White Sox, 19:40)
+- #4 MLB Prop - Sean Burke Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Pittsburgh Pirates @ Chicago White Sox, 19:40)
 - #5 MLB Prop - David Peterson Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Milwaukee Brewers, 19:40)
 - #6 MLB Prop - Brandon Young Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Baltimore Orioles, 18:35)
 - #7 MLB Prop - Sean Manaea Under 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Miami Marlins, 18:40)
