@@ -2,9 +2,9 @@
   "action_counts": {
     "clv_shadow_watch": 9,
     "high_score_clv_unconfirmed": 1,
-    "pass_or_monitor": 41,
+    "pass_or_monitor": 51,
     "price_unverified_watch": 1,
-    "stale_started": 1
+    "stale_started": 2
   },
   "artifacts": {
     "csv": "scored_consensus.csv",
@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1788900776.2270815,
-  "consensus_mtime_ns": 1788900776227081522,
+  "consensus_mtime": 1788902113.649819,
+  "consensus_mtime_ns": 1788902113649818809,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 53,
-  "dashboard_version": "1788900776227081522:2026-09-08T16:53:20",
-  "generated_at": "2026-09-08T16:53:20",
+  "consensus_rows": 64,
+  "dashboard_version": "1788902113649818809:2026-09-08T17:15:31",
+  "generated_at": "2026-09-08T17:15:31",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
@@ -36,7 +36,7 @@
     {
       "action": "Shadow watch: candidate only if current price still beats or matches listed entry.",
       "action_label": "clv_shadow_watch",
-      "consensus_score": 4.1,
+      "consensus_score": 3.9,
       "data_quality_flags": "ok",
       "diagnostic_reason": "CLV gate cleared; live price check required",
       "edge_vs_threshold": 0.0122,
@@ -58,8 +58,8 @@
       "matched_training_rows": 402,
       "minutes_to_event": "",
       "model_score_band": "score_under_6",
-      "notes": "Source odds: MrBigBets -110",
-      "opposing_count": "0",
+      "notes": "Opposed by: SRC Group; Source odds: MrBigBets -110",
+      "opposing_count": "1",
       "pick": "Under 7.5",
       "primary_capper": "MrBigBets",
       "prior_positive_clv_prob": 0.3107,
