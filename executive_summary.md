@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 93
-- Shadow watch candidates: 3
+- Consensus rows scored: 92
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,7 +13,6 @@
 
 - #1 MLB F5 Total - F5 Under 4.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
 - #2 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
-- #3 MLB Prop - Chase Burns Over 2.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cincinnati Reds @ Los Angeles Dodgers, 21:10)
 
 ## Rules Of Use
 
