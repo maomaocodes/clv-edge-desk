@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 92
-- Shadow watch candidates: 2
+- Consensus rows scored: 91
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,8 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB F5 Total - F5 Under 4.5 (0.373 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
-- #2 MLB Prop - Dylan Cease Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Oakland Athletics, 22:05)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
