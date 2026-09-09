@@ -17,8 +17,8 @@
   "consensus_mtime_ns": 1788982716400193965,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 91,
-  "dashboard_version": "1788982716400193965:2026-09-09T15:55:45",
-  "generated_at": "2026-09-09T15:55:45",
+  "dashboard_version": "1788982716400193965:2026-09-09T15:56:19",
+  "generated_at": "2026-09-09T15:56:19",
   "high_score_clv_unconfirmed_count": 2,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
