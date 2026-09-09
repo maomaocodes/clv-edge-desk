@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 91
-- Shadow watch candidates: 1
+- Consensus rows scored: 115
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NFL Prop - AJ Barner Over 24.5 Receiving Yards (0.3763 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
+- #1 NFL Total - Under 45.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
+- #2 NFL Prop - Cooper Kupp Over 2.5 receptions (0.3768 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
+- #3 NFL Prop - AJ Barner Over 24.5 Receiving Yards (0.3763 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
+- #4 MLB Total - Over 8.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Kansas City Royals, 19:40)
 
 ## Rules Of Use
 
