@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 61
-- Shadow watch candidates: 3
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 NFL Prop - Kyren Williams Over 55.5 rushing yards (0.3889 expected positive-CLV probability, clv_shadow_watch, San Francisco 49ers @ Los Angeles Rams, 20:35)
-- #2 MLB Total - Under 6.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Texas Rangers @ Seattle Mariners, 16:10)
-- #3 MLB Prop - Max Fried Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ New York Yankees, 19:05)
+- #2 MLB Prop - Max Fried Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ New York Yankees, 19:05)
 
 ## Rules Of Use
 
