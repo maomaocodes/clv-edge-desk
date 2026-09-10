@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 4
-- Shadow watch candidates: 0
+- Consensus rows scored: 41
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Max Fried Under 4.5 hits allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Colorado Rockies @ New York Yankees, 19:05)
+- #2 MLB Prop - Zack Wheeler Over 17.5 pitch outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Houston Astros @ Philadelphia Phillies, 13:05)
+- #3 MLB Prop - Martín Pérez Under 15.5 pitch outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ Atlanta Braves, 12:15)
 
 ## Rules Of Use
 
