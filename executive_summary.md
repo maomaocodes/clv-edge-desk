@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-09-09
+# Expected CLV Consensus Dashboard - 2026-09-13
 
 ## Executive Read
 
-- Consensus rows scored: 137
-- Shadow watch candidates: 5
+- Consensus rows scored: 2
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,11 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NFL Total - Under 45.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
-- #2 MLS BTTS & Total - BTTS Yes & Over 3.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Inter Miami CF @ Chicago Fire FC, 20:30)
-- #3 NFL Prop - Cooper Kupp Over 2.5 receptions (0.3768 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
-- #4 NFL Prop - AJ Barner Over 24.5 Receiving Yards (0.3763 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
-- #5 NFL Total - Under 44.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, New England Patriots @ Seattle Seahawks, 20:20)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
