@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 143
-- Shadow watch candidates: 3
+- Consensus rows scored: 145
+- Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,9 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 7.5 (0.3755 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Minnesota Twins, 20:10)
-- #2 MLB Prop - Taj Bradley Over 3.5 strikeouts (0.3698 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Minnesota Twins, 20:10)
-- #3 NCAAF Total - Over 51.5 (0.3633 expected positive-CLV probability, clv_shadow_watch, Missouri Tigers @ Kansas Jayhawks, 20:00)
+No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
 
 ## Rules Of Use
 
