@@ -467,18 +467,18 @@
             <strong>Pass / monitor</strong>
             <p>No row clears the expected-CLV watch gate. Do not force a pick from this thesis.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789172556666761148:2026-09-11T20:23:07" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-11T20:23:07.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789173642290560572:2026-09-11T20:41:13" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-11T20:41:13.</div>
         </aside>
       </div>
     </header>
     <main>
-    <div class="metrics"><section class="metric-card"><span>Rows scored</span><strong>145</strong><small>Universe reviewed from latest consensus.</small></section>
+    <div class="metrics"><section class="metric-card"><span>Rows scored</span><strong>144</strong><small>Universe reviewed from latest consensus.</small></section>
 <section class="metric-card"><span>CLV gate passes</span><strong>0</strong><small>Rows above the CLV shadow threshold.</small></section>
 <section class="metric-card"><span>Unconfirmed highs</span><strong>0</strong><small>High consensus score but no CLV confirmation.</small></section>
 <section class="metric-card"><span>Training rows</span><strong>428</strong><small>Historical rows behind the shadow model.</small></section></div>
     <section class="lane-grid" aria-label="Act, watch, and pass decision lanes"><section class="decision-lane act"><div class="lane-heading"><span>Only if live market still confirms</span><strong>Act</strong><small>0 item(s)</small></div><article class="lane-empty">No priority CLV-watch rows. No immediate action from this thesis.</article></section>
 <section class="decision-lane watch"><div class="lane-heading"><span>Investigate, do not promote yet</span><strong>Watch</strong><small>0 item(s)</small></div><article class="lane-empty">No watch queue. Wait for the consensus table to change.</article></section>
-<section class="decision-lane pass"><div class="lane-heading"><span>Current default</span><strong>Pass</strong><small>145 item(s)</small></div><article class="lane-card"><span>Mixed / Parlay / Multiple</span><strong>Missouri Tigers ML + Minnesota Twins alternate +2.5 + San Diego Padres ML</strong><small>Missouri Tigers @ Kansas Jayhawks / Cleveland Guardians @ Minnesota Twins / San Diego Padres @ San Francisco Giants</small><div><b>0.3563</b><em>edge -0.0037</em></div></article>
+<section class="decision-lane pass"><div class="lane-heading"><span>Current default</span><strong>Pass</strong><small>144 item(s)</small></div><article class="lane-card"><span>Mixed / Parlay / Multiple</span><strong>Missouri Tigers ML + Minnesota Twins alternate +2.5 + San Diego Padres ML</strong><small>Missouri Tigers @ Kansas Jayhawks / Cleveland Guardians @ Minnesota Twins / San Diego Padres @ San Francisco Giants</small><div><b>0.3563</b><em>edge -0.0037</em></div></article>
 <article class="lane-card"><span>MLB / Prop / 21:40</span><strong>Randy Arozarena to hit a home run</strong><small>Seattle Mariners @ Oakland Athletics</small><div><b>0.3545</b><em>edge -0.0055</em></div></article>
 <article class="lane-card"><span>MLB / Total / 21:40</span><strong>Over 10</strong><small>Seattle Mariners @ Oakland Athletics</small><div><b>0.3543</b><em>edge -0.0057</em></div></article></section></section>
     <section class="exec">
@@ -488,7 +488,7 @@
 <li><strong>0</strong><span>Shadow watch</span><small>candidate verification queue</small></li>
 <li><strong>0</strong><span>High score / no CLV</span><small>good model score, thesis says wait</small></li>
 <li><strong>41</strong><span>Pass or monitor</span><small>do not elevate</small></li>
-<li><strong>104</strong><span>Started/stale</span><small>do not enter</small></li></ul>
+<li><strong>103</strong><span>Started/stale</span><small>do not enter</small></li></ul>
       </div>
       <div class="panel">
         <h2>Best CLV Thesis Candidates</h2>
@@ -548,7 +548,7 @@
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-09-11T20:23:07. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-09-11T20:41:13. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -574,7 +574,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-11T20:23:07"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-11T20:41:13"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
