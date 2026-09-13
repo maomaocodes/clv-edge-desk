@@ -467,7 +467,7 @@
             <strong>Watch list active</strong>
             <p>1 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789279032182288335:2026-09-13T01:57:18" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-13T01:57:18.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789279998800660369:2026-09-13T02:13:26" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-13T02:13:26.</div>
         </aside>
       </div>
     </header>
@@ -511,12 +511,12 @@
 <tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.303</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.057</td><td>NFL</td><td>Team Total</td><td><strong>Green Bay Packers team total Under 23.5</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-120</td><td>1.0</td><td>Erik Kuselias</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>5</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2992</strong><span class="prob-track" aria-hidden="true"><span style="width:29.9%"></span></span></div></td><td>-0.0608</td><td>NFL</td><td>Spread</td><td><strong>Pittsburgh Steelers -3</strong><small>Atlanta Falcons @ Pittsburgh Steelers</small></td><td>13:00</td><td>-140</td><td>1.0</td><td>Erik Kuselias</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
 <tr class="row-pass_or_monitor"><td>6</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2992</strong><span class="prob-track" aria-hidden="true"><span style="width:29.9%"></span></span></div></td><td>-0.0608</td><td>NFL</td><td>Spread</td><td><strong>New York Giants +3</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td></td><td>1.0</td><td>TheSharpSheets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>7</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Dallas Cowboys ML</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td>-144</td><td>2.7</td><td>BenBurns</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>8</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Minnesota Vikings ML</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-126</td><td>2.6</td><td>TPD</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+<tr class="row-pass_or_monitor"><td>7</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Dallas Cowboys ML</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td>-144</td><td>3.6</td><td>BenBurns</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>8</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Minnesota Vikings ML</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-126</td><td>2.7</td><td>TPD</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-09-13T01:57:18. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-09-13T02:13:26. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -542,7 +542,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-13T01:57:18"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-13T02:13:26"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
