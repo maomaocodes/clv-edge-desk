@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 95
-- Shadow watch candidates: 3
+- Consensus rows scored: 101
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,7 @@
 ## Top CLV Thesis Candidates
 
 - #1 NFL Total - Under 40.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, New York Jets @ Tennessee Titans, 13:00)
-- #2 NFL Total - Under 51.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Buccaneers @ Cincinnati Bengals, 13:00)
-- #3 NFL Total - Under 44.5 (0.3624 expected positive-CLV probability, clv_shadow_watch, Buffalo Bills @ Houston Texans, 13:00)
+- #2 NFL Total - Under 44.5 (0.3624 expected positive-CLV probability, clv_shadow_watch, Buffalo Bills @ Houston Texans, 13:00)
 
 ## Rules Of Use
 
