@@ -467,27 +467,27 @@
             <strong>Watch list active</strong>
             <p>1 row(s) clear the expected-CLV watch gate. Verify live price and line movement before considering.</p>
           </div>
-          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789274836065358009:2026-09-13T00:47:39" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-13T00:47:39.</div>
+          <div class="live-status" id="live-refresh-status" data-dashboard-version="1789275248335791719:2026-09-13T00:54:15" data-refresh-seconds="60" role="status" aria-live="polite">Public static mode. Last generated 2026-09-13T00:54:15.</div>
         </aside>
       </div>
     </header>
     <main>
-    <div class="metrics"><section class="metric-card"><span>Rows scored</span><strong>4</strong><small>Universe reviewed from latest consensus.</small></section>
+    <div class="metrics"><section class="metric-card"><span>Rows scored</span><strong>8</strong><small>Universe reviewed from latest consensus.</small></section>
 <section class="metric-card"><span>CLV gate passes</span><strong>1</strong><small>Rows above the CLV shadow threshold.</small></section>
 <section class="metric-card"><span>Unconfirmed highs</span><strong>0</strong><small>High consensus score but no CLV confirmation.</small></section>
 <section class="metric-card"><span>Training rows</span><strong>428</strong><small>Historical rows behind the shadow model.</small></section></div>
     <section class="lane-grid" aria-label="Act, watch, and pass decision lanes"><section class="decision-lane act"><div class="lane-heading"><span>Only if live market still confirms</span><strong>Act</strong><small>0 item(s)</small></div><article class="lane-empty">No priority CLV-watch rows. No immediate action from this thesis.</article></section>
 <section class="decision-lane watch"><div class="lane-heading"><span>Investigate, do not promote yet</span><strong>Watch</strong><small>1 item(s)</small></div><article class="lane-card"><span>NFL / Total / 13:00</span><strong>Under 40.5</strong><small>New York Jets @ Tennessee Titans</small><div><b>0.3803</b><em>edge 0.0203</em></div></article></section>
-<section class="decision-lane pass"><div class="lane-heading"><span>Current default</span><strong>Pass</strong><small>3 item(s)</small></div><article class="lane-card"><span>NFL / Spread / 20:20</span><strong>New York Giants +3</strong><small>Dallas Cowboys @ New York Giants</small><div><b>0.2992</b><em>edge -0.0608</em></div></article>
-<article class="lane-card"><span>NFL / ML / 20:20</span><strong>Dallas Cowboys ML</strong><small>Dallas Cowboys @ New York Giants</small><div><b>0.2835</b><em>edge -0.0765</em></div></article>
-<article class="lane-card"><span>NFL / ML / 16:25</span><strong>Minnesota Vikings ML</strong><small>Green Bay Packers @ Minnesota Vikings</small><div><b>0.2835</b><em>edge -0.0765</em></div></article></section></section>
+<section class="decision-lane pass"><div class="lane-heading"><span>Current default</span><strong>Pass</strong><small>7 item(s)</small></div><article class="lane-card"><span>NFL / Total / 13:00</span><strong>Under 51.5</strong><small>Tampa Bay Buccaneers @ Cincinnati Bengals</small><div><b>0.3397</b><em>edge -0.0203</em></div></article>
+<article class="lane-card"><span>Premier League / Team Total / 11:30</span><strong>Manchester City Over 1.5 Goals</strong><small>Manchester City @ Manchester United</small><div><b>0.303</b><em>edge -0.057</em></div></article>
+<article class="lane-card"><span>NFL / Team Total / 16:25</span><strong>Green Bay Packers team total Under 23.5</strong><small>Green Bay Packers @ Minnesota Vikings</small><div><b>0.303</b><em>edge -0.057</em></div></article></section></section>
     <section class="exec">
       <div class="panel">
         <h2>Signal Ledger</h2>
         <ul class="state-list"><li><strong>0</strong><span>Priority watch</span><small>act only after price check</small></li>
 <li><strong>1</strong><span>Shadow watch</span><small>candidate verification queue</small></li>
 <li><strong>0</strong><span>High score / no CLV</span><small>good model score, thesis says wait</small></li>
-<li><strong>3</strong><span>Pass or monitor</span><small>do not elevate</small></li>
+<li><strong>7</strong><span>Pass or monitor</span><small>do not elevate</small></li>
 <li><strong>0</strong><span>Started/stale</span><small>do not enter</small></li></ul>
       </div>
       <div class="panel">
@@ -506,13 +506,17 @@
               </tr>
             </thead>
             <tbody><tr class="row-clv_shadow_watch"><td>1</td><td><span class="pill clv_shadow_watch">clv shadow watch</span></td><td><div class="prob-cell"><strong>0.3803</strong><span class="prob-track" aria-hidden="true"><span style="width:38.0%"></span></span></div></td><td>0.0203</td><td>NFL</td><td>Total</td><td><strong>Under 40.5</strong><small>New York Jets @ Tennessee Titans</small></td><td>13:00</td><td>-140</td><td>6.7</td><td>SecuredTys</td><td>Shadow watch: candidate only if current price still beats or matches listed entry.</td></tr>
-<tr class="row-pass_or_monitor"><td>2</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2992</strong><span class="prob-track" aria-hidden="true"><span style="width:29.9%"></span></span></div></td><td>-0.0608</td><td>NFL</td><td>Spread</td><td><strong>New York Giants +3</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td></td><td>1.0</td><td>TheSharpSheets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Dallas Cowboys ML</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td>-144</td><td>2.7</td><td>BenBurns</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
-<tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Minnesota Vikings ML</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-126</td><td>2.6</td><td>TPD</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
+<tr class="row-pass_or_monitor"><td>2</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.3397</strong><span class="prob-track" aria-hidden="true"><span style="width:34.0%"></span></span></div></td><td>-0.0203</td><td>NFL</td><td>Total</td><td><strong>Under 51.5</strong><small>Tampa Bay Buccaneers @ Cincinnati Bengals</small></td><td>13:00</td><td>-125</td><td>1.0</td><td>Erik Kuselias</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>3</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.303</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.057</td><td>Premier League</td><td>Team Total</td><td><strong>Manchester City Over 1.5 Goals</strong><small>Manchester City @ Manchester United</small></td><td>11:30</td><td>-130</td><td>4.2</td><td>Jesse soccer</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>4</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.303</strong><span class="prob-track" aria-hidden="true"><span style="width:30.3%"></span></span></div></td><td>-0.057</td><td>NFL</td><td>Team Total</td><td><strong>Green Bay Packers team total Under 23.5</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-120</td><td>1.0</td><td>Erik Kuselias</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>5</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2992</strong><span class="prob-track" aria-hidden="true"><span style="width:29.9%"></span></span></div></td><td>-0.0608</td><td>NFL</td><td>Spread</td><td><strong>Pittsburgh Steelers -3</strong><small>Atlanta Falcons @ Pittsburgh Steelers</small></td><td>13:00</td><td>-140</td><td>1.0</td><td>Erik Kuselias</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>6</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2992</strong><span class="prob-track" aria-hidden="true"><span style="width:29.9%"></span></span></div></td><td>-0.0608</td><td>NFL</td><td>Spread</td><td><strong>New York Giants +3</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td></td><td>1.0</td><td>TheSharpSheets</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>7</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Dallas Cowboys ML</strong><small>Dallas Cowboys @ New York Giants</small></td><td>20:20</td><td>-144</td><td>2.7</td><td>BenBurns</td><td>Monitor only; CLV thesis does not elevate it.</td></tr>
+<tr class="row-pass_or_monitor"><td>8</td><td><span class="pill pass_or_monitor">pass or monitor</span></td><td><div class="prob-cell"><strong>0.2835</strong><span class="prob-track" aria-hidden="true"><span style="width:28.3%"></span></span></div></td><td>-0.0765</td><td>NFL</td><td>ML</td><td><strong>Minnesota Vikings ML</strong><small>Green Bay Packers @ Minnesota Vikings</small></td><td>16:25</td><td>-126</td><td>2.6</td><td>TPD</td><td>Monitor only; CLV thesis does not elevate it.</td></tr></tbody>
           </table>
         </div>
     </section>
-    <p class="note">Generated 2026-09-13T00:47:39. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
+    <p class="note">Generated 2026-09-13T00:54:15. No picks were published, sent, or automatically promoted. Public static mode serves prebuilt files only. Visitors poll summary.json every 60 seconds and never trigger recompute. Manual one-shot refresh command: <code>venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static</code></p>
     </main>
   </div>
 
@@ -538,7 +542,7 @@
             return;
           }
           if (nextVersion && !currentVersion) currentVersion = nextVersion;
-          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-13T00:47:39"}.`;
+          status.textContent = `Public static mode. Last generated ${summary.generated_at || "2026-09-13T00:54:15"}.`;
         } catch (error) {
           status.textContent = "Static refresh inactive until summary.json is available beside this page.";
         }
