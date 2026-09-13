@@ -1,7 +1,7 @@
 {
   "action_counts": {
     "clv_shadow_watch": 1,
-    "pass_or_monitor": 24,
+    "pass_or_monitor": 22,
     "price_unverified_watch": 1,
     "stale_started": 186
   },
@@ -12,12 +12,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1789268196.3655386,
-  "consensus_mtime_ns": 1789268196365538520,
+  "consensus_mtime": 1789271145.198946,
+  "consensus_mtime_ns": 1789271145198945987,
   "consensus_path": "data/consensus/consensus_latest.csv",
-  "consensus_rows": 212,
-  "dashboard_version": "1789268196365538520:2026-09-12T22:56:49",
-  "generated_at": "2026-09-12T22:56:49",
+  "consensus_rows": 210,
+  "dashboard_version": "1789271145198945987:2026-09-12T23:46:06",
+  "generated_at": "2026-09-12T23:46:06",
   "high_score_clv_unconfirmed_count": 0,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
