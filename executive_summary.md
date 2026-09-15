@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 74
+- Consensus rows scored: 95
 - Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,14 +11,14 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Patrick Sandoval (BOS) Under 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Texas Rangers, 20:05)
+- #1 MLB Total - Under 8 (0.3726 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Tampa Bay Rays, 18:40)
 - #2 MLB Prop - Ryan Johnson (LAA) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Angels, 21:38)
-- #3 MLB Prop - Kevin Gausman (CHC) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
+- #3 MLB Prop - Patrick Sandoval (BOS) Under 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Texas Rangers, 20:05)
 - #4 MLB Prop - Martin Perez (ATL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
-- #5 MLB Prop - Yoshinobu Yamamoto (LAD) Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
+- #5 MLB Prop - Kevin Gausman (CHC) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
 - #6 MLB Prop - Cristopher Sanchez (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Washington Nationals, 18:45)
 - #7 MLB Prop - Jack Perkins (ATH) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Tampa Bay Rays, 18:40)
-- #8 MLB Prop - Jacob Misiorowski (MIL) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Pittsburgh Pirates, 18:40)
+- #8 MLB Prop - Yoshinobu Yamamoto (LAD) Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
