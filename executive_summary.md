@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 101
-- Shadow watch candidates: 9
+- Consensus rows scored: 95
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -14,12 +14,11 @@
 - #1 MLB Total - Over 11.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Colorado Rockies, 20:40)
 - #2 MLB Total - Under 8 (0.3726 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Tampa Bay Rays, 18:40)
 - #3 MLB Prop - Kevin Gausman (CHC) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
-- #4 MLB Prop - Martin Perez (ATL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
+- #4 MLB Prop - Ryan Johnson (LAA) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Angels, 21:38)
 - #5 MLB Prop - Patrick Sandoval (BOS) Under 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Texas Rangers, 20:05)
-- #6 MLB Prop - Cristopher Sanchez (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Washington Nationals, 18:45)
-- #7 MLB Prop - Ryan Johnson (LAA) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Angels, 21:38)
+- #6 MLB Prop - Martin Perez (ATL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
+- #7 MLB Prop - Yoshinobu Yamamoto (LAD) Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
 - #8 MLB Prop - Jack Perkins (ATH) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Tampa Bay Rays, 18:40)
-- #9 MLB Prop - Yoshinobu Yamamoto (LAD) Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
