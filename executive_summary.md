@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 47
-- Shadow watch candidates: 8
+- Consensus rows scored: 51
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -18,7 +18,6 @@
 - #5 MLB Prop - Cristopher Sanchez (PHI) Under 18.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Philadelphia Phillies @ Washington Nationals, 18:45)
 - #6 MLB Prop - Jack Perkins (ATH) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Tampa Bay Rays, 18:40)
 - #7 MLB Prop - Yoshinobu Yamamoto (LAD) Over 7.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
-- #8 MLB Prop - Jacob Misiorowski (MIL) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Pittsburgh Pirates, 18:40)
 
 ## Rules Of Use
 
