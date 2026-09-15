@@ -12,10 +12,10 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 11.5 (0.3726 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Colorado Rockies, 20:40)
-- #2 MLB Prop - Patrick Sandoval (BOS) Under 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Texas Rangers, 20:05)
-- #3 MLB Prop - Kevin Gausman (CHC) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
+- #2 MLB Prop - Ryan Johnson (LAA) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Angels, 21:38)
+- #3 MLB Prop - Patrick Sandoval (BOS) Under 16.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Texas Rangers, 20:05)
 - #4 MLB Prop - Martin Perez (ATL) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
-- #5 MLB Prop - Ryan Johnson (LAA) Under 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Seattle Mariners @ Los Angeles Angels, 21:38)
+- #5 MLB Prop - Kevin Gausman (CHC) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
 
 ## Rules Of Use
 
