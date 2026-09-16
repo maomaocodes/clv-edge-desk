@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 77
+- Consensus rows scored: 81
 - Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,10 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Pitcher outs - Carlos Rodón Over 15.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Minnesota Twins, 13:40)
-- #2 MLB Pitcher outs - Max Scherzer Over 15.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Toronto Blue Jays, 15:07)
+- #1 MLB Pitcher outs - Logan Henderson Over 17.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Pittsburgh Pirates, 18:40)
+- #2 MLB Pitcher outs - Shota Imanaga Over 17.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
 - #3 MLB Pitcher outs - Blake Snell Over 16.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Los Angeles Dodgers @ Cincinnati Reds, 18:40)
-- #4 MLB Pitcher outs - Shota Imanaga Over 17.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Atlanta Braves @ Chicago Cubs, 19:40)
+- #4 MLB Pitcher outs - Max Scherzer Over 15.5 outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Toronto Blue Jays, 15:07)
 
 ## Rules Of Use
 
