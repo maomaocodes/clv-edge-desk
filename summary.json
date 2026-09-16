@@ -13,12 +13,12 @@
     "json": "summary.json",
     "markdown": "executive_summary.md"
   },
-  "consensus_mtime": 1789600319.090529,
-  "consensus_mtime_ns": 1789600319090529084,
+  "consensus_mtime": 1789600846.2470794,
+  "consensus_mtime_ns": 1789600846247079328,
   "consensus_path": "data/consensus/consensus_latest.csv",
   "consensus_rows": 112,
-  "dashboard_version": "1789600319090529084:2026-09-16T19:12:29",
-  "generated_at": "2026-09-16T19:12:29",
+  "dashboard_version": "1789600846247079328:2026-09-16T19:21:05",
+  "generated_at": "2026-09-16T19:21:05",
   "high_score_clv_unconfirmed_count": 1,
   "notes": [
     "This is a shadow decision surface, not production pick generation.",
