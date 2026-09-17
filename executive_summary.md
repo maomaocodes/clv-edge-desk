@@ -1,9 +1,9 @@
-# Expected CLV Consensus Dashboard - 2026-09-16
+# Expected CLV Consensus Dashboard - 2026-09-17
 
 ## Executive Read
 
-- Consensus rows scored: 114
-- Shadow watch candidates: 2
+- Consensus rows scored: 6
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,7 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 NFL Total - Over 54.5 (0.3803 expected positive-CLV probability, clv_shadow_watch, Detroit Lions @ Buffalo Bills, 20:15)
-- #2 NCAAF Total - Under 53.5 (0.3604 expected positive-CLV probability, clv_shadow_watch, Louisiana Tech Bulldogs @ Baylor Bears, 16:00)
 
 ## Rules Of Use
 
