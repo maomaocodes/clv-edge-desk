@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 17
-- Shadow watch candidates: 0
+- Consensus rows scored: 59
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 NCAAF Total - Under 51.5 (0.3639 expected positive-CLV probability, clv_shadow_watch, Syracuse Orange @ Pittsburgh Panthers, 19:30)
+- #2 MLB Prop - Brady Singer Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 18:40)
+- #3 MLB Prop - Sonny Gray Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
+- #4 MLB Prop - Michael King Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ San Diego Padres, 21:40)
 
 ## Rules Of Use
 
