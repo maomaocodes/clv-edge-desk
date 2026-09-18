@@ -3,7 +3,7 @@
 ## Executive Read
 
 - Consensus rows scored: 127
-- Shadow watch candidates: 10
+- Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -18,9 +18,7 @@
 - #5 MLB Prop - Gerrit Cole Over 15.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Arizona Diamondbacks, 21:40)
 - #6 MLB Prop - Tyler Glasnow Over 16.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Los Angeles Dodgers, 22:15)
 - #7 MLB Prop - Cade Cavalli Over 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ St. Louis Cardinals, 20:15)
-- #8 MLB Prop - Mason Barnett Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Cleveland Guardians, 19:10)
-- #9 MLB Prop - David Sandlin Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago White Sox, 19:40)
-- #10 MLB Prop - Ranger Suarez Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
+- #8 MLB Prop - David Sandlin Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago White Sox, 19:40)
 
 ## Rules Of Use
 
