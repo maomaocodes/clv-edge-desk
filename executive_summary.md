@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 185
+- Consensus rows scored: 158
 - Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,9 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Prop - Sonny Gray Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
-- #2 MLB Prop - Brady Singer Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 18:40)
-- #3 MLB Prop - Michael King Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ San Diego Padres, 21:40)
+- #1 MLB Prop - Michael King Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Miami Marlins @ San Diego Padres, 21:40)
+- #2 MLB Prop - Sonny Gray Over 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
+- #3 MLB Prop - Brady Singer Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
