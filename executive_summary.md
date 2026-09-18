@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 58
+- Consensus rows scored: 62
 - Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,14 +12,14 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 8.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago White Sox, 19:40)
-- #2 MLB Prop - Kumar Rocker Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Texas Rangers, 20:05)
-- #3 MLB Prop - Gerrit Cole Over 15.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Arizona Diamondbacks, 21:40)
-- #4 MLB Prop - Connor Prielipp Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Los Angeles Angels, 21:38)
-- #5 MLB Prop - Cade Cavalli Over 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ St. Louis Cardinals, 20:15)
-- #6 MLB Prop - Tyler Glasnow Over 16.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Los Angeles Dodgers, 22:15)
-- #7 MLB Prop - David Sandlin Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago White Sox, 19:40)
-- #8 MLB Prop - Ranger Suarez Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
-- #9 MLB Prop - Mason Barnett Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Cleveland Guardians, 19:10)
+- #2 MLB Prop - Mason Barnett Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Oakland Athletics @ Cleveland Guardians, 19:10)
+- #3 MLB Prop - Ranger Suarez Under 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Boston Red Sox @ Tampa Bay Rays, 19:10)
+- #4 MLB Prop - David Sandlin Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Detroit Tigers @ Chicago White Sox, 19:40)
+- #5 MLB Prop - Kumar Rocker Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Texas Rangers, 20:05)
+- #6 MLB Prop - Cade Cavalli Over 17.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ St. Louis Cardinals, 20:15)
+- #7 MLB Prop - Connor Prielipp Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Los Angeles Angels, 21:38)
+- #8 MLB Prop - Gerrit Cole Over 15.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Arizona Diamondbacks, 21:40)
+- #9 MLB Prop - Tyler Glasnow Over 16.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Los Angeles Dodgers, 22:15)
 
 ## Rules Of Use
 
