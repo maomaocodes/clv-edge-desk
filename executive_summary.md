@@ -1,8 +1,8 @@
-# Expected CLV Consensus Dashboard - 2026-09-18
+# Expected CLV Consensus Dashboard - 2026-09-19
 
 ## Executive Read
 
-- Consensus rows scored: 139
+- Consensus rows scored: 4
 - Shadow watch candidates: 0
 - Threshold: 0.36
 - Training CLV rows: 428
