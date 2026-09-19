@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 216
-- Shadow watch candidates: 5
+- Consensus rows scored: 236
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,11 +11,9 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 La Liga Prop - FC Barcelona to score in both halves (0.3803 expected positive-CLV probability, clv_shadow_watch, Barcelona @ Sevilla, 15:00)
-- #2 NCAAF Total - Under 48.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Colorado Buffaloes @ Northwestern Wildcats, 19:30)
-- #3 NCAAF Total - Under 58.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, LSU Tigers @ Ole Miss Rebels, 19:30)
-- #4 NCAAF Total - Over 58.5 (0.3632 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs @ Louisville Cardinals, 15:30)
-- #5 NCAAF Total - Under 53.5 (0.3626 expected positive-CLV probability, clv_shadow_watch, Louisiana Tech Bulldogs @ Baylor Bears, 16:00)
+- #1 NCAAF Total - Under 48.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Colorado Buffaloes @ Northwestern Wildcats, 19:30)
+- #2 NCAAF Total - Under 58.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, LSU Tigers @ Ole Miss Rebels, 19:30)
+- #3 NCAAF Total - Under 53.5 (0.3626 expected positive-CLV probability, clv_shadow_watch, Louisiana Tech Bulldogs @ Baylor Bears, 16:00)
 
 ## Rules Of Use
 
