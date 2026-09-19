@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 22
+- Consensus rows scored: 98
 - Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -11,7 +11,7 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 NCAAF Total - Under 44.5 (0.3628 expected positive-CLV probability, clv_shadow_watch, North Carolina Tar Heels @ Clemson Tigers, 12:00)
+- #1 NCAAF Total - Over 58.5 (0.3632 expected positive-CLV probability, clv_shadow_watch, SMU Mustangs @ Louisville Cardinals, 15:30)
 
 ## Rules Of Use
 
