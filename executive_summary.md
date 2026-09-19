@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 245
-- Shadow watch candidates: 3
+- Consensus rows scored: 253
+- Shadow watch candidates: 6
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,7 +13,10 @@
 
 - #1 NCAAF Total - Under 48.5 (0.3662 expected positive-CLV probability, clv_shadow_watch, Colorado Buffaloes @ Northwestern Wildcats, 19:30)
 - #2 NCAAF Total - Under 58.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, LSU Tigers @ Ole Miss Rebels, 19:30)
-- #3 NCAAF Total - Under 53.5 (0.3626 expected positive-CLV probability, clv_shadow_watch, Louisiana Tech Bulldogs @ Baylor Bears, 16:00)
+- #3 MLB Prop - Joe Ryan (MIN) Over 14.5 Outs Recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Los Angeles Angels, 21:38)
+- #4 MLB Prop - Cam Schlittler (NYY) Under 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Arizona Diamondbacks, 20:10)
+- #5 MLB Prop - Bubba Chandler (PIT) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Kansas City Royals @ Pittsburgh Pirates, 18:40)
+- #6 MLB Prop - Nick Lodolo (CIN) Under 15.5 Outs Recorded (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago Cubs @ Cincinnati Reds, 18:40)
 
 ## Rules Of Use
 
