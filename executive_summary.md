@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 126
-- Shadow watch candidates: 3
+- Consensus rows scored: 135
+- Shadow watch candidates: 1
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,8 +12,6 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Prop - Tyler Glasnow Over 16.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, San Francisco Giants @ Los Angeles Dodgers, 22:15)
-- #2 MLB Prop - Gerrit Cole Over 15.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Yankees @ Arizona Diamondbacks, 21:40)
-- #3 MLB Prop - Connor Prielipp Over 14.5 Pitch Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Minnesota Twins @ Los Angeles Angels, 21:38)
 
 ## Rules Of Use
 
