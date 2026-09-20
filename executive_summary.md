@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 203
-- Shadow watch candidates: 4
+- Consensus rows scored: 216
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,6 @@
 
 - #1 NFL Total - Under 47.5 (0.3643 expected positive-CLV probability, clv_shadow_watch, Indianapolis Colts @ Kansas City Chiefs, 20:20)
 - #2 NFL Total - Under 40.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, Seattle Seahawks @ Arizona Cardinals, 16:25)
-- #3 NFL Total - Under 47.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, Minnesota Vikings @ Chicago Bears, 13:00)
-- #4 NFL Total - Under 39.5 (0.3627 expected positive-CLV probability, clv_shadow_watch, Philadelphia Eagles @ Tennessee Titans, 13:00)
 
 ## Rules Of Use
 
