@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 71
-- Shadow watch candidates: 5
+- Consensus rows scored: 76
+- Shadow watch candidates: 3
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -12,10 +12,8 @@
 ## Top CLV Thesis Candidates
 
 - #1 NFL Prop - Davante Adams Anytime Touchdown Scorer (0.3768 expected positive-CLV probability, clv_shadow_watch, New York Giants @ Los Angeles Rams, 20:15)
-- #2 MLB Total - Over 8 (0.373 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Detroit Tigers, 18:40)
-- #3 NFL Total - Over 47.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, New York Giants @ Los Angeles Rams, 20:15)
-- #4 NFL Total - Under 48 (0.3632 expected positive-CLV probability, clv_shadow_watch, New York Giants @ Los Angeles Rams, 20:15)
-- #5 MLB Prop - Shane Baz Under 17.5 Pitching Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Baltimore Orioles, 18:35)
+- #2 NFL Total - Over 47.5 (0.3636 expected positive-CLV probability, clv_shadow_watch, New York Giants @ Los Angeles Rams, 20:15)
+- #3 NFL Total - Under 48 (0.3632 expected positive-CLV probability, clv_shadow_watch, New York Giants @ Los Angeles Rams, 20:15)
 
 ## Rules Of Use
 
