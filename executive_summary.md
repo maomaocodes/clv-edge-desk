@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 58
-- Shadow watch candidates: 8
+- Consensus rows scored: 66
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -16,9 +16,8 @@
 - #3 MLB Prop - Michael Soroka (ARI) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
 - #4 MLB Prop - Anthony Kay (CWS) Under 13.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Kansas City Royals, 19:40)
 - #5 MLB Prop - Andre Pallante (STL) Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Pittsburgh Pirates, 18:40)
-- #6 MLB Prop - Zack Wheeler (PHI) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
-- #7 MLB Prop - Max Scherzer (TOR) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Baltimore Orioles, 18:35)
-- #8 MLB Prop - Carlos Rodon (NYY) Over 15.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 13:05)
+- #6 MLB Prop - Max Scherzer (TOR) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Baltimore Orioles, 18:35)
+- #7 MLB Prop - Zack Wheeler (PHI) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
 
 ## Rules Of Use
 
