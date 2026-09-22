@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 69
+- Consensus rows scored: 67
 - Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -12,12 +12,12 @@
 ## Top CLV Thesis Candidates
 
 - #1 MLB Total - Over 10.5 (0.3722 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
-- #2 MLB Prop - Andre Pallante (STL) Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Pittsburgh Pirates, 18:40)
-- #3 MLB Prop - Michael Soroka (ARI) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
-- #4 MLB Prop - Anthony Kay (CWS) Under 13.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Kansas City Royals, 19:40)
-- #5 MLB Prop - Michael King (SD) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #6 MLB Prop - Zack Wheeler (PHI) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
-- #7 MLB Prop - Max Scherzer (TOR) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Baltimore Orioles, 18:35)
+- #2 MLB Prop - Max Scherzer (TOR) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Toronto Blue Jays @ Baltimore Orioles, 18:35)
+- #3 MLB Prop - Zack Wheeler (PHI) Over 17.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
+- #4 MLB Prop - Andre Pallante (STL) Over 3.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, St. Louis Cardinals @ Pittsburgh Pirates, 18:40)
+- #5 MLB Prop - Anthony Kay (CWS) Under 13.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Chicago White Sox @ Kansas City Royals, 19:40)
+- #6 MLB Prop - Michael Soroka (ARI) Over 14.5 Outs (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
+- #7 MLB Prop - Michael King (SD) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 
 ## Rules Of Use
 
