@@ -2,7 +2,7 @@
 
 ## Executive Read
 
-- Consensus rows scored: 83
+- Consensus rows scored: 95
 - Shadow watch candidates: 8
 - Threshold: 0.36
 - Training CLV rows: 428
@@ -13,10 +13,10 @@
 
 - #1 MLB Total - Under 8.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
 - #2 MLB Total - Under 6.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
-- #3 MLB Prop - Sonny Gray (BOS) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
-- #4 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
+- #3 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
+- #4 MLB Prop - Nolan McLean (NYM) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
 - #5 MLB Prop - Gerrit Cole (NYY) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
-- #6 MLB Prop - Nolan McLean (NYM) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
+- #6 MLB Prop - Sonny Gray (BOS) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
 - #7 MLB Prop - Foster Griffin (CLE) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
 - #8 MLB Prop - Logan Henderson (MIL) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
 
