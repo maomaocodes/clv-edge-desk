@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 34
-- Shadow watch candidates: 0
+- Consensus rows scored: 43
+- Shadow watch candidates: 7
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,7 +11,13 @@
 
 ## Top CLV Thesis Candidates
 
-No current rows meet the CLV shadow threshold. Do not force a bet from this thesis.
+- #1 MLB Prop - Logan Henderson (MIL) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
+- #2 MLB Prop - Foster Griffin (CLE) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
+- #3 MLB Prop - Sonny Gray (BOS) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
+- #4 MLB Prop - Gerrit Cole (NYY) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
+- #5 MLB Prop - Nolan McLean (NYM) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
+- #6 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
+- #7 MLB Prop - Framber Valdez (DET) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Washington Nationals @ Detroit Tigers, 13:10)
 
 ## Rules Of Use
 
