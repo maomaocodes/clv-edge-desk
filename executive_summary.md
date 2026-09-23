@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 116
-- Shadow watch candidates: 10
+- Consensus rows scored: 128
+- Shadow watch candidates: 9
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -15,12 +15,11 @@
 - #2 WNBA Prop - Jessica Shepard Over 29.5 Points + Rebounds + Assists (0.3763 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ Seattle Storm, 22:00)
 - #3 MLB Total - Under 8 (0.373 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
 - #4 MLB Total - Under 6.5 (0.3728 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
-- #5 MLB Prop - Gerrit Cole (NYY) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
+- #5 MLB Prop - Sonny Gray (BOS) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
 - #6 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
 - #7 MLB Prop - Nolan McLean (NYM) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
-- #8 MLB Prop - Sonny Gray (BOS) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
+- #8 MLB Prop - Gerrit Cole (NYY) Over 4.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Tampa Bay Rays @ New York Yankees, 19:05)
 - #9 MLB Prop - Foster Griffin (CLE) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Cleveland Guardians @ Boston Red Sox, 19:00)
-- #10 MLB Prop - Logan Henderson (MIL) Over 14.5 Outs (only at 14.5, avoid 15.5+) (0.3603 expected positive-CLV probability, clv_shadow_watch, Milwaukee Brewers @ Philadelphia Phillies, 18:40)
 
 ## Rules Of Use
 
