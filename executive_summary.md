@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 137
-- Shadow watch candidates: 6
+- Consensus rows scored: 136
+- Shadow watch candidates: 4
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -11,12 +11,10 @@
 
 ## Top CLV Thesis Candidates
 
-- #1 MLB Total - Under 8.5 (0.3863 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
-- #2 WNBA Prop - Jessica Shepard Over 29.5 Points + Rebounds + Assists (0.3763 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ Seattle Storm, 22:00)
-- #3 MLB Total - Under 8 (0.373 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #4 MLB Total - Over 11 (0.373 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
-- #5 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
-- #6 MLB Prop - Nolan McLean (NYM) Over 5.5 Strikeouts (0.3603 expected positive-CLV probability, clv_shadow_watch, New York Mets @ Texas Rangers, 20:05)
+- #1 WNBA Prop - Jessica Shepard Over 29.5 Points + Rebounds + Assists (0.3763 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ Seattle Storm, 22:00)
+- #2 MLB Total - Under 8 (0.373 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
+- #3 MLB Total - Over 11 (0.373 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
+- #4 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
