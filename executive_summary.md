@@ -2,8 +2,8 @@
 
 ## Executive Read
 
-- Consensus rows scored: 138
-- Shadow watch candidates: 4
+- Consensus rows scored: 135
+- Shadow watch candidates: 2
 - Threshold: 0.36
 - Training CLV rows: 428
 - Refresh command: `venv/bin/python scripts/render_expected_clv_consensus_dashboard.py --consensus data/consensus/consensus_latest.csv --training-end-date 2026-06-29 --public-static`
@@ -13,8 +13,6 @@
 
 - #1 WNBA Prop - Jessica Shepard Over 29.5 Points + Rebounds + Assists (0.3763 expected positive-CLV probability, clv_shadow_watch, Dallas Wings @ Seattle Storm, 22:00)
 - #2 MLB Total - Under 8 (0.373 expected positive-CLV probability, clv_shadow_watch, San Diego Padres @ Los Angeles Dodgers, 22:10)
-- #3 MLB Total - Over 11 (0.373 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
-- #4 MLB Prop - Merril Kelly (ARI) Over 5.5 Hits Allowed (0.3603 expected positive-CLV probability, clv_shadow_watch, Arizona Diamondbacks @ Colorado Rockies, 20:40)
 
 ## Rules Of Use
 
